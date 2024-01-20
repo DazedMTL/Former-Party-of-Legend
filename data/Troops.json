@@ -1,0 +1,3776 @@
+[
+    null,
+    {
+        "id": 1,
+        "members": [
+            {
+                "enemyId": 2,
+                "x": 188,
+                "y": 489,
+                "hidden": false
+            }
+        ],
+        "name": "ウルフィン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "members": [
+            {
+                "enemyId": 2,
+                "x": 61,
+                "y": 464,
+                "hidden": false
+            },
+            {
+                "enemyId": 2,
+                "x": 358,
+                "y": 473,
+                "hidden": false
+            }
+        ],
+        "name": "ウルフィン*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "members": [
+            {
+                "enemyId": 2,
+                "x": 141,
+                "y": 497,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 412,
+                "y": 387,
+                "hidden": false
+            }
+        ],
+        "name": "ウルフィン, 凶暴なコウモリさん",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "members": [
+            {
+                "enemyId": 4,
+                "x": 118,
+                "y": 499,
+                "hidden": false
+            }
+        ],
+        "name": "凶暴なコウモリさん",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "members": [
+            {
+                "enemyId": 4,
+                "x": 41,
+                "y": 484,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 246,
+                "y": 382,
+                "hidden": false
+            }
+        ],
+        "name": "凶暴なコウモリさん*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "members": [
+            {
+                "enemyId": 4,
+                "x": 0,
+                "y": 419,
+                "hidden": false
+            },
+            {
+                "enemyId": 2,
+                "x": 201,
+                "y": 525,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 386,
+                "y": 423,
+                "hidden": false
+            }
+        ],
+        "name": "凶暴なコウモリさん*2, ウルフィン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "members": [
+            {
+                "enemyId": 8,
+                "x": 0,
+                "y": 511,
+                "hidden": false
+            },
+            {
+                "enemyId": 8,
+                "x": 309,
+                "y": 493,
+                "hidden": false
+            }
+        ],
+        "name": "ゴブリン*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "members": [
+            {
+                "enemyId": 7,
+                "x": 221,
+                "y": 513,
+                "hidden": false
+            }
+        ],
+        "name": "オーガ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "members": [
+            {
+                "enemyId": 6,
+                "x": 0,
+                "y": 499,
+                "hidden": false
+            },
+            {
+                "enemyId": 6,
+                "x": 179,
+                "y": 443,
+                "hidden": false
+            }
+        ],
+        "name": "キノコンコ*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "members": [
+            {
+                "enemyId": 7,
+                "x": 0,
+                "y": 470,
+                "hidden": false
+            },
+            {
+                "enemyId": 8,
+                "x": 238,
+                "y": 516,
+                "hidden": false
+            }
+        ],
+        "name": "オーガ, ゴブリン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "members": [
+            {
+                "enemyId": 6,
+                "x": 0,
+                "y": 487,
+                "hidden": false
+            },
+            {
+                "enemyId": 8,
+                "x": 46,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 6,
+                "x": 228,
+                "y": 440,
+                "hidden": false
+            }
+        ],
+        "name": "キノコンコ*2, ゴブリン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "members": [
+            {
+                "enemyId": 6,
+                "x": 0,
+                "y": 540,
+                "hidden": false
+            },
+            {
+                "enemyId": 7,
+                "x": 90,
+                "y": 490,
+                "hidden": false
+            },
+            {
+                "enemyId": 6,
+                "x": 273,
+                "y": 446,
+                "hidden": false
+            }
+        ],
+        "name": "キノコンコ*2, オーガ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "members": [
+            {
+                "enemyId": 6,
+                "x": 0,
+                "y": 540,
+                "hidden": false
+            },
+            {
+                "enemyId": 8,
+                "x": 179,
+                "y": 466,
+                "hidden": false
+            }
+        ],
+        "name": "キノコンコ, ゴブリン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "members": [
+            {
+                "enemyId": 7,
+                "x": 0,
+                "y": 494,
+                "hidden": false
+            },
+            {
+                "enemyId": 6,
+                "x": 253,
+                "y": 508,
+                "hidden": false
+            }
+        ],
+        "name": "オーガ, キノコンコ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "members": [
+            {
+                "enemyId": 10,
+                "x": 48,
+                "y": 461,
+                "hidden": false
+            }
+        ],
+        "name": "はぐれ触手",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "members": [
+            {
+                "enemyId": 11,
+                "x": 0,
+                "y": 469,
+                "hidden": false
+            },
+            {
+                "enemyId": 11,
+                "x": 211,
+                "y": 372,
+                "hidden": false
+            }
+        ],
+        "name": "偵察触手*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "members": [
+            {
+                "enemyId": 12,
+                "x": 136,
+                "y": 465,
+                "hidden": false
+            }
+        ],
+        "name": "触手ワーム",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "members": [
+            {
+                "enemyId": 10,
+                "x": 24,
+                "y": 497,
+                "hidden": false
+            },
+            {
+                "enemyId": 11,
+                "x": 234,
+                "y": 400,
+                "hidden": false
+            }
+        ],
+        "name": "はぐれ触手, 偵察触手",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "members": [
+            {
+                "enemyId": 10,
+                "x": 0,
+                "y": 493,
+                "hidden": false
+            },
+            {
+                "enemyId": 12,
+                "x": 198,
+                "y": 423,
+                "hidden": false
+            }
+        ],
+        "name": "はぐれ触手, 触手ワーム",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "members": [
+            {
+                "enemyId": 10,
+                "x": 0,
+                "y": 516,
+                "hidden": false
+            },
+            {
+                "enemyId": 12,
+                "x": 131,
+                "y": 422,
+                "hidden": false
+            },
+            {
+                "enemyId": 10,
+                "x": 369,
+                "y": 470,
+                "hidden": false
+            }
+        ],
+        "name": "はぐれ触手*2, 触手ワーム",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "members": [
+            {
+                "enemyId": 10,
+                "x": 0,
+                "y": 516,
+                "hidden": false
+            },
+            {
+                "enemyId": 10,
+                "x": 141,
+                "y": 438,
+                "hidden": false
+            },
+            {
+                "enemyId": 10,
+                "x": 345,
+                "y": 493,
+                "hidden": false
+            }
+        ],
+        "name": "はぐれ触手*3",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "members": [
+            {
+                "enemyId": 11,
+                "x": 0,
+                "y": 540,
+                "hidden": false
+            },
+            {
+                "enemyId": 12,
+                "x": 137,
+                "y": 447,
+                "hidden": false
+            },
+            {
+                "enemyId": 11,
+                "x": 362,
+                "y": 540,
+                "hidden": false
+            }
+        ],
+        "name": "偵察触手*2, 触手ワーム",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "members": [
+            {
+                "enemyId": 10,
+                "x": 0,
+                "y": 503,
+                "hidden": false
+            },
+            {
+                "enemyId": 10,
+                "x": 227,
+                "y": 471,
+                "hidden": false
+            }
+        ],
+        "name": "はぐれ触手*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "members": [
+            {
+                "enemyId": 10,
+                "x": 0,
+                "y": 507,
+                "hidden": false
+            },
+            {
+                "enemyId": 34,
+                "x": 131,
+                "y": 391,
+                "hidden": false
+            },
+            {
+                "enemyId": 10,
+                "x": 351,
+                "y": 461,
+                "hidden": false
+            }
+        ],
+        "name": "ボス　触手コア",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "members": [
+            {
+                "enemyId": 14,
+                "x": 0,
+                "y": 443,
+                "hidden": false
+            }
+        ],
+        "name": "ダミーミミック",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "members": [
+            {
+                "enemyId": 15,
+                "x": 0,
+                "y": 494,
+                "hidden": false
+            },
+            {
+                "enemyId": 15,
+                "x": 258,
+                "y": 433,
+                "hidden": false
+            }
+        ],
+        "name": "警備ドローン*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "members": [
+            {
+                "enemyId": 16,
+                "x": 0,
+                "y": 522,
+                "hidden": false
+            },
+            {
+                "enemyId": 16,
+                "x": 202,
+                "y": 452,
+                "hidden": false
+            }
+        ],
+        "name": "警備マシンST*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "members": [
+            {
+                "enemyId": 15,
+                "x": 0,
+                "y": 526,
+                "hidden": false
+            },
+            {
+                "enemyId": 16,
+                "x": 182,
+                "y": 433,
+                "hidden": false
+            }
+        ],
+        "name": "警備ドローン, 警備マシンST",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "members": [
+            {
+                "enemyId": 14,
+                "x": 0,
+                "y": 494,
+                "hidden": false
+            },
+            {
+                "enemyId": 14,
+                "x": 158,
+                "y": 437,
+                "hidden": false
+            }
+        ],
+        "name": "ダミーミミック*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "members": [
+            {
+                "enemyId": 15,
+                "x": 4,
+                "y": 517,
+                "hidden": false
+            },
+            {
+                "enemyId": 16,
+                "x": 135,
+                "y": 409,
+                "hidden": false
+            },
+            {
+                "enemyId": 15,
+                "x": 365,
+                "y": 474,
+                "hidden": false
+            }
+        ],
+        "name": "警備ドローン*2, 警備マシンST",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "members": [
+            {
+                "enemyId": 16,
+                "x": 0,
+                "y": 488,
+                "hidden": false
+            },
+            {
+                "enemyId": 16,
+                "x": 174,
+                "y": 438,
+                "hidden": false
+            },
+            {
+                "enemyId": 16,
+                "x": 400,
+                "y": 485,
+                "hidden": false
+            }
+        ],
+        "name": "警備マシンST*3",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "members": [
+            {
+                "enemyId": 35,
+                "x": 0,
+                "y": 423,
+                "hidden": false
+            },
+            {
+                "enemyId": 36,
+                "x": 313,
+                "y": 520,
+                "hidden": false
+            }
+        ],
+        "name": "駆動バッテリー, 駆動兵器",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "members": [
+            {
+                "enemyId": 46,
+                "x": 45,
+                "y": 478,
+                "hidden": false
+            }
+        ],
+        "name": "ブックブッカー",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "members": [
+            {
+                "enemyId": 45,
+                "x": 45,
+                "y": 452,
+                "hidden": false
+            },
+            {
+                "enemyId": 45,
+                "x": 303,
+                "y": 396,
+                "hidden": false
+            }
+        ],
+        "name": "ショー専用タイガー*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "members": [
+            {
+                "enemyId": 44,
+                "x": 18,
+                "y": 540,
+                "hidden": false
+            },
+            {
+                "enemyId": 44,
+                "x": 265,
+                "y": 452,
+                "hidden": false
+            }
+        ],
+        "name": "培養毒虫*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "members": [
+            {
+                "enemyId": 44,
+                "x": 8,
+                "y": 494,
+                "hidden": false
+            },
+            {
+                "enemyId": 45,
+                "x": 167,
+                "y": 415,
+                "hidden": false
+            }
+        ],
+        "name": "培養毒虫, ショー専用タイガー",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "members": [
+            {
+                "enemyId": 46,
+                "x": 0,
+                "y": 489,
+                "hidden": false
+            },
+            {
+                "enemyId": 46,
+                "x": 224,
+                "y": 438,
+                "hidden": false
+            }
+        ],
+        "name": "ブックブッカー*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "members": [
+            {
+                "enemyId": 46,
+                "x": 0,
+                "y": 540,
+                "hidden": false
+            },
+            {
+                "enemyId": 44,
+                "x": 187,
+                "y": 480,
+                "hidden": false
+            }
+        ],
+        "name": "ブックブッカー, 培養毒虫",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "members": [
+            {
+                "enemyId": 46,
+                "x": 0,
+                "y": 532,
+                "hidden": false
+            },
+            {
+                "enemyId": 45,
+                "x": 155,
+                "y": 457,
+                "hidden": false
+            },
+            {
+                "enemyId": 46,
+                "x": 376,
+                "y": 480,
+                "hidden": false
+            }
+        ],
+        "name": "ブックブッカー*2, ショー専用タイガー",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "members": [
+            {
+                "enemyId": 48,
+                "x": 0,
+                "y": 485,
+                "hidden": false
+            },
+            {
+                "enemyId": 48,
+                "x": 210,
+                "y": 391,
+                "hidden": false
+            }
+        ],
+        "name": "クリスタン*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "members": [
+            {
+                "enemyId": 49,
+                "x": 4,
+                "y": 503,
+                "hidden": false
+            },
+            {
+                "enemyId": 49,
+                "x": 236,
+                "y": 452,
+                "hidden": false
+            }
+        ],
+        "name": "カブゴン*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "members": [
+            {
+                "enemyId": 50,
+                "x": 9,
+                "y": 489,
+                "hidden": false
+            },
+            {
+                "enemyId": 50,
+                "x": 226,
+                "y": 452,
+                "hidden": false
+            }
+        ],
+        "name": "擬態娘*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "members": [
+            {
+                "enemyId": 48,
+                "x": 0,
+                "y": 480,
+                "hidden": false
+            },
+            {
+                "enemyId": 49,
+                "x": 191,
+                "y": 429,
+                "hidden": false
+            }
+        ],
+        "name": "クリスタン, カブゴン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "members": [
+            {
+                "enemyId": 50,
+                "x": 0,
+                "y": 540,
+                "hidden": false
+            },
+            {
+                "enemyId": 49,
+                "x": 151,
+                "y": 457,
+                "hidden": false
+            },
+            {
+                "enemyId": 50,
+                "x": 365,
+                "y": 499,
+                "hidden": false
+            }
+        ],
+        "name": "擬態娘*2, カブゴン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "members": [
+            {
+                "enemyId": 48,
+                "x": 0,
+                "y": 503,
+                "hidden": false
+            },
+            {
+                "enemyId": 48,
+                "x": 160,
+                "y": 429,
+                "hidden": false
+            },
+            {
+                "enemyId": 48,
+                "x": 368,
+                "y": 443,
+                "hidden": false
+            }
+        ],
+        "name": "クリスタン*3",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "members": [
+            {
+                "enemyId": 50,
+                "x": 0,
+                "y": 540,
+                "hidden": false
+            },
+            {
+                "enemyId": 48,
+                "x": 202,
+                "y": 433,
+                "hidden": false
+            }
+        ],
+        "name": "擬態娘, クリスタン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "members": [
+            {
+                "enemyId": 50,
+                "x": 8,
+                "y": 471,
+                "hidden": false
+            },
+            {
+                "enemyId": 49,
+                "x": 216,
+                "y": 414,
+                "hidden": false
+            }
+        ],
+        "name": "擬態娘, カブゴン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "members": [
+            {
+                "enemyId": 37,
+                "x": 90,
+                "y": 499,
+                "hidden": false
+            }
+        ],
+        "name": "グウラス",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "members": [
+            {
+                "enemyId": 19,
+                "x": 0,
+                "y": 540,
+                "hidden": false
+            },
+            {
+                "enemyId": 20,
+                "x": 241,
+                "y": 443,
+                "hidden": false
+            }
+        ],
+        "name": "地下水路のイカマン, キングカニ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "members": [
+            {
+                "enemyId": 20,
+                "x": 0,
+                "y": 540,
+                "hidden": false
+            },
+            {
+                "enemyId": 20,
+                "x": 222,
+                "y": 480,
+                "hidden": false
+            }
+        ],
+        "name": "キングカニ*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "members": [
+            {
+                "enemyId": 19,
+                "x": 0,
+                "y": 517,
+                "hidden": false
+            },
+            {
+                "enemyId": 19,
+                "x": 288,
+                "y": 457,
+                "hidden": false
+            }
+        ],
+        "name": "地下水路のイカマン*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "members": [
+            {
+                "enemyId": 20,
+                "x": 0,
+                "y": 540,
+                "hidden": false
+            },
+            {
+                "enemyId": 19,
+                "x": 183,
+                "y": 480,
+                "hidden": false
+            },
+            {
+                "enemyId": 20,
+                "x": 444,
+                "y": 475,
+                "hidden": false
+            }
+        ],
+        "name": "キングカニ*2, 地下水路のイカマン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "members": [
+            {
+                "enemyId": 19,
+                "x": 0,
+                "y": 532,
+                "hidden": false
+            },
+            {
+                "enemyId": 20,
+                "x": 183,
+                "y": 438,
+                "hidden": false
+            },
+            {
+                "enemyId": 19,
+                "x": 384,
+                "y": 485,
+                "hidden": false
+            }
+        ],
+        "name": "地下水路のイカマン*2, キングカニ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "members": [
+            {
+                "enemyId": 22,
+                "x": 0,
+                "y": 513,
+                "hidden": false
+            },
+            {
+                "enemyId": 22,
+                "x": 128,
+                "y": 438,
+                "hidden": false
+            }
+        ],
+        "name": "いたぶりくん*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "members": [
+            {
+                "enemyId": 23,
+                "x": 0,
+                "y": 466,
+                "hidden": false
+            },
+            {
+                "enemyId": 23,
+                "x": 154,
+                "y": 457,
+                "hidden": false
+            }
+        ],
+        "name": "全自動切り裂きソード*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "members": [
+            {
+                "enemyId": 24,
+                "x": 0,
+                "y": 466,
+                "hidden": false
+            },
+            {
+                "enemyId": 24,
+                "x": 181,
+                "y": 433,
+                "hidden": false
+            }
+        ],
+        "name": "玩具ヌイグルマ*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "members": [
+            {
+                "enemyId": 22,
+                "x": 0,
+                "y": 522,
+                "hidden": false
+            },
+            {
+                "enemyId": 24,
+                "x": 122,
+                "y": 433,
+                "hidden": false
+            },
+            {
+                "enemyId": 22,
+                "x": 304,
+                "y": 485,
+                "hidden": false
+            }
+        ],
+        "name": "いたぶりくん*2, 玩具ヌイグルマ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "members": [
+            {
+                "enemyId": 22,
+                "x": 0,
+                "y": 525,
+                "hidden": false
+            },
+            {
+                "enemyId": 24,
+                "x": 128,
+                "y": 438,
+                "hidden": false
+            }
+        ],
+        "name": "いたぶりくん, 玩具ヌイグルマ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "members": [
+            {
+                "enemyId": 22,
+                "x": 16,
+                "y": 485,
+                "hidden": false
+            },
+            {
+                "enemyId": 23,
+                "x": 179,
+                "y": 461,
+                "hidden": false
+            }
+        ],
+        "name": "いたぶりくん, 全自動切り裂きソード",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "members": [
+            {
+                "enemyId": 24,
+                "x": 0,
+                "y": 503,
+                "hidden": false
+            },
+            {
+                "enemyId": 23,
+                "x": 137,
+                "y": 471,
+                "hidden": false
+            },
+            {
+                "enemyId": 24,
+                "x": 321,
+                "y": 461,
+                "hidden": false
+            }
+        ],
+        "name": "玩具ヌイグルマ*2, 全自動切り裂きソード",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "members": [
+            {
+                "enemyId": 23,
+                "x": 0,
+                "y": 471,
+                "hidden": false
+            },
+            {
+                "enemyId": 24,
+                "x": 197,
+                "y": 485,
+                "hidden": false
+            }
+        ],
+        "name": "全自動切り裂きソード, 玩具ヌイグルマ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "members": [
+            {
+                "enemyId": 23,
+                "x": 0,
+                "y": 461,
+                "hidden": false
+            },
+            {
+                "enemyId": 22,
+                "x": 174,
+                "y": 489,
+                "hidden": false
+            },
+            {
+                "enemyId": 23,
+                "x": 309,
+                "y": 456,
+                "hidden": false
+            }
+        ],
+        "name": "全自動切り裂きソード*2, いたぶりくん",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "members": [
+            {
+                "enemyId": 22,
+                "x": 0,
+                "y": 471,
+                "hidden": false
+            },
+            {
+                "enemyId": 22,
+                "x": 127,
+                "y": 438,
+                "hidden": false
+            },
+            {
+                "enemyId": 22,
+                "x": 279,
+                "y": 461,
+                "hidden": false
+            }
+        ],
+        "name": "いたぶりくん*3",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "members": [
+            {
+                "enemyId": 38,
+                "x": 34,
+                "y": 475,
+                "hidden": false
+            }
+        ],
+        "name": "洗脳少女アメリ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "members": [
+            {
+                "enemyId": 26,
+                "x": 0,
+                "y": 517,
+                "hidden": false
+            },
+            {
+                "enemyId": 26,
+                "x": 216,
+                "y": 443,
+                "hidden": false
+            }
+        ],
+        "name": "傭兵隊(遠距離型）*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "members": [
+            {
+                "enemyId": 27,
+                "x": 0,
+                "y": 522,
+                "hidden": false
+            },
+            {
+                "enemyId": 27,
+                "x": 157,
+                "y": 475,
+                "hidden": false
+            }
+        ],
+        "name": "ガードマン*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "members": [
+            {
+                "enemyId": 28,
+                "x": 0,
+                "y": 512,
+                "hidden": false
+            },
+            {
+                "enemyId": 28,
+                "x": 220,
+                "y": 447,
+                "hidden": false
+            }
+        ],
+        "name": "傭兵隊(近接型）*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "members": [
+            {
+                "enemyId": 28,
+                "x": 0,
+                "y": 508,
+                "hidden": false
+            },
+            {
+                "enemyId": 27,
+                "x": 168,
+                "y": 438,
+                "hidden": false
+            }
+        ],
+        "name": "傭兵隊(近接型）, ガードマン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "members": [
+            {
+                "enemyId": 26,
+                "x": 4,
+                "y": 517,
+                "hidden": false
+            },
+            {
+                "enemyId": 27,
+                "x": 184,
+                "y": 471,
+                "hidden": false
+            }
+        ],
+        "name": "傭兵隊(遠距離型）, ガードマン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "members": [
+            {
+                "enemyId": 28,
+                "x": 0,
+                "y": 540,
+                "hidden": false
+            },
+            {
+                "enemyId": 26,
+                "x": 159,
+                "y": 466,
+                "hidden": false
+            },
+            {
+                "enemyId": 28,
+                "x": 324,
+                "y": 527,
+                "hidden": false
+            }
+        ],
+        "name": "傭兵隊(近接型）*2, 傭兵隊(遠距離型）",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "members": [
+            {
+                "enemyId": 26,
+                "x": 0,
+                "y": 479,
+                "hidden": false
+            },
+            {
+                "enemyId": 28,
+                "x": 178,
+                "y": 525,
+                "hidden": false
+            },
+            {
+                "enemyId": 26,
+                "x": 360,
+                "y": 474,
+                "hidden": false
+            }
+        ],
+        "name": "傭兵隊(遠距離型）*2, 傭兵隊(近接型）",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "members": [
+            {
+                "enemyId": 27,
+                "x": 0,
+                "y": 527,
+                "hidden": false
+            },
+            {
+                "enemyId": 26,
+                "x": 132,
+                "y": 461,
+                "hidden": false
+            },
+            {
+                "enemyId": 27,
+                "x": 284,
+                "y": 485,
+                "hidden": false
+            }
+        ],
+        "name": "ガードマン*2, 傭兵隊(遠距離型）",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "members": [
+            {
+                "enemyId": 41,
+                "x": 137,
+                "y": 532,
+                "hidden": false
+            }
+        ],
+        "name": "傭兵リーダー(元）",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "members": [
+            {
+                "enemyId": 32,
+                "x": 0,
+                "y": 443,
+                "hidden": false
+            },
+            {
+                "enemyId": 32,
+                "x": 223,
+                "y": 377,
+                "hidden": false
+            }
+        ],
+        "name": "謎のワーム*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "members": [
+            {
+                "enemyId": 31,
+                "x": 0,
+                "y": 466,
+                "hidden": false
+            },
+            {
+                "enemyId": 31,
+                "x": 189,
+                "y": 424,
+                "hidden": false
+            }
+        ],
+        "name": "パラライズポット*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "members": [
+            {
+                "enemyId": 30,
+                "x": 0,
+                "y": 475,
+                "hidden": false
+            },
+            {
+                "enemyId": 30,
+                "x": 246,
+                "y": 414,
+                "hidden": false
+            }
+        ],
+        "name": "お掃除ロボ*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "members": [
+            {
+                "enemyId": 31,
+                "x": 0,
+                "y": 480,
+                "hidden": false
+            },
+            {
+                "enemyId": 30,
+                "x": 221,
+                "y": 404,
+                "hidden": false
+            }
+        ],
+        "name": "パラライズポット, お掃除ロボ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "members": [
+            {
+                "enemyId": 32,
+                "x": 0,
+                "y": 475,
+                "hidden": false
+            },
+            {
+                "enemyId": 32,
+                "x": 188,
+                "y": 400,
+                "hidden": false
+            },
+            {
+                "enemyId": 32,
+                "x": 403,
+                "y": 452,
+                "hidden": false
+            }
+        ],
+        "name": "謎のワーム*3",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "members": [
+            {
+                "enemyId": 32,
+                "x": 0,
+                "y": 480,
+                "hidden": false
+            },
+            {
+                "enemyId": 31,
+                "x": 153,
+                "y": 424,
+                "hidden": false
+            }
+        ],
+        "name": "謎のワーム, パラライズポット",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "members": [
+            {
+                "enemyId": 32,
+                "x": 0,
+                "y": 474,
+                "hidden": false
+            },
+            {
+                "enemyId": 30,
+                "x": 209,
+                "y": 433,
+                "hidden": false
+            }
+        ],
+        "name": "謎のワーム, エージェント隊",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "members": [
+            {
+                "enemyId": 30,
+                "x": 0,
+                "y": 489,
+                "hidden": false
+            },
+            {
+                "enemyId": 31,
+                "x": 160,
+                "y": 414,
+                "hidden": false
+            },
+            {
+                "enemyId": 30,
+                "x": 379,
+                "y": 474,
+                "hidden": false
+            }
+        ],
+        "name": "エージェント隊*2, パラライズポット",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "members": [
+            {
+                "enemyId": 42,
+                "x": 61,
+                "y": 540,
+                "hidden": false
+            }
+        ],
+        "name": "ティナ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    }
+]

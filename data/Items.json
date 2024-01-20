@@ -1,0 +1,1727 @@
+[
+    null,
+    {
+        "id": 1,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "回復アイテムより上位に表示したいアイテム用の枠です。",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "-----予備",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 2,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 3,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 4,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 5,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 6,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "-----回復系",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 7,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "HPが300回復するお薬。甘い味がする。",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 300
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "ポーション",
+        "note": "",
+        "occasion": 0,
+        "price": 100,
+        "repeats": 1,
+        "scope": 11,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 8,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "HPが800回復するお薬。凄く甘い味がする。",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 800
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "ハイポーション",
+        "note": "",
+        "occasion": 0,
+        "price": 500,
+        "repeats": 1,
+        "scope": 11,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 9,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "ＨＰを完全に回復する。",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "MAXポーション",
+        "note": "",
+        "occasion": 0,
+        "price": 1500,
+        "repeats": 1,
+        "scope": 11,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 10,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "ＭＰを100回復する。",
+        "effects": [
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 100
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "エーテル",
+        "note": "",
+        "occasion": 0,
+        "price": 500,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 11,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "味方一人のがＭＰ全回復する。",
+        "effects": [
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "MAXエーテル",
+        "note": "",
+        "occasion": 0,
+        "price": 2500,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 12,
+        "animationId": 46,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "状態異常を回復する。",
+        "effects": [
+            {
+                "code": 22,
+                "dataId": 4,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 5,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 6,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 7,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 9,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 10,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 13,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 12,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 181,
+        "itypeId": 1,
+        "name": "万能薬",
+        "note": "",
+        "occasion": 1,
+        "price": 500,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 13,
+        "animationId": 45,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "毒、麻痺状態を治療する。",
+        "effects": [
+            {
+                "code": 22,
+                "dataId": 4,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 12,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "アンチドーテ",
+        "note": "",
+        "occasion": 0,
+        "price": 80,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 14,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "ＨＰとＭＰを半分回復する。",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0.5,
+                "value2": 0
+            },
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 0.5,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "ミラクルドロップ",
+        "note": "",
+        "occasion": 0,
+        "price": 450,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 15,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "HPとMPが全回復するお薬。不思議な味がする。",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "エリクサー",
+        "note": "",
+        "occasion": 0,
+        "price": 10000,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 16,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "普通のおにぎり。\n食べるとHPを300、MPを50回復する。",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 300
+            },
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 50
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "おにぎり",
+        "note": "",
+        "occasion": 0,
+        "price": 700,
+        "repeats": 1,
+        "scope": 11,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 17,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "-----特殊系",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 18,
+        "animationId": 55,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "相手に投げると触手が増殖して絡めとり\n防御力と素早さを大きく下げる。",
+        "effects": [
+            {
+                "code": 32,
+                "dataId": 3,
+                "value1": 5,
+                "value2": 0
+            },
+            {
+                "code": 32,
+                "dataId": 3,
+                "value1": 5,
+                "value2": 0
+            },
+            {
+                "code": 32,
+                "dataId": 6,
+                "value1": 5,
+                "value2": 0
+            },
+            {
+                "code": 32,
+                "dataId": 6,
+                "value1": 5,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 74,
+        "itypeId": 1,
+        "name": "触手ボム",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 2,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 19,
+        "animationId": 50,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "飲むとしばらくの間\n戦闘で得られるアイテムや賞金の獲得率を上げる。",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 30,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "ラッキーミルク",
+        "note": "",
+        "occasion": 2,
+        "price": 300,
+        "repeats": 1,
+        "scope": 11,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 20,
+        "animationId": 51,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "戦闘中に使うと攻撃力がアップする不思議なキノコ。\n女の子もビンビンになる。",
+        "effects": [
+            {
+                "code": 31,
+                "dataId": 2,
+                "value1": 5,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 261,
+        "itypeId": 1,
+        "name": "ビンビンキノコ",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 11,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 21,
+        "animationId": 51,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "戦闘中に使うと攻撃力が凄くアップするエッチなキノコ。\n女の子もビンビンビクビクになる。",
+        "effects": [
+            {
+                "code": 31,
+                "dataId": 2,
+                "value1": 5,
+                "value2": 0
+            },
+            {
+                "code": 31,
+                "dataId": 2,
+                "value1": 5,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 261,
+        "itypeId": 1,
+        "name": "超ビンビンキノコ",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 11,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 22,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "-----強化系",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 23,
+        "animationId": 51,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "最大ＨＰを５０ポイント上げる。",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 0,
+                "value1": 50,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 32,
+        "itypeId": 1,
+        "name": "ライフアップ",
+        "note": "",
+        "occasion": 2,
+        "price": 3000,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 24,
+        "animationId": 51,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "最大ＭＰを１０ポイント上げる。",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 1,
+                "value1": 10,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 33,
+        "itypeId": 1,
+        "name": "マナアップ",
+        "note": "",
+        "occasion": 2,
+        "price": 3000,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 25,
+        "animationId": 51,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "攻撃力を３ポイント上げる。",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 2,
+                "value1": 3,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 34,
+        "itypeId": 1,
+        "name": "パワーアップ",
+        "note": "",
+        "occasion": 2,
+        "price": 3000,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 26,
+        "animationId": 51,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "防御力を３ポイント上げる。",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 3,
+                "value1": 3,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 35,
+        "itypeId": 1,
+        "name": "ガードアップ",
+        "note": "",
+        "occasion": 2,
+        "price": 3000,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 27,
+        "animationId": 51,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "魔法力を３ポイント上げる。",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 4,
+                "value1": 3,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 36,
+        "itypeId": 1,
+        "name": "マジックアップ",
+        "note": "",
+        "occasion": 2,
+        "price": 3000,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 28,
+        "animationId": 51,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "魔法防御力を３ポイント上げる。",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 5,
+                "value1": 3,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 37,
+        "itypeId": 1,
+        "name": "レジストアップ",
+        "note": "",
+        "occasion": 2,
+        "price": 3000,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 29,
+        "animationId": 51,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "敏捷性を３ポイント上げる。",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 6,
+                "value1": 3,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 38,
+        "itypeId": 1,
+        "name": "スピードアップ",
+        "note": "",
+        "occasion": 2,
+        "price": 3000,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 30,
+        "animationId": 51,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "運を３ポイント上げる。",
+        "effects": [
+            {
+                "code": 42,
+                "dataId": 7,
+                "value1": 3,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 39,
+        "itypeId": 1,
+        "name": "ラックアップ",
+        "note": "",
+        "occasion": 2,
+        "price": 3000,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 31,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "普通のおにぎり。\n食べるとHPを800、MPを100回復する。",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 800
+            },
+            {
+                "code": 12,
+                "dataId": 0,
+                "value1": 0,
+                "value2": 100
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "焼きおにぎり",
+        "note": "",
+        "occasion": 0,
+        "price": 1200,
+        "repeats": 1,
+        "scope": 11,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 32,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "甘いチョコレート。\n食べるとHPを50％回復し、戦闘中は状態異常も回復する。",
+        "effects": [
+            {
+                "code": 11,
+                "dataId": 0,
+                "value1": 0.5,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 4,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 5,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 6,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 7,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 9,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 10,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 13,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 22,
+                "dataId": 12,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "チョコレート",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 11,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 33,
+        "animationId": 41,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "食べるとTPが50増加する特殊なキャンディ。",
+        "effects": [
+            {
+                "code": 13,
+                "dataId": 0,
+                "value1": 50,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "不思議なキャンディ",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 11,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 34,
+        "animationId": 224,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "もくもくと煙が立ち上り敵全体の命中率が下がる。",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 5,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "煙玉",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 2,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 35,
+        "animationId": 54,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "敵単体に投げつけ命中率と素早さを下げる。",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 5,
+                "value1": 1,
+                "value2": 0
+            },
+            {
+                "code": 32,
+                "dataId": 6,
+                "value1": 5,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 228,
+        "itypeId": 1,
+        "name": "イカ墨",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 1,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 36,
+        "animationId": 57,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "使うと敵一体を拘束し、しばらく動けなくする。",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 11,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 188,
+        "itypeId": 1,
+        "name": "簡易テープ",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 1,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 37,
+        "animationId": 57,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "使うと敵全体を拘束し、しばらく動けなくする。",
+        "effects": [
+            {
+                "code": 21,
+                "dataId": 11,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 188,
+        "itypeId": 1,
+        "name": "強力なテープ",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 2,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 38,
+        "animationId": 203,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "300",
+            "type": 1,
+            "variance": 0
+        },
+        "description": "敵単体に300のダメージを与える。",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 218,
+        "itypeId": 1,
+        "name": "ボム",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 1,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 39,
+        "animationId": 0,
+        "consumable": false,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "何かのコアのかけら。\nこれだけでは何も起こらない。",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 171,
+        "itypeId": 2,
+        "name": "コアの欠片",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 40,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "技術書",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 41,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "セルティが読むと\nエクスヒールを習得できる技巧書。",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 154,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 186,
+        "itypeId": 1,
+        "name": "ヒール技巧書",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 11,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 42,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "使用すると術式、ジハードを習得できる。",
+        "effects": [
+            {
+                "code": 43,
+                "dataId": 154,
+                "value1": 1,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 165,
+        "itypeId": 1,
+        "name": "ジハードの宝玉",
+        "note": "",
+        "occasion": 2,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 43,
+        "animationId": 204,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "600",
+            "type": 1,
+            "variance": 0
+        },
+        "description": "敵全体に600のダメージを与える",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 218,
+        "itypeId": 1,
+        "name": "スーパーボム",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 1,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 44,
+        "animationId": 131,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "500",
+            "type": 1,
+            "variance": 10
+        },
+        "description": "敵に投げると、500前後のダメージを与える。",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 118,
+        "itypeId": 1,
+        "name": "いたぶりくんの斧",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 1,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 45,
+        "animationId": 51,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "栄養価が高く、攻撃力と素早さが一時的に上がる。",
+        "effects": [
+            {
+                "code": 31,
+                "dataId": 2,
+                "value1": 5,
+                "value2": 0
+            },
+            {
+                "code": 31,
+                "dataId": 6,
+                "value1": 5,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 176,
+        "itypeId": 1,
+        "name": "はちみつ",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 11,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 46,
+        "animationId": 51,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "食べると何故か皮膚が一時的に硬くなり\n防御力が凄く上がる。",
+        "effects": [
+            {
+                "code": 31,
+                "dataId": 3,
+                "value1": 5,
+                "value2": 0
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value1": 5,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 43,
+        "itypeId": 2,
+        "name": "魔物のカニ肉",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 11,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 47,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "素早さがググンと上がる謎の薬。\nただし攻撃力は少し下がる。",
+        "effects": [
+            {
+                "code": 31,
+                "dataId": 6,
+                "value1": 5,
+                "value2": 0
+            },
+            {
+                "code": 31,
+                "dataId": 6,
+                "value1": 5,
+                "value2": 0
+            },
+            {
+                "code": 32,
+                "dataId": 2,
+                "value1": 5,
+                "value2": 0
+            }
+        ],
+        "hitType": 0,
+        "iconIndex": 82,
+        "itypeId": 1,
+        "name": "超加速薬",
+        "note": "",
+        "occasion": 1,
+        "price": 0,
+        "repeats": 1,
+        "scope": 11,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 48,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 49,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 0,
+        "itypeId": 1,
+        "name": "",
+        "note": "",
+        "occasion": 0,
+        "price": 0,
+        "repeats": 1,
+        "scope": 7,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    },
+    {
+        "id": 50,
+        "animationId": 0,
+        "consumable": true,
+        "damage": {
+            "critical": false,
+            "elementId": 0,
+            "formula": "0",
+            "type": 0,
+            "variance": 20
+        },
+        "description": "装器を作った時のあまり。記念に取ってある。",
+        "effects": [],
+        "hitType": 0,
+        "iconIndex": 303,
+        "itypeId": 2,
+        "name": "エルドグラス鉱石",
+        "note": "",
+        "occasion": 3,
+        "price": 0,
+        "repeats": 1,
+        "scope": 0,
+        "speed": 0,
+        "successRate": 100,
+        "tpGain": 0
+    }
+]
