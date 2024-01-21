@@ -9601,7 +9601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "傭兵「魔王が倒されてから、いろいろな基地の傭兵も解雇される人が多くてね   」"
+                                "Mercenary: \"Since the Demon Lord was defeated, a lot of\nmercenaries from various bases have been getting laid\noff...\""
                             ]
                         },
                         {
@@ -9619,7 +9619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "傭兵「そういた人達が、お金のために悪い組織の傭兵をするてのが増えてきているんだよ   」"
+                                "Mercenary: \"And those people, they're starting to work as\nmercenaries for bad organizations just for the money...\""
                             ]
                         },
                         {
