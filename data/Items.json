@@ -11,12 +11,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "回復アイテムより上位に表示したいアイテム用の枠です。",
+        "description": "This is a slot for items that you want to display above healing items.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----予備",
+        "name": "-----Reserves",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -146,7 +146,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----回復系",
+        "name": "-----Recovery Series",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -167,7 +167,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "HPが300回復するお薬。甘い味がする。",
+        "description": "A medicine that restores 300 HP. It has a sweet taste.",
         "effects": [
             {
                 "code": 11,
@@ -179,7 +179,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ポーション",
+        "name": "Potion",
         "note": "",
         "occasion": 0,
         "price": 100,
@@ -200,7 +200,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "HPが800回復するお薬。凄く甘い味がする。",
+        "description": "A medicine that restores 800 HP. It has a very sweet taste.",
         "effects": [
             {
                 "code": 11,
@@ -212,7 +212,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ハイポーション",
+        "name": "High Potion",
         "note": "",
         "occasion": 0,
         "price": 500,
@@ -233,7 +233,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを完全に回復する。",
+        "description": "Completely restores HP.",
         "effects": [
             {
                 "code": 11,
@@ -245,7 +245,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "MAXポーション",
+        "name": "MAX Potion",
         "note": "",
         "occasion": 0,
         "price": 1500,
@@ -266,7 +266,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＭＰを100回復する。",
+        "description": "Restores 100 MP.",
         "effects": [
             {
                 "code": 12,
@@ -278,7 +278,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "エーテル",
+        "name": "Ether",
         "note": "",
         "occasion": 0,
         "price": 500,
@@ -299,7 +299,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方一人のがＭＰ全回復する。",
+        "description": "Restores all MP for one ally.",
         "effects": [
             {
                 "code": 12,
@@ -311,7 +311,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "MAXエーテル",
+        "name": "MAX Ether",
         "note": "",
         "occasion": 0,
         "price": 2500,
@@ -332,7 +332,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "状態異常を回復する。",
+        "description": "Recovers from status ailments.",
         "effects": [
             {
                 "code": 22,
@@ -392,7 +392,7 @@
         "hitType": 0,
         "iconIndex": 181,
         "itypeId": 1,
-        "name": "万能薬",
+        "name": "Panacea",
         "note": "",
         "occasion": 1,
         "price": 500,
@@ -413,7 +413,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "毒、麻痺状態を治療する。",
+        "description": "Cures poison and paralysis.",
         "effects": [
             {
                 "code": 22,
@@ -431,7 +431,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "アンチドーテ",
+        "name": "Antidote",
         "note": "",
         "occasion": 0,
         "price": 80,
@@ -452,7 +452,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰとＭＰを半分回復する。",
+        "description": "Restores half of HP and MP.",
         "effects": [
             {
                 "code": 11,
@@ -470,7 +470,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ミラクルドロップ",
+        "name": "Miracle Drop",
         "note": "",
         "occasion": 0,
         "price": 450,
@@ -491,7 +491,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "HPとMPが全回復するお薬。不思議な味がする。",
+        "description": "A medicine that fully restores HP and MP. It has a mysterious taste.",
         "effects": [
             {
                 "code": 11,
@@ -509,7 +509,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "エリクサー",
+        "name": "Elixir",
         "note": "",
         "occasion": 0,
         "price": 10000,
@@ -530,7 +530,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "普通のおにぎり。\n食べるとHPを300、MPを50回復する。",
+        "description": "A normal rice ball. Eating it restores 300 HP and 50 MP.",
         "effects": [
             {
                 "code": 11,
@@ -548,7 +548,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "おにぎり",
+        "name": "Rice Ball",
         "note": "",
         "occasion": 0,
         "price": 700,
@@ -574,7 +574,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----特殊系",
+        "name": "-----Special Series",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -595,7 +595,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "相手に投げると触手が増殖して絡めとり\n防御力と素早さを大きく下げる。",
+        "description": "Throwing it at an enemy causes tentacles to proliferate and entangle,\ngreatly reducing defense and agility.",
         "effects": [
             {
                 "code": 32,
@@ -625,7 +625,7 @@
         "hitType": 0,
         "iconIndex": 74,
         "itypeId": 1,
-        "name": "触手ボム",
+        "name": "Tentacle Bomb",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -646,7 +646,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "飲むとしばらくの間\n戦闘で得られるアイテムや賞金の獲得率を上げる。",
+        "description": "Drinking it temporarily increases the rate of obtaining items and\nmoney from battles.",
         "effects": [
             {
                 "code": 21,
@@ -658,7 +658,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ラッキーミルク",
+        "name": "Lucky Milk",
         "note": "",
         "occasion": 2,
         "price": 300,
@@ -679,7 +679,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘中に使うと攻撃力がアップする不思議なキノコ。\n女の子もビンビンになる。",
+        "description": "A mysterious mushroom used in battle that increases attack power. It\nalso gets girls really excited.",
         "effects": [
             {
                 "code": 31,
@@ -691,7 +691,7 @@
         "hitType": 0,
         "iconIndex": 261,
         "itypeId": 1,
-        "name": "ビンビンキノコ",
+        "name": "Viagra Mushroom",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -712,7 +712,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘中に使うと攻撃力が凄くアップするエッチなキノコ。\n女の子もビンビンビクビクになる。",
+        "description": "An erotic mushroom used in battle that greatly increases attack power.\nIt makes girls very excited and twitchy.",
         "effects": [
             {
                 "code": 31,
@@ -730,7 +730,7 @@
         "hitType": 0,
         "iconIndex": 261,
         "itypeId": 1,
-        "name": "超ビンビンキノコ",
+        "name": "Super Viagra Mushroom",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -756,7 +756,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----強化系",
+        "name": "-----Enhancement Series",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -777,7 +777,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＨＰを５０ポイント上げる。",
+        "description": "Increases maximum HP by 50 points.",
         "effects": [
             {
                 "code": 42,
@@ -789,7 +789,7 @@
         "hitType": 0,
         "iconIndex": 32,
         "itypeId": 1,
-        "name": "ライフアップ",
+        "name": "Life Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -810,7 +810,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＭＰを１０ポイント上げる。",
+        "description": "Increases maximum MP by 10 points.",
         "effects": [
             {
                 "code": 42,
@@ -822,7 +822,7 @@
         "hitType": 0,
         "iconIndex": 33,
         "itypeId": 1,
-        "name": "マナアップ",
+        "name": "Mana Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -843,7 +843,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "攻撃力を３ポイント上げる。",
+        "description": "Increases attack power by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -855,7 +855,7 @@
         "hitType": 0,
         "iconIndex": 34,
         "itypeId": 1,
-        "name": "パワーアップ",
+        "name": "Power Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -876,7 +876,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "防御力を３ポイント上げる。",
+        "description": "Increases defense by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -888,7 +888,7 @@
         "hitType": 0,
         "iconIndex": 35,
         "itypeId": 1,
-        "name": "ガードアップ",
+        "name": "Guard Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -909,7 +909,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法力を３ポイント上げる。",
+        "description": "Increases magic power by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -921,7 +921,7 @@
         "hitType": 0,
         "iconIndex": 36,
         "itypeId": 1,
-        "name": "マジックアップ",
+        "name": "Magic Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -942,7 +942,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法防御力を３ポイント上げる。",
+        "description": "Increases magic defense by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -954,7 +954,7 @@
         "hitType": 0,
         "iconIndex": 37,
         "itypeId": 1,
-        "name": "レジストアップ",
+        "name": "Resist Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -975,7 +975,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "敏捷性を３ポイント上げる。",
+        "description": "Increases agility by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -987,7 +987,7 @@
         "hitType": 0,
         "iconIndex": 38,
         "itypeId": 1,
-        "name": "スピードアップ",
+        "name": "Speed Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -1008,7 +1008,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "運を３ポイント上げる。",
+        "description": "Increases luck by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -1020,7 +1020,7 @@
         "hitType": 0,
         "iconIndex": 39,
         "itypeId": 1,
-        "name": "ラックアップ",
+        "name": "Luck Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -1041,7 +1041,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "普通のおにぎり。\n食べるとHPを800、MPを100回復する。",
+        "description": "A normal rice ball. Eating it restores 800 HP and 100 MP.",
         "effects": [
             {
                 "code": 11,
@@ -1059,7 +1059,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "焼きおにぎり",
+        "name": "Grilled Rice Ball",
         "note": "",
         "occasion": 0,
         "price": 1200,
@@ -1080,7 +1080,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "甘いチョコレート。\n食べるとHPを50％回復し、戦闘中は状態異常も回復する。",
+        "description": "Sweet chocolate. Eating it restores 50% of HP and also recovers from\nstatus ailments during battle.",
         "effects": [
             {
                 "code": 11,
@@ -1146,7 +1146,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "チョコレート",
+        "name": "Chocolate",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1167,7 +1167,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "食べるとTPが50増加する特殊なキャンディ。",
+        "description": "Eating it increases TP by 50 with this special candy.",
         "effects": [
             {
                 "code": 13,
@@ -1179,7 +1179,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "不思議なキャンディ",
+        "name": "Mysterious Candy",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1200,7 +1200,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "もくもくと煙が立ち上り敵全体の命中率が下がる。",
+        "description": "Produces smoke that reduces the enemy's accuracy for all enemies.",
         "effects": [
             {
                 "code": 21,
@@ -1212,7 +1212,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "煙玉",
+        "name": "Smoke Bomb",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1233,7 +1233,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "敵単体に投げつけ命中率と素早さを下げる。",
+        "description": "Throw it at a single enemy to reduce their accuracy and agility.",
         "effects": [
             {
                 "code": 21,
@@ -1251,7 +1251,7 @@
         "hitType": 0,
         "iconIndex": 228,
         "itypeId": 1,
-        "name": "イカ墨",
+        "name": "Squid Ink",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -1272,7 +1272,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使うと敵一体を拘束し、しばらく動けなくする。",
+        "description": "Restrains a single enemy, preventing them from moving for a while.",
         "effects": [
             {
                 "code": 21,
@@ -1284,7 +1284,7 @@
         "hitType": 0,
         "iconIndex": 188,
         "itypeId": 1,
-        "name": "簡易テープ",
+        "name": "Simple Tape",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -1305,7 +1305,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使うと敵全体を拘束し、しばらく動けなくする。",
+        "description": "Restrains all enemies, preventing them from moving for a while.",
         "effects": [
             {
                 "code": 21,
@@ -1317,7 +1317,7 @@
         "hitType": 0,
         "iconIndex": 188,
         "itypeId": 1,
-        "name": "強力なテープ",
+        "name": "Strong Tape",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -1338,12 +1338,12 @@
             "type": 1,
             "variance": 0
         },
-        "description": "敵単体に300のダメージを与える。",
+        "description": "Deals 300 damage to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 218,
         "itypeId": 1,
-        "name": "ボム",
+        "name": "Bomb",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -1364,12 +1364,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "何かのコアのかけら。\nこれだけでは何も起こらない。",
+        "description": "A fragment of some core. Nothing happens with just this alone.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 171,
         "itypeId": 2,
-        "name": "コアの欠片",
+        "name": "Core Fragment",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1395,7 +1395,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "技術書",
+        "name": "Technique Book",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1416,7 +1416,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "セルティが読むと\nエクスヒールを習得できる技巧書。",
+        "description": "A technique book that allows Selphie to learn Ex Heal when read.",
         "effects": [
             {
                 "code": 43,
@@ -1428,7 +1428,7 @@
         "hitType": 0,
         "iconIndex": 186,
         "itypeId": 1,
-        "name": "ヒール技巧書",
+        "name": "Heal Technique Book",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -1449,7 +1449,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると術式、ジハードを習得できる。",
+        "description": "Using it allows you to learn the spell Jihad.",
         "effects": [
             {
                 "code": 43,
@@ -1461,7 +1461,7 @@
         "hitType": 0,
         "iconIndex": 165,
         "itypeId": 1,
-        "name": "ジハードの宝玉",
+        "name": "Jihad's Jewel",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -1482,12 +1482,12 @@
             "type": 1,
             "variance": 0
         },
-        "description": "敵全体に600のダメージを与える",
+        "description": "Deals 600 damage to all enemies",
         "effects": [],
         "hitType": 0,
         "iconIndex": 218,
         "itypeId": 1,
-        "name": "スーパーボム",
+        "name": "Super Bomb",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -1508,12 +1508,12 @@
             "type": 1,
             "variance": 10
         },
-        "description": "敵に投げると、500前後のダメージを与える。",
+        "description": "Throwing it at an enemy deals around 500 damage.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 118,
         "itypeId": 1,
-        "name": "いたぶりくんの斧",
+        "name": "Torturer's Axe",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -1534,7 +1534,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "栄養価が高く、攻撃力と素早さが一時的に上がる。",
+        "description": "It's highly nutritious and temporarily increases attack power and\nagility.",
         "effects": [
             {
                 "code": 31,
@@ -1552,7 +1552,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "はちみつ",
+        "name": "Honey",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -1573,7 +1573,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "食べると何故か皮膚が一時的に硬くなり\n防御力が凄く上がる。",
+        "description": "For some reason, eating it temporarily hardens the skin and greatly\nincreases defense.",
         "effects": [
             {
                 "code": 31,
@@ -1591,7 +1591,7 @@
         "hitType": 0,
         "iconIndex": 43,
         "itypeId": 2,
-        "name": "魔物のカニ肉",
+        "name": "Monster Crab Meat",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -1612,7 +1612,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "素早さがググンと上がる謎の薬。\nただし攻撃力は少し下がる。",
+        "description": "A mysterious medicine that significantly boosts agility. However, it\nslightly decreases attack power.",
         "effects": [
             {
                 "code": 31,
@@ -1636,7 +1636,7 @@
         "hitType": 0,
         "iconIndex": 82,
         "itypeId": 1,
-        "name": "超加速薬",
+        "name": "Hyper Accelerator Drug",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -1709,12 +1709,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "装器を作った時のあまり。記念に取ってある。",
+        "description": "Leftovers from when I made equipment. I've kept it as a memento.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 303,
         "itypeId": 2,
-        "name": "エルドグラス鉱石",
+        "name": "Eldglass Ore",
         "note": "",
         "occasion": 3,
         "price": 0,
