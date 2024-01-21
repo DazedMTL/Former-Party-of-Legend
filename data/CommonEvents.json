@@ -35903,7 +35903,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    ""
+                    "Splurt, slurrrrp!! Spurt!!"
                 ]
             },
             {
@@ -36191,7 +36191,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    ""
+                    "Bloop!! Blublublublub!!"
                 ]
             },
             {
@@ -77617,7 +77617,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    ""
+                    "Dobi!! Dobyu!!"
                 ]
             },
             {
@@ -81432,7 +81432,7 @@
                     "set",
                     "テキストピクチャの設定",
                     {
-                        "text": "マロゲスを倒して\nティナを助けましょう。"
+                        "text": "Let's defeat Maroges and save Tina."
                     }
                 ]
             },
@@ -81658,7 +81658,7 @@
                     "set",
                     "テキストピクチャの設定",
                     {
-                        "text": "監獄施設にいるセルフィを\n助け出すわよ。"
+                        "text": "We're going to rescue Selphie from the prison facility."
                     }
                 ]
             },
@@ -81884,7 +81884,7 @@
                     "set",
                     "テキストピクチャの設定",
                     {
-                        "text": "地下水路奥にいる\nノルズを捕まえるわよ。"
+                        "text": "We're going to catch Nolz in the depths of the underground\nwaterway."
                     }
                 ]
             },
@@ -82110,7 +82110,7 @@
                     "set",
                     "テキストピクチャの設定",
                     {
-                        "text": "孤児院に向かうわよ。"
+                        "text": "We're heading to the orphanage."
                     }
                 ]
             },
@@ -82336,7 +82336,7 @@
                     "set",
                     "テキストピクチャの設定",
                     {
-                        "text": "エルド空洞の奥に\n鉱石を採りにいくわよ。"
+                        "text": "We're going to mine for ore deep inside the Eld Cavern."
                     }
                 ]
             },
@@ -82562,7 +82562,7 @@
                     "set",
                     "テキストピクチャの設定",
                     {
-                        "text": "施設の跡地を捜査するわよ。"
+                        "text": "We're going to investigate the site of the facility."
                     }
                 ]
             },
@@ -82788,7 +82788,7 @@
                     "set",
                     "テキストピクチャの設定",
                     {
-                        "text": "マロゲスの屋敷を調べるわよ。"
+                        "text": "Let's investigate Maroges' mansion."
                     }
                 ]
             },
@@ -83014,7 +83014,7 @@
                     "set",
                     "テキストピクチャの設定",
                     {
-                        "text": "討伐に入ったようだし\nすぐに帰ってくるわよね。"
+                        "text": "It seems they've gone on a subjugation mission, so they\nshould be back soon, right?"
                     }
                 ]
             },
@@ -83240,7 +83240,7 @@
                     "set",
                     "テキストピクチャの設定",
                     {
-                        "text": "触手の親玉を見つけるわよ。"
+                        "text": "We'll find the tentacle boss."
                     }
                 ]
             },
@@ -83466,7 +83466,7 @@
                     "set",
                     "テキストピクチャの設定",
                     {
-                        "text": "ティナ、今ごろ森の中よね。"
+                        "text": "Tina, you must be in the forest by now."
                     }
                 ]
             },
@@ -83692,7 +83692,7 @@
                     "set",
                     "テキストピクチャの設定",
                     {
-                        "text": "森の奥に進もう。"
+                        "text": "Let's go deeper into the forest."
                     }
                 ]
             },
@@ -83918,7 +83918,7 @@
                     "set",
                     "テキストピクチャの設定",
                     {
-                        "text": "街を出て森に向かおう。"
+                        "text": "Let's leave the town and head for the forest."
                     }
                 ]
             },
@@ -84144,7 +84144,7 @@
                     "set",
                     "テキストピクチャの設定",
                     {
-                        "text": "マロゲスに会いに行くには\n警備兵に話かけないとね。"
+                        "text": "To go see Maroges, I need to speak to the guard."
                     }
                 ]
             },
@@ -84370,7 +84370,7 @@
                     "set",
                     "テキストピクチャの設定",
                     {
-                        "text": "法務部にいるセルフィに会おう。"
+                        "text": "Let's go see Selphie in the legal department."
                     }
                 ]
             },
@@ -84587,7 +84587,7 @@
                     "set",
                     "テキストピクチャの設定",
                     {
-                        "text": "今は洞窟を抜けよう。"
+                        "text": "Let's get out of the cave now."
                     }
                 ]
             },
@@ -85020,7 +85020,7 @@
                     "set",
                     "テキストピクチャの設定",
                     {
-                        "text": "まずは森を抜けよう。"
+                        "text": "Let's get out of the forest first."
                     }
                 ]
             },
