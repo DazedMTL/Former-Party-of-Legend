@@ -7,7 +7,7 @@
         "uiAreaHeight": 720,
         "numberFontFilename": "mplus-2p-bold-sub.woff",
         "fallbackFonts": "Verdana, sans-serif",
-        "fontSize": 26,
+        "fontSize": 22,
         "mainFontFilename": "M+A1_bold-18-1.2.otf",
         "windowOpacity": 192
     },
@@ -588,7 +588,7 @@
             "Max MP",
             "Attack",
             "Defense",
-            "Magic Power",
+            "M. Power",
             "M. Defense",
             "Agility",
             "Luck",
