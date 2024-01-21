@@ -732,10 +732,10 @@ var $plugins = [
       menuHelpWindowEnable: "true",
       menuHelpTexts:
         '["{\\"symbol\\":\\"アイテム\\",\\"helpText\\":\\"入手したアイテムを使用します。\\"}","{\\"symbol\\":\\"スキル\\",\\"helpText\\":\\"習得したスキルを使用します。\\"}","{\\"symbol\\":\\"装備\\",\\"helpText\\":\\"装備を変更します。\\"}","{\\"symbol\\":\\"ステータス\\",\\"helpText\\":\\"ステータスを確認します。\\"}","{\\"symbol\\":\\"並び替え\\",\\"helpText\\":\\"パーティの並び順を変更します。\\"}","{\\"symbol\\":\\"オプション\\",\\"helpText\\":\\"オプション画面を開きます。\\"}","{\\"symbol\\":\\"セーブ\\",\\"helpText\\":\\"これまでのデータをセーブします。\\"}","{\\"symbol\\":\\"ゲーム終了\\",\\"helpText\\":\\"ゲームを終了します。\\"}"]',
-      leftBlockLabel: "現在地：",
+      leftBlockLabel: "Area: ",
       leftBlockValue: "$gameMap.displayName()",
       leftBlockAlign: "left",
-      rightBlockLabel: "プレイ時間：",
+      rightBlockLabel: "Playtime: ",
       rightBlockValue: "$gameSystem.playtimeText()",
       rightBlockAlign: "right",
     },
