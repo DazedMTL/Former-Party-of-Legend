@@ -92,7 +92,7 @@
                 "note": ""
             }
         ],
-        "name": "剣士",
+        "name": "Swordsman",
         "note": "",
         "params": [
             [
@@ -1050,7 +1050,7 @@
                 "note": ""
             }
         ],
-        "name": "銃使い",
+        "name": "Gunslinger",
         "note": "",
         "params": [
             [
@@ -1998,7 +1998,7 @@
                 "note": ""
             }
         ],
-        "name": "術式使い",
+        "name": "Spellcaster",
         "note": "",
         "params": [
             [
@@ -2936,7 +2936,7 @@
                 "skillId": 203
             }
         ],
-        "name": "銃使い",
+        "name": "Gunslinger",
         "note": "",
         "params": [
             [
@@ -3859,7 +3859,7 @@
                 "skillId": 219
             }
         ],
-        "name": "格闘家",
+        "name": "Martial Artist",
         "note": "",
         "params": [
             [
@@ -4822,7 +4822,7 @@
                 "skillId": 109
             }
         ],
-        "name": "魔法剣士",
+        "name": "Magical Swordsman",
         "note": "",
         "params": [
             [
@@ -5730,7 +5730,7 @@
                 "skillId": 229
             }
         ],
-        "name": "狩人",
+        "name": "Hunter",
         "note": "",
         "params": [
             [
@@ -6648,7 +6648,7 @@
                 "skillId": 210
             }
         ],
-        "name": "盗賊",
+        "name": "Thief",
         "note": "",
         "params": [
             [

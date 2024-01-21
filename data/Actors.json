@@ -18,10 +18,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ティナ",
+        "name": "Tina",
         "nickname": "",
         "note": "",
-        "profile": "Sランク冒険者であり、\n魔王を倒したメンバー、ルセントの一人。"
+        "profile": "An S-rank adventurer and one of the members of Lucent who defeated the\nDemon Lord."
     },
     {
         "id": 2,
@@ -41,10 +41,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "セルフィ",
+        "name": "Selphie",
         "nickname": "",
         "note": "",
-        "profile": "魔王を倒したメンバーの一人。\n人身売買組織の最大手を一人で壊滅させた。"
+        "profile": "One of the members who defeated the Demon Lord. Single-handedly\ndestroyed the largest human trafficking organization."
     },
     {
         "id": 3,
@@ -64,7 +64,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "リイス",
+        "name": "Rise",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -87,7 +87,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "スエル",
+        "name": "Suelle",
         "nickname": "",
         "note": "",
         "profile": ""
