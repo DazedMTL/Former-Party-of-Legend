@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "法部　セルフィの部屋",
+    "displayName": "Legal Department, Selphie's Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -2218,14 +2218,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「セルフィさん！！ティナ姉からの連絡があったって本当！！？」"
+                                "\"Selphie-san!! Is it true that there was a message from Tina\nOnee-san?!\""
                             ]
                         },
                         {
@@ -2267,21 +2267,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・えぇ、期限ギリギリにね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洞窟を抜けた向こう町の方から任務達成の連絡があったのよ」"
+                                "\"Yes, it was right at the deadline. We received confirmation\nof mission completion from the town beyond the cave.\""
                             ]
                         },
                         {
@@ -2292,21 +2285,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「マロゲスは人身売買組織に関与していなかったって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連絡と一緒にね」"
+                                "\"It was reported that Maroges was not involved with the\nhuman trafficking organization.\""
                             ]
                         },
                         {
@@ -2348,14 +2334,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうなんだ・・・良かった」"
+                                "\"Is that so... thank goodness.\""
                             ]
                         },
                         {
@@ -2366,14 +2352,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もう、ティナ姉ったら心配したよ・・・」"
+                                "\"Geez, Tina Onee-san had me worried...\""
                             ]
                         },
                         {
@@ -2422,7 +2408,7 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
@@ -2486,7 +2472,7 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
@@ -2533,14 +2519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅっと胸をなでおろすスエルだったが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "対照的に二人は歯切れが悪い。"
+                                "With a relieved sigh, Suelle's tension eased, but the\natmosphere between the two remained tense."
                             ]
                         },
                         {
@@ -2567,14 +2546,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どっ、どうしたの？」"
+                                "\"What's wrong?\""
                             ]
                         },
                         {
@@ -2628,14 +2607,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・その、ティナが報告をした後なんだけれど・・・」"
+                                "\"Well, it's about after Tina reported...\""
                             ]
                         },
                         {
@@ -2646,21 +2625,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「マロゲスの元に向かうって言ったっきり連絡がつかないのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行方も分からなくなったらしくて・・・」"
+                                "\"She said she was heading to Maroges' place and since then,\nthere's been no contact. It seems her whereabouts are\nunknown...\""
                             ]
                         },
                         {
@@ -2702,14 +2674,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「！！それって！！」　"
+                                "\"!! You mean!!\""
                             ]
                         },
                         {
@@ -2751,21 +2723,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、今までの人身売買に自ら向かったという女性たちと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同じ状態ね・・・」"
+                                "\"Yes, it's the same situation as the women who went to\nconfront the human trafficking themselves...\""
                             ]
                         },
                         {
@@ -2807,14 +2772,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・そんな」"
+                                "\"That can't be...\""
                             ]
                         },
                         {
@@ -2839,7 +2804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエル達の部屋に嫌な空気が漂う。"
+                                "An unpleasant air drifted through Suelle and the others'\nroom."
                             ]
                         },
                         {
@@ -2882,14 +2847,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・今から私がマロゲスのいる隣町に向かうわ」"
+                                "\"I'm going to head to the neighboring town where Maroges is\nnow.\""
                             ]
                         },
                         {
@@ -2907,7 +2872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その中で不穏な空気を割くようにセルフィは案を上げる。"
+                                "In the midst of the unsettling atmosphere, Selphie proposed\na plan."
                             ]
                         },
                         {
@@ -2964,21 +2929,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・それは不味いんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仮にもあのティナですら、いなくなった状況よ？」"
+                                "\"Isn't that dangerous? Even Tina, of all people, has gone\nmissing in this situation.\""
                             ]
                         },
                         {
@@ -3003,14 +2961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルも同じ考えだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "万が一セルフィも・・・とどうしても考えてしまう。"
+                                "Suelle also shared the same concern. The possibility of\nSelphie also... was an unavoidable thought."
                             ]
                         },
                         {
@@ -3067,21 +3018,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「分かっているわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、私は諜報にも長けているスキルを持っている」"
+                                "\"I know. But I possess skills in espionage as well.\""
                             ]
                         },
                         {
@@ -3106,7 +3050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セルフィはティナと同じく固有スキルを持っている。"
+                                "Selphie, like Tina, has her own unique skills."
                             ]
                         },
                         {
@@ -3124,7 +3068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは相手の範囲索敵のスキルに引っかからない隠密というスキル。"
+                                "One such skill is stealth, which allows her to avoid\ndetection by enemy range scouting abilities."
                             ]
                         },
                         {
@@ -3142,14 +3086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして敵が壁の向こうにいたとしても正確な位置が確認出来る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最上級クラスの範囲索敵スキル能力だ。"
+                                "And even if the enemy is beyond a wall, she has a top-class\nrange scouting skill that can pinpoint their exact location."
                             ]
                         },
                         {
@@ -3183,14 +3120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セルフィ自身の使う武器は銃。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さらには銃弾をスキルで作り出し装填する。"
+                                "Selphie's weapon of choice is a gun. Furthermore, she can\ncreate and load bullets with her skills."
                             ]
                         },
                         {
@@ -3208,14 +3138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その銃弾は壁に当たると跳弾するものから防御術式を貫通するもの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "様々な効果を発揮し壁の向こうにいる敵をも倒すことが出来る。"
+                                "The bullets she creates can ricochet off walls or penetrate\ndefensive spells, exhibiting various effects and even taking\ndown enemies behind barriers."
                             ]
                         },
                         {
@@ -3233,7 +3156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セルフィの能力を最大限いかせる固有スキルであった。"
+                                "It was a unique skill that maximized Selphie's abilities."
                             ]
                         },
                         {
@@ -3260,21 +3183,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「逃げ切ることを前提とした捜査で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気が付かれないように動き、決してこちらから手を出さない」"
+                                "\"I'll move without being noticed, assuming escape as a\npriority, and never initiate an attack.\""
                             ]
                         },
                         {
@@ -3285,14 +3201,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それにティナと違い私はマロゲスに直接、接触するわけじゃないわ」"
+                                "\"Besides, unlike Tina, I won't be making direct contact with\nMaroges.\""
                             ]
                         },
                         {
@@ -3326,21 +3242,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「痕跡を見つけたとしても、深追いせずに切り上げて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その日にスエル達に連絡を入れる・・・どうかしら？」"
+                                "\"Even if I find a trace, I won't pursue it deeply. I'll wrap\nup and contact Suelle and the others on the same day. How\ndoes that sound?\""
                             ]
                         },
                         {
@@ -3382,14 +3291,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「待ってよ、セルフィさんが行くなら僕も！！」"
+                                "\"Wait, if Selphie-san is going, then I'm coming too!!\""
                             ]
                         },
                         {
@@ -3414,7 +3323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前のめりになるスエルにセルフィは手を振って止める。"
+                                "Selphie waves her hand to stop Suelle, who is eager to go."
                             ]
                         },
                         {
@@ -3456,14 +3365,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ダメよ。もしそれで全員が捕らえられたら誰が報告するの？」"
+                                "\"No. If we all get captured, who will report back?\""
                             ]
                         },
                         {
@@ -3474,21 +3383,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私が先行して調べ、その後リイスや法務部の人と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連携して敵を捕える。これが一番リスクの少ないやり方よ」"
+                                "\"I'll go ahead to investigate, and then coordinate with Rise\nand the legal department to capture the enemy. This is the\nleast risky approach.\""
                             ]
                         },
                         {
@@ -3530,14 +3432,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それは・・・そうだけれど」"
+                                "\"That's true, but...\""
                             ]
                         },
                         {
@@ -3562,21 +3464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルも分かっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "固有のスキルを持っているセルフィは単独で動く方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "危険度は少ない。"
+                                "Suelle understood. Selphie, with her unique skills, was less\nat risk when operating alone."
                             ]
                         },
                         {
@@ -3594,14 +3482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むしろスエルがついて行く方が足手まといになり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "危険度は上がるだろう。"
+                                "On the contrary, Suelle accompanying her would likely be a\nhindrance and increase the danger."
                             ]
                         },
                         {
@@ -3619,14 +3500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ、ティナがいなくなった状態でなお"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "味方が危険をおかしている間、何も出来ないのは歯がゆいのだ。"
+                                "However, it was frustrating to be unable to do anything\nwhile an ally was risking danger, especially with Tina\nalready missing."
                             ]
                         },
                         {
@@ -3669,14 +3543,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・分かった。でも気を付けてね」"
+                                "\"Understood. But please be careful.\""
                             ]
                         },
                         {
@@ -3701,14 +3575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな気持ちを抑え、成功率を上げるためにもスエルは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しぶしぶ提案を飲み込む。"
+                                "Suppressing his feelings and in order to increase the\nsuccess rate, Suelle reluctantly agrees to the proposal."
                             ]
                         },
                         {
@@ -3750,14 +3617,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ティナの件もある。もしセルフィから一日一回連絡が無かった場合」"
+                                "\"Considering what happened with Tina, if we don't hear from\nSelphie once a day\""
                             ]
                         },
                         {
@@ -3768,21 +3635,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その時はティナの時のように待つなんてことはせずに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "問答無用でそっちに向かうわよ」"
+                                "\"Then we won't wait like we did with Tina; we'll head there\nwithout question.\""
                             ]
                         },
                         {
@@ -3807,14 +3667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当はセルフィが行くのを止めたいが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何もしなければティナを救える機会も失ってしまう。"
+                                "Truthfully, they wanted to stop Selphie from going, but\ndoing nothing would also mean losing the chance to save\nTina."
                             ]
                         },
                         {
@@ -3832,7 +3685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのジレンマに悩んでいる気持ちはリイスも同じなのだろう。"
+                                "Rise probably feels the same dilemma."
                             ]
                         },
                         {
@@ -3889,14 +3742,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、そうしてくれた方が私も安心できるわ」"
+                                "\"Yes, that would give me peace of mind.\""
                             ]
                         },
                         {
@@ -3939,21 +3792,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・今ならまだティナの足取りを掴むことは出来るハズ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも時間がかかればそれだけ追跡は難しくなるわ」"
+                                "\"If we act now, we can still pick up on Tina's trail. But\nthe longer it takes, the harder it will be to track her\ndown.\""
                             ]
                         },
                         {
@@ -3964,14 +3810,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「すぐにでも出発するわね」"
+                                "\"I'll be leaving right away.\""
                             ]
                         },
                         {
@@ -4239,14 +4085,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「セルフィさん・・・大丈夫かな？」"
+                                "\"Selphie-san, will you be okay?\""
                             ]
                         },
                         {
@@ -4339,21 +4185,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「マロゲスに直接会わないのであれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "索敵に引っかからないセルフィは、安全だとは思うけれど」"
+                                "\"As long as she doesn't meet Maroges directly, I think\nSelphie, who can avoid detection, will be safe.\""
                             ]
                         },
                         {
@@ -4466,21 +4305,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・こんな所で考えていても仕方がない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達は私達で出来ることをするわよ」"
+                                "\"There's no point in worrying about it here. We'll do what\nwe can do.\""
                             ]
                         },
                         {
@@ -4587,14 +4419,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・うん、そうだね」"
+                                "\"Yeah, that's right.\""
                             ]
                         },
                         {
@@ -4685,14 +4517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「セルフィちゃん？失礼するよ？」"
+                                "???: \"Selphie-chan? Excuse me for interrupting.\""
                             ]
                         },
                         {
@@ -5026,14 +4851,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おや？きっ、君たちは？」"
+                                "\"Oh? Who might you be?\""
                             ]
                         },
                         {
@@ -5090,14 +4915,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「？誰、このおじさんは？ここはセルフィの部屋よ」"
+                                "\"Who is this man? This is Selphie's room.\""
                             ]
                         },
                         {
@@ -5146,14 +4971,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「りっ、リイス！！この人は法務部で一番偉い人だよ！！」"
+                                "\"Ri-Rise!! This man is the most important person in the\nlegal department!!\""
                             ]
                         },
                         {
@@ -5196,21 +5021,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ！！ってことはアンタはミソカスさん！！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪かったわね・・・、てっきり不審者かと・・・」"
+                                "\"Ah!! So you're Mr. Misokasu!!? My apologies, I thought you\nwere a suspicious person.\""
                             ]
                         },
                         {
@@ -5268,21 +5086,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いいんだ・・・。分かって貰えれば。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと僕はミソカスじゃなくてググカスだよ？」"
+                                "\"It's fine. As long as you understand. And I'm not Misokasu,\nI'm Gugukas.\""
                             ]
                         },
                         {
@@ -5331,14 +5142,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほっ、本当にすみません！！」"
+                                "\"I'm really sorry!!\""
                             ]
                         },
                         {
@@ -5380,21 +5191,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　「いえいえ、別に気にしてないよ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく不審者と間違われるので・・・」"
+                                "\"No, no, don't worry about it. I'm often mistaken for a\nsuspicious person.\""
                             ]
                         },
                         {
@@ -5436,14 +5240,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（・・・良く間違われるんだ・・・）"
+                                "\"(He's often mistaken for one...)\""
                             ]
                         },
                         {
@@ -5485,21 +5289,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・っと、自虐的になっちゃったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はセルフィちゃんに用があってきたのだけれど」"
+                                "\"Oops, I got a bit self-deprecating there. I came here today\nbecause I have business with Selphie-chan.\""
                             ]
                         },
                         {
@@ -5539,7 +5336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "辺りを見回し、いないようだねと確認する。"
+                                "He looks around, confirming that she isn't there."
                             ]
                         },
                         {
@@ -5588,14 +5385,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「セルフィなら少し前に調査に出かけたわよ」"
+                                "\"Selphie left a little while ago to conduct an\ninvestigation.\""
                             ]
                         },
                         {
@@ -5644,14 +5441,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「調査というと・・・ティナちゃんのことでしょうか」"
+                                "\"By investigation, you mean it's about Tina-chan, right?\""
                             ]
                         },
                         {
@@ -5676,14 +5473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ググカスは法務長だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当然セルフィに事件のことを報告されていたのだろう。"
+                                "Gugukas is the head of legal affairs. Naturally, he must\nhave been informed by Selphie about the case."
                             ]
                         },
                         {
@@ -5726,21 +5516,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「すみませんねぇ、私が提案したばかりに・・・、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっとマロゲスに注意しておけば・・・」"
+                                "\"I'm sorry, it's all because I suggested it... If only I had\npaid more attention to Maroges...\""
                             ]
                         },
                         {
@@ -5781,7 +5564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ググカスは大げさにガックリした様子を見せる。"
+                                "Gugukas shows an exaggeratedly disheartened expression."
                             ]
                         },
                         {
@@ -5838,14 +5621,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ティナがこうなるなんて私達も想定していなかったわよ」"
+                                "\"We never anticipated that something like this would happen\nto Tina.\""
                             ]
                         },
                         {
@@ -5856,14 +5639,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それで？一体何の用が？急ぎの用なら私が聞いてもいいけれど？」"
+                                "\"So? What do you need? If it's urgent, I can listen to it.\""
                             ]
                         },
                         {
@@ -5920,14 +5703,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ううん・・・そうだねぇ。極秘情報なんだけれど」"
+                                "\"Well, yes. It's highly confidential information...\""
                             ]
                         },
                         {
@@ -5952,14 +5735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこでチラチラと二人を見た後、少し悩んだそぶりを見せる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "態度からかなり重大な話のようにも見える。"
+                                "After glancing at the two of them, he shows a hesitant\ndemeanor. His attitude suggests that it's a matter of great\nimportance."
                             ]
                         },
                         {
@@ -5993,21 +5769,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「確かに、セルフィちゃんと同じ元勇者メンバ―の二人になら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "代わりに依頼してもいいかな」"
+                                "\"Certainly, I could entrust the task to the two of you, who\nare former hero members just like Selphie-chan.\""
                             ]
                         },
                         {
@@ -6032,7 +5801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういうとググカスは真剣な面持ちでここに来た要件を話始めた。"
+                                "With that, Gugukas begins to discuss the serious matter he\ncame for with a grave expression."
                             ]
                         },
                         {
@@ -6075,21 +5844,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「実は・・・マロゲスの屋敷に向かって、送信されたデータを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "傍受してね？」"
+                                "\"Actually, we intercepted data that was sent towards\nMaroges' mansion...\""
                             ]
                         },
                         {
@@ -6100,14 +5862,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その傍受したデータの中身は、何かの映像データらしいんだ」"
+                                "\"The content of the intercepted data seems to be some kind\nof video data.\""
                             ]
                         },
                         {
@@ -6164,14 +5926,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何かの映像って？中は分からなかったの？」"
+                                "\"Some kind of video? You couldn't figure out what it was?\""
                             ]
                         },
                         {
@@ -6228,28 +5990,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「調べはしたんだけれど・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら、マロゲスの屋敷にある暗号解読機を通さないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分からないようにされていてね」"
+                                "\"We did look into it... but it seems that we can't\nunderstand it unless it goes through the decryption device\nin Maroges' mansion.\""
                             ]
                         },
                         {
@@ -6291,21 +6039,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「穴あきのデータを機械に通すと補間されて一つのデータに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるっていう・・・、よくあるけれど機密性は高い暗号方式だね」"
+                                "\"It's a common but highly secure encryption method where\nincomplete data is interpolated by a machine to form a\ncomplete set.\""
                             ]
                         },
                         {
@@ -6347,28 +6088,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、そしてデータの中身なんだけれど・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このタイミングで通信され、保存されたもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてティナちゃんほどの人物の行方消失・・・」"
+                                "\"Yes, and about the content of the data... It was\ntransmitted and saved at this timing. And with a person as\nsignificant as Tina-chan disappearing...\""
                             ]
                         },
                         {
@@ -6379,14 +6106,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「手がかりになる可能性は高いと見ているんだ」"
+                                "\"I believe there's a high possibility that it could be a\nclue.\""
                             ]
                         },
                         {
@@ -6444,14 +6171,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・それは確かに怪しいわね」"
+                                "\"That does sound quite suspicious indeed.\""
                             ]
                         },
                         {
@@ -6508,14 +6235,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい、そこで本来はセルフィちゃんに頼みたかったけれど・・・」"
+                                "\"Yes, and I would have preferred to ask Selphie-chan,\nbut...\""
                             ]
                         },
                         {
@@ -6540,7 +6267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マロゲスはそこでメモリ型の装器を取り出して二人に見せる。"
+                                "Maroges then takes out a memory-type device and shows it to\nthe two of them."
                             ]
                         },
                         {
@@ -6589,14 +6316,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この中にはその傍受した映像が入っていてね」"
+                                "\"This contains the intercepted video footage.\""
                             ]
                         },
                         {
@@ -6607,21 +6334,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・マロゲスの屋敷に潜入し、暗号の解析器を通して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この情報を解析して欲しいんだ」"
+                                "\"I want you to infiltrate Maroges' mansion and analyze this\ninformation through the decryption device there.\""
                             ]
                         },
                         {
@@ -6670,21 +6390,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なるほど・・・それで潜入スキルのある"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セルフィに頼みに来たわけね」"
+                                "\"I see. So that's why you came to ask Selphie, who has\ninfiltration skills.\""
                             ]
                         },
                         {
@@ -6695,21 +6408,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、私とスエルはセルフィほどの潜入スキルはないし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "屋敷にいる人に見つかればややこしい事になりそうだけれど？」"
+                                "\"But Suelle and I don't have the same level of infiltration\nskills as Selphie, and it could get complicated if we're\nspotted by someone in the mansion, right?\""
                             ]
                         },
                         {
@@ -6766,21 +6472,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その点は気にしなくても大丈夫でね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実は今、マロゲスの屋敷には使用人含め誰もいないんだ」"
+                                "\"You don't have to worry about that. Actually, right now,\nthere's no one in Maroges' mansion, not even the servants.\""
                             ]
                         },
                         {
@@ -6791,21 +6490,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おそらくだけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マロゲスはあの屋敷を放棄する予定なのかもしれない」"
+                                "\"It's possible that Maroges is planning to abandon that\nmansion.\""
                             ]
                         },
                         {
@@ -6847,14 +6539,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「確かにこんな状況でマロゲスが屋敷に戻るとは考えづらいね」"
+                                "\"Indeed, it's hard to imagine Maroges returning to the\nmansion under these circumstances.\""
                             ]
                         },
                         {
@@ -6896,28 +6588,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、けれど映像データを屋敷に送ったってことは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本来は一度戻ってデータを解析した後に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "屋敷から抜け出す予定だったんじゃないかな？」"
+                                "\"Yes, but since he sent the video data to the mansion, I\nthink he originally planned to return once, analyze the\ndata, and then escape from the mansion.\""
                             ]
                         },
                         {
@@ -6928,21 +6606,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかし僕たち法務部がすでに見張っていたことに気が付き"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "屋敷に戻ることが出来ず、屋敷自体をそのまま放棄したんだと思う」"
+                                "\"However, I believe he abandoned the mansion without\nreturning because he realized that our legal department was\nalready watching.\""
                             ]
                         },
                         {
@@ -6985,21 +6656,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「マロゲスが使用人たちに解析装置のことを話しているとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えづらい」"
+                                "\"It's unlikely that Maroges told his servants about the\nanalysis device.\""
                             ]
                         },
                         {
@@ -7010,14 +6674,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪い事ってのは、どこから漏れるかわからないからね」"
+                                "\"Bad things can leak from anywhere, after all.\""
                             ]
                         },
                         {
@@ -7028,21 +6692,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、それなら屋敷のどこかにある解析装置は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ廃棄されていないと僕は睨んでる」"
+                                "\"But if that's the case, I'm betting that the analysis\ndevice somewhere in the mansion hasn't been discarded yet.\""
                             ]
                         },
                         {
@@ -7053,21 +6710,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「君たちにはセルフィちゃんの代わりにその解析装置を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見つけ出して、データの解析を頼みたいんだ」"
+                                "\"I'd like you to find the analysis device in place of\nSelphie-chan and analyze the data for us.\""
                             ]
                         },
                         {
@@ -7109,21 +6759,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「解析装置くらいなら・・・うん、見ればすぐに使えると思うし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セルフィの代わりに僕が引き受けてもよさそうだね」"
+                                "\"If it's just an analysis device... yeah, I think I can use\nit right away if I find it. I'll take over for Selphie.\""
                             ]
                         },
                         {
@@ -7165,28 +6808,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉ、引き受けてくれるのかい？。・・・ならもう一つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "屋敷の中は無人ですが、貴族の屋敷は必ず自立型の防衛装置も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あると思うんだ」"
+                                "\"Oh, you'll take it on? Then one more thing. The mansion may\nbe unmanned, but I think a noble's mansion will always have\nsome kind of autonomous defense system.\""
                             ]
                         },
                         {
@@ -7197,14 +6826,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「特にマロゲスのような後ろめたいことをしている屋敷にはね」"
+                                "\"Especially a mansion like Maroges', where shady dealings\nare happening.\""
                             ]
                         },
                         {
@@ -7215,14 +6844,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「スエル君の護衛としてリイスちゃんもついて行ってくれるかな？」"
+                                "\"Rise-chan, could you also accompany Suelle as his escort?\""
                             ]
                         },
                         {
@@ -7280,14 +6909,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もちろんよ。任せなさい！！」"
+                                "\"Of course. Leave it to me!!\""
                             ]
                         },
                         {
@@ -7344,14 +6973,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「リイスちゃんがいれば、防衛装置も問題なさそうだね」"
+                                "\"With Rise-chan there, the defense system shouldn't be a\nproblem either.\""
                             ]
                         },
                         {
@@ -7362,28 +6991,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「君たちの動きはバレないようにジャミングしておく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中の防衛装置を迎撃してもマロゲスには伝わらないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心してね」"
+                                "\"I'll jam their communications so your movements won't be\ndetected. Even if you engage the defense systems inside,\nMaroges won't be notified, so don't worry.\""
                             ]
                         },
                         {
@@ -7440,21 +7055,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それは助かるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "襲ってきたら壊して進んだ方が早いものね」"
+                                "\"That's a relief. It's faster to just destroy them and move\non if they attack.\""
                             ]
                         },
                         {
@@ -7503,14 +7111,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さっ、さすがリイスだね・・・」"
+                                "\"As expected of Rise...\""
                             ]
                         },
                         {
@@ -7552,14 +7160,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひふっ、今回ばかりは頼もしいよ」"
+                                "\"Heheh, you're reliable this time for sure.\""
                             ]
                         },
                         {
@@ -7570,14 +7178,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「では二人とも・・・頼んだよ？」"
+                                "\"Well then, I'm counting on you both, okay?\""
                             ]
                         },
                         {
@@ -7619,7 +7227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ググカスから\\C[2]謎のメモリ\\C[0]を受け取った。"
+                                "You received a \\C[2]Mysterious Memory\\C[0] from Gugukas."
                             ]
                         },
                         {

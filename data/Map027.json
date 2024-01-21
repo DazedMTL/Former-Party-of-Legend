@@ -3409,21 +3409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "従業員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いらっしゃい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは一階が居酒屋で、二階が宿泊施設になってるよ」"
+                                "Employee: \"Welcome. The first floor is a pub, and the second\nfloor is for lodging.\""
                             ]
                         },
                         {
@@ -3441,14 +3427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "従業員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何かあったら気軽に声をかけてくれ」"
+                                "Employee: \"If you need anything, feel free to call out to\nus.\""
                             ]
                         },
                         {
@@ -3671,21 +3650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女冒険者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近、ここの生態系が変わってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素材集めにも一苦労なのよ・・・」"
+                                "Female Adventurer: \"Recently, the ecosystem here has\nchanged. It's become quite a struggle to gather materials.\""
                             ]
                         },
                         {
@@ -3703,21 +3668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女冒険者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「危険な魔物も出るから準備にお金がかかるし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "採れる素材が少ない日とか、あまり稼げないのよ」"
+                                "Female Adventurer: \"Dangerous monsters are appearing, so it\ncosts money to prepare. On days when the materials are\nscarce, I don't earn much.\""
                             ]
                         },
                         {
@@ -3940,21 +3891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男冒険者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺の所属してる冒険者パーティで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勇者パーティの中で誰が一番好きかって話があったんだけれど」"
+                                "Male Adventurer: \"We were talking about who our favorite\nperson is in the Hero's party among the adventurers I'm\nwith.\""
                             ]
                         },
                         {
@@ -3972,21 +3909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男冒険者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺がスエル推しってのを知ってから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆がBL本をやたら進めてくるんだよ・・・」"
+                                "Male Adventurer: \"Ever since they found out I'm a fan of\nSuelle, everyone keeps recommending BL books to me.\""
                             ]
                         },
                         {
@@ -4004,14 +3927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男冒険者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺は尊敬の意味の好きって言ったんだけれどな・・・」"
+                                "Male Adventurer: \"I meant 'like' as in respect, though.\""
                             ]
                         },
                         {
@@ -4234,21 +4150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女術式使い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今は周辺の敵も強くなっていってるからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでパーティの募集を見ていたんだ」"
+                                "Female Spellcaster: \"The enemies around here are getting\nstronger now. That's why I was looking at the party\nrecruitment here.\""
                             ]
                         },
                         {
@@ -4266,21 +4168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女術式使い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは夜になると人も集まるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "情報収集にも持ってこいだよ」"
+                                "Female Spellcaster: \"This place gets crowded at night,\nmaking it perfect for gathering information.\""
                             ]
                         },
                         {

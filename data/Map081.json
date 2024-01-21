@@ -9713,14 +9713,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「マロゲスの屋敷は貴族街ね」"
+                                "\"Maroges' mansion is in the noble district.\""
                             ]
                         },
                         {
@@ -9797,21 +9797,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さっ、この私が付いていくんだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさと終わらせるわよ」"
+                                "\"Now, since I'm coming with you, let's get this over with\nquickly.\""
                             ]
                         },
                         {
@@ -10104,14 +10097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "住民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この銅像のおち〇ちん・・・実際よりも大きく作ってるらしいの」"
+                                "Villager: \"It seems they made the dick on this statue bigger\nthan it actually is.\""
                             ]
                         },
                         {
@@ -10129,14 +10115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "住民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当はどの程度の大きさなのかしら・・・」"
+                                "Villager: \"I wonder how big it really is...\""
                             ]
                         },
                         {
@@ -10420,14 +10399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "補修作業員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近、ここの壁の老朽化が進んでてね」"
+                                "Maintenance Worker: \"Recently, the deterioration of this\nwall has been progressing.\""
                             ]
                         },
                         {
@@ -10445,14 +10417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "補修作業員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今修繕作業しているから、ここを通るのはもうしばらく待ってくれ」"
+                                "Maintenance Worker: \"We're currently doing repair work, so\nplease wait a while before passing through here.\""
                             ]
                         },
                         {

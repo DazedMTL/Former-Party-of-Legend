@@ -3171,7 +3171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひぃっ！！ひぃっ！！」"
+                                "\"Hii!! Hii!!\""
                             ]
                         },
                         {
@@ -3437,21 +3437,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まっ、まさか強化した"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナちゃんがやられるなんて・・・」"
+                                "\"No way, I can't believe the enhanced Tina-chan got\ndefeated...\""
                             ]
                         },
                         {
@@ -3575,21 +3568,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふぅっ、まあいい。今逃げ切れれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隠してある予算でベルラに頼んで・・・」"
+                                "\"Phew, well, it's fine. If I can just escape now, with the\nhidden budget I can ask Belra to...\""
                             ]
                         },
                         {
@@ -3612,7 +3598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もう一度、私たちを狙うとか思ってんの？」"
+                                "\"You're thinking of targeting us again?\""
                             ]
                         },
                         {
@@ -3840,21 +3826,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「へぇ、隠し予算に、ベルラの居場所まで知ってるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはそれは・・・ぜひとも教えて欲しいわね」"
+                                "\"Oh? You know about the hidden budget and even Belra's\nlocation? That's very interesting... I'd really like you to\nshare that with us.\""
                             ]
                         },
                         {
@@ -3947,14 +3926,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なっ、何故ここに！！？」"
+                                "\"Wh-Why are you here!!?\""
                             ]
                         },
                         {
@@ -4047,14 +4026,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「セルフィが研究所の見取り図を見てた時にね？」"
+                                "\"Selphie was looking at the lab's layout, you know?\""
                             ]
                         },
                         {
@@ -4131,21 +4110,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「不自然な箇所があるから、ここから逃げだすんじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ないかって話になって私が見張ってたのよ」"
+                                "\"There was an unnatural spot, so we figured you might try to\nescape from here, and I've been on the lookout.\""
                             ]
                         },
                         {
@@ -4238,21 +4210,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「残念ねぇ、追跡防止の罠を作動させて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セルフィ達から逃げ切る算段だったんでしょう？」"
+                                "\"Too bad, huh? You were planning to activate the anti-\ntracking trap and escape from Selphie and the others,\nweren't you?\""
                             ]
                         },
                         {
@@ -4345,21 +4310,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アンタがセルフィとティナの戦いに夢中になってた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかげでここまでの罠を解除する時間が出来たわ」"
+                                "\"Thanks to you being so engrossed in Selphie and Tina's\nfight, I had time to disarm the traps up to here.\""
                             ]
                         },
                         {
@@ -4452,21 +4410,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まっ、壊して進んだだけなんだけれどね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・ここ防音で聞こえなかったでしょ？」"
+                                "\"Well, I just smashed through them really... It's soundproof\nhere, you didn't hear it, did you?\""
                             ]
                         },
                         {
@@ -4559,14 +4510,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そっ、そんなっ！！」"
+                                "\"Th-That's impossible!!\""
                             ]
                         },
                         {
@@ -4659,14 +4610,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もういいでしょ？私も早くティナたちに会いたいの」"
+                                "\"We're done here, right? I want to meet up with Tina and the\nothers quickly too.\""
                             ]
                         },
                         {
@@ -4743,21 +4694,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・とりあえず今は動けなくなるまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "殴る程度で済ませてあげる・・・今はね」"
+                                "\"For now, I'll just beat you until you can't move... for\nnow.\""
                             ]
                         },
                         {
@@ -4850,14 +4794,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひぃいっ！！まっ、待ってくれ！！」"
+                                "\"Eeek!! Wait, please!!\""
                             ]
                         },
                         {
@@ -4950,14 +4894,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「言われなくてもさっきまでアンタを待ってたのよ！！」"
+                                "\"I've been waiting for you without being told, you know!!\""
                             ]
                         },
                         {
@@ -4980,14 +4924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マロゲス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひやぁあああっ！！」"
+                                "Maroges: \"Hyaaaahhh!!\""
                             ]
                         },
                         {
@@ -5062,7 +4999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドカッ！！バキッ！！ドォォォンッ！！"
+                                "Thud!! Crack!! Boom!!"
                             ]
                         },
                         {
@@ -5126,7 +5063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうして、今回の救出作戦は幕を閉じた。"
+                                "And so, this rescue operation came to a close."
                             ]
                         },
                         {
@@ -5211,14 +5148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後、マロゲスの証言によりベルラの場所へ向かうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げるそぶりもなくスエル達を待っていた。"
+                                "Afterward, following Maroges' testimony, they headed to\nBelra's location where she awaited them without any attempt\nto flee."
                             ]
                         },
                         {
@@ -5334,14 +5264,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あらぁ？スエル君だっけ？本当に皆を助けだしたの？」"
+                                "\"Oh? Is that you, Suelle-kun? Did you really rescue\neveryone?\""
                             ]
                         },
                         {
@@ -5352,14 +5282,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「凄いわぁ、まさかあなたがゲームの勝者になるなんてね」"
+                                "\"Impressive, who would have thought you'd be the winner of\nthe game.\""
                             ]
                         },
                         {
@@ -5370,21 +5300,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふっ、案外いい男ねぇ？せっかく私のおうちに来たんだし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どう、今夜一緒に寝てあげてもいいわよ？」"
+                                "\"Hehe, you're quite a good man, aren't you? Since you've\ncome all the way to my house, how about it, I don't mind\nsharing my bed with you tonight?\""
                             ]
                         },
                         {
@@ -5426,21 +5349,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・居場所がバレて僕たちが向かってきているのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げなかったんだね」"
+                                "\"You knew we were coming and yet you didn't try to escape.\""
                             ]
                         },
                         {
@@ -5451,21 +5367,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・罠を張ってるのかは知らないけれど何をしたって無駄だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外は仲間が囲んでる。抵抗するなら・・・」"
+                                "\"I don't know if you've set up a trap, but whatever you do\nis futile. My companions have surrounded the place. If you\nresist...\""
                             ]
                         },
                         {
@@ -5507,21 +5416,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「抵抗？しなわよ。これはゲーム。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてあなたは勝ったのだからルールに従うわ」"
+                                "\"Resist? I wouldn't dream of it. This is a game, and since\nyou've won, I'll follow the rules.\""
                             ]
                         },
                         {
@@ -5561,14 +5463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルール・・・。何度か出て来たベルラのその単語から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スエルは一つの違和感を覚えた。"
+                                "Suelle felt a sense of discomfort from the word 'rules' that\nBellra had mentioned several times."
                             ]
                         },
                         {
@@ -5595,14 +5490,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…もしかして逃げないんじゃなく、逃げれなかったんじゃない？」"
+                                "\"...Could it be that you didn't escape not because you\ndidn't want to, but because you couldn't?\""
                             ]
                         },
                         {
@@ -5627,7 +5522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルの言葉にベルラは少し驚いた表情を見せた。"
+                                "Bellra showed a slightly surprised expression at Suelle's\nwords."
                             ]
                         },
                         {
@@ -5669,14 +5564,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あらっ、どうして分かったの？」"
+                                "\"Oh? How did you figure that out?\""
                             ]
                         },
                         {
@@ -5718,14 +5613,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「決定的な証拠がわけじゃない。ただの勘だよ」"
+                                "\"It's not conclusive evidence. Just a hunch.\""
                             ]
                         },
                         {
@@ -5736,14 +5631,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「目的は単なる遊び・・・。これは本当なんだと思う」"
+                                "\"The purpose is merely play... I believe that's true.\""
                             ]
                         },
                         {
@@ -5754,21 +5649,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・でも、だからといって散々卑怯な手を使ってきたベルラが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルールを守って逃げないなんて、どうにも引っかかってね」"
+                                "\"But still, for Bellra, who has used all sorts of cowardly\ntactics, to adhere to the rules and not escape, it just\ndoesn't sit right with me.\""
                             ]
                         },
                         {
@@ -5793,14 +5681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルは目の前のベルラがゲームのルールを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分の身を窮地に追いやってまで守るようには思えなかった。"
+                                "Suelle couldn't believe that the Bellra in front of him\nwould protect the game's rules to the point of putting\nherself in jeopardy."
                             ]
                         },
                         {
@@ -5827,21 +5708,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そこから・・・もしかしたら逃げれないんじゃないかって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思っただけだよ」"
+                                "\"From there... I just thought maybe you couldn't escape.\""
                             ]
                         },
                         {
@@ -5883,28 +5757,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふぅん・・・まぁいいわ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どのみち貴方ならほっておいても気付くことでしょうし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特別に教えてあげる」"
+                                "\"Hmm... Well, it's fine. You would have realized it on your\nown eventually, so I'll tell you as a special treat.\""
                             ]
                         },
                         {
@@ -5915,14 +5775,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「古代術式っていうのはね？ルールを作る術式なのよ」"
+                                "\"Ancient spellcraft is a technique for creating rules, you\nsee?\""
                             ]
                         },
                         {
@@ -5964,14 +5824,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ルールを作る？」"
+                                "\"Creating rules?\""
                             ]
                         },
                         {
@@ -6013,14 +5873,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、ルールという名の箱庭を作る。これが古代術式」"
+                                "\"Yes, creating a miniature garden called 'rules.' That's\nwhat ancient spellcraft is.\""
                             ]
                         },
                         {
@@ -6031,21 +5891,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「といってもルールを何でも作れるってわけじゃないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バランスってものがあってね？」"
+                                "\"But that doesn't mean you can create any rule you want.\nThere has to be balance, you know?\""
                             ]
                         },
                         {
@@ -6056,21 +5909,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「特に自分への枷が強ければ強いほどに相手にも強いルールが作れる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルールという枷を自分が背負うほど効果が発揮されるってわけ」"
+                                "\"Especially since the stronger the shackles are on oneself,\nthe stronger the rules that can be created for the opponent.\nThe more I take on these rules as shackles, the more\neffective they become.\""
                             ]
                         },
                         {
@@ -6112,14 +5958,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・だから逃げれなかったってこと？」"
+                                "\"So that's why you couldn't escape?\""
                             ]
                         },
                         {
@@ -6161,21 +6007,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、私の箱庭の効力はゲーム。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲームの条件がそのまま私自身への縛りになるってわけなのよ」"
+                                "\"Yes, the power of my garden is the game. The conditions of\nthe game become the very shackles that bind me.\""
                             ]
                         },
                         {
@@ -6215,14 +6054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つまり、相手に条件を出した場合や事前に作った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲームのルールにはベルラ自身、従わなければならないというわけだ。"
+                                "That means, if Bellra sets conditions for the opponent or\nhas pre-established game rules, she herself must adhere to\nthem."
                             ]
                         },
                         {
@@ -6249,14 +6081,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・でもそれだけの力、どうやって・・・」"
+                                "\"But how can you have such power...\""
                             ]
                         },
                         {
@@ -6298,14 +6130,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら？やっぱりそこにも気が付いた？」"
+                                "\"Oh? Did you notice that too?\""
                             ]
                         },
                         {
@@ -6347,21 +6179,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「当然だよ。その話が本当なら僕たちが使う術式の発動と違って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その場で効果をかけて終わりじゃない」"
+                                "\"Of course. If what you're saying is true, it's different\nfrom the spellcasting we use, which ends after its effect is\napplied on the spot.\""
                             ]
                         },
                         {
@@ -6386,21 +6211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恐るべきは力の供給がなくとも続くルールというその力。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "術式の構造が違うにしても力の供給原が必ず必要なはずだと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スエルは考えた。"
+                                "The terrifying thing is the power of the rules that continue\nwithout a supply of energy. Even if the structure of the\nspellcraft is different, Suelle thought that there must be a\nsource of power supply necessary."
                             ]
                         },
                         {
@@ -6442,28 +6253,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふっ、貴方も気が付いているんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "古代術式といっても術式構造が違っても大元の力は一緒なの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故だか分かる？」"
+                                "\"Hehe, haven't you realized it? Even if the structure of\nancient spellcraft is different, the original power is the\nsame. Do you understand why?\""
                             ]
                         },
                         {
@@ -6505,14 +6302,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そこまではなんとなくね」"
+                                "\"I have a rough idea.\""
                             ]
                         },
                         {
@@ -6554,21 +6351,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ話は早いわね・・・結論から言って現代の術式っていうのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "古代術式によって作られた世界規模のルールのことだからよ」"
+                                "\"Then this will be quick. To conclude, what you call modern\nspellcraft is actually a world-scale rule created by ancient\nspellcraft.\""
                             ]
                         },
                         {
@@ -6610,21 +6400,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それってつまり。今の術式は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部古代術式のルールで機能しているってこと？」"
+                                "\"Does that mean... all current spellcraft functions under\nthe rules of ancient spellcraft?\""
                             ]
                         },
                         {
@@ -6666,28 +6449,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、元々この世界には術式なんてものはなかったの・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ世界を改変して術式というルールを作り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして使えるようにしたの」"
+                                "\"Yes, originally there was no such thing as spellcraft in\nthis world. It was just that the world was altered to create\nand make usable the rule called spellcraft.\""
                             ]
                         },
                         {
@@ -6712,7 +6481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それがあなた達のいう術式の正体。とベルラは付け加える。"
+                                "That's the true nature of what you call spellcraft, Bellra\nadded."
                             ]
                         },
                         {
@@ -6739,28 +6508,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それはつまりこうも考えられないかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "古代術式っていうものを完全に理解出来れば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この世界のルールを捻じ曲げることが出来る・・・と」"
+                                "\"Doesn't that also mean this? If one could completely\nunderstand ancient spellcraft, they could twist the rules of\nthis world.\""
                             ]
                         },
                         {
@@ -6785,7 +6540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラの話が本当だとすると、隷属の契約にかかる力はほぼ半永久的だ。"
+                                "If Bellra's story is true, then the power involved in\ncontracts of servitude is almost semi-permanent."
                             ]
                         },
                         {
@@ -6803,14 +6558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そもそもが世界の自然現象という枠組みで縛られることに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるのだから。"
+                                "After all, it would be bound within the framework of natural\nphenomena of the world."
                             ]
                         },
                         {
@@ -6852,28 +6600,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これで分かったでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の場合はゲームというルールに縛られる代わりに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲーム内ではそれに見合った絶対的な力を発揮する」"
+                                "\"Do you understand now? In my case, I am bound by the rule\nof the game, but within the game, I can exert an absolute\npower that corresponds to it.\""
                             ]
                         },
                         {
@@ -6884,28 +6618,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「けれども逆にスエル君と契約した条件。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲間を助ければおとなしく捕まるって条件がある限り"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は逃げ出すことが出来ないのよ」"
+                                "\"However, conversely, due to the condition of my contract\nwith Suelle-kun—if I help his companions, I will surrender\nquietly—I cannot escape.\""
                             ]
                         },
                         {
@@ -6945,7 +6665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確かにベルラの言っていることは本当だろう。"
+                                "Indeed, what Bellra is saying is likely true."
                             ]
                         },
                         {
@@ -6972,14 +6692,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・でもそれはおかしいよね？」"
+                                "\"But that's strange, isn't it?\""
                             ]
                         },
                         {
@@ -7004,7 +6724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・だが、スエルは今の話に一つだけ引っかかりを覚える。"
+                                "However, Suelle felt a snag in the story just now."
                             ]
                         },
                         {
@@ -7046,14 +6766,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら？嘘は言ってないわよ」"
+                                "\"Oh? I haven't told a lie.\""
                             ]
                         },
                         {
@@ -7095,14 +6815,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「分かっている。・・・でも本当のこともまだ言ってない。違う？」"
+                                "\"I understand. But you haven't told the whole truth either,\nhave you?\""
                             ]
                         },
                         {
@@ -7144,7 +6864,7 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
@@ -7193,21 +6913,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「隷属の契約って途中で契約を破棄すれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その術式そのものが無効になるハズだよね？」"
+                                "\"Contracts of servitude should become void if they are\nterminated midway, right?\""
                             ]
                         },
                         {
@@ -7218,28 +6931,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「逃げなかった理由。それは逃げれなかったんじゃなく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げたらルール違反で自分の作った箱庭が潰れてしまう事を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "避けたんじゃない？」"
+                                "\"The reason you didn't escape. It wasn't that you couldn't\nescape, but rather you didn't want to break the rules and\nrisk destroying the garden you created, right?\""
                             ]
                         },
                         {
@@ -7257,21 +6956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ルールという箱庭が潰れれば、今この国にかかっている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隷属の契約が全て解除される・・・。それを避けるために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あえてルールの縛りに従って捕まるって僕は考えてる」"
+                                "\"If the garden of rules collapses, all the contracts of\nservitude affecting this country would be nullified. I\nbelieve you deliberately followed the rules and allowed\nyourself to be captured to avoid that.\""
                             ]
                         },
                         {
@@ -7313,14 +6998,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・何故そう思ったのかしら？」"
+                                "\"Why would you think that?\""
                             ]
                         },
                         {
@@ -7362,14 +7047,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「マロゲスとティナの契約だよ」"
+                                "\"Maroges and Tina's contract.\""
                             ]
                         },
                         {
@@ -7380,21 +7065,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「三人から話を聞いていたんだけれど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイスとセルフィは・・・ベルラ、君が直接契約したんだよね」"
+                                "\"I heard it from the three of them; Rise and Selphie made\ncontracts directly with you, Bellra.\""
                             ]
                         },
                         {
@@ -7405,21 +7083,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、ティナはマロゲスと契約したんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "古代術式を使えないマロゲスとね」"
+                                "\"But Tina made a contract with Maroges. Maroges, who can't\nuse ancient spellcraft.\""
                             ]
                         },
                         {
@@ -7461,14 +7132,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・それで？」"
+                                "\"And so?\""
                             ]
                         },
                         {
@@ -7510,21 +7181,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もしかして、隷属の契約は・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルール内であれば伝染するんじゃないの？」"
+                                "\"Could it be that contracts of servitude are contagious\nwithin the rules?\""
                             ]
                         },
                         {
@@ -7549,14 +7213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "伝染。つまり隷属の契約を掛けたものを操って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別の人間に隷属の契約を掛けれるということだ。"
+                                "Contagious. In other words, someone who has been placed\nunder a contract of servitude can impose another contract of\nservitude on a different person."
                             ]
                         },
                         {
@@ -7583,21 +7240,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「マロゲスやググカス、他の男たちはあんな性格だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくら古代術式が使える君でも、自身が安全である保証はない」"
+                                "\"Maroges and Gugukas, along with the other men, have such\npersonalities. Even if you can use ancient spellcraft,\nthere's no guarantee of your safety.\""
                             ]
                         },
                         {
@@ -7608,21 +7258,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それでも絶対に反撃してこない状況を作れる方法は一つある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…マロゲスたちに隷属の契約をかけてる場合だ」"
+                                "\"There's only one way to create a situation where they\nabsolutely won't retaliate... if they're under a contract of\nservitude.\""
                             ]
                         },
                         {
@@ -7647,21 +7290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "古代術式の力の源が世界のルールなら、発動さえしてしまえば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後はそのルールに影響された人がいれば、ベルラがいなくても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隷属の契約は出来るはずとスエルは考えたのだ。"
+                                "If the source of ancient spellcraft's power is the world's\nrules, then once activated, the contract of servitude could\nbe made by anyone affected by those rules, even without\nBellra being present, Suelle thought."
                             ]
                         },
                         {
@@ -7679,21 +7308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なぜならルールである以上、本人が術をかける必要はないからだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲームの盤上に上がった人間で、ベルラサイドに加わった人間なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰が出来たとしてもおかしくはない。"
+                                "Because as long as it's within the rules, there's no need\nfor the person themselves to cast the spell. Anyone who has\nentered the game board and joined Bellra's side could\npotentially do it."
                             ]
                         },
                         {
@@ -7711,21 +7326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしそうだとしたら、ベルラが国の中枢に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうも早く潜り込めた理由にもなる。人づてに隷属の契約が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "広まっていったのだ。"
+                                "If that's the case, it also explains how Bellra was able to\ninfiltrate the nation's core so quickly. The contracts of\nservitude spread from person to person."
                             ]
                         },
                         {
@@ -7767,14 +7368,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なるほどねぇ・・・うふふっ…あはははっ！！」"
+                                "\"I see... Ufufu... Ahahahaha!!\""
                             ]
                         },
                         {
@@ -7785,14 +7386,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・合格よ」"
+                                "\"You pass.\""
                             ]
                         },
                         {
@@ -7803,21 +7404,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「スエル君。あなたの言う通り私はこの国に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隷属の契約という名の根を張った」"
+                                "\"Suelle-kun. Just as you said, I have spread the roots of\nservitude contracts throughout this country.\""
                             ]
                         },
                         {
@@ -7857,14 +7451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはつまり、箱庭を潰して逃げる必要がないほど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すでにこの国はルールで乗っ取られているってことだ。"
+                                "That means there's no need to destroy the miniature garden\nand flee because this country has already been taken over by\nthe rules."
                             ]
                         },
                         {
@@ -7882,14 +7469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隷属の契約をされている人間に命令を出すほうが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "簡単に、なおかつ安全に抜け出すことが出来る。"
+                                "It's easier and safer to issue commands to those under a\ncontract of servitude and escape."
                             ]
                         },
                         {
@@ -7916,14 +7496,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…当たって欲しくはなかったけれどね」"
+                                "\"...I wish I hadn't been right.\""
                             ]
                         },
                         {
@@ -7934,14 +7514,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・でも、どうして僕にそんなことを教えたの」"
+                                "\"But why did you tell me all this?\""
                             ]
                         },
                         {
@@ -7966,14 +7546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラが言わなければ気が付かなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言わなければ簡単に窮地を抜け出せただろう。"
+                                "If Bellra hadn't mentioned it, I wouldn't have noticed. If\nshe hadn't said anything, I could have easily escaped this\npredicament."
                             ]
                         },
                         {
@@ -7991,14 +7564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一度捕まりさえすれば、スエルとのルールを違反したことにはならない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのメリットを捨ててまでスエルに教えた理由。"
+                                "The reason she taught Suelle this, despite the fact that\nonce caught, it wouldn't be considered a violation of\nSuelle's rules. The benefit she discarded to tell Suelle."
                             ]
                         },
                         {
@@ -8016,7 +7582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・これではまるで・・・。"
+                                "This is almost like..."
                             ]
                         },
                         {
@@ -8058,14 +7624,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まるで古代術式をレクチャーしているみたい・・・でしょう？」"
+                                "\"It's like I'm giving a lecture on ancient spellcraft, isn't\nit?\""
                             ]
                         },
                         {
@@ -8105,7 +7671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラの言葉にスエルの体がビクンと跳ねる。"
+                                "At Bellra's words, Suelle's body jolted."
                             ]
                         },
                         {
@@ -8147,14 +7713,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「探究心は身を滅ぼすって言葉があるわ」"
+                                "\"There's a saying that curiosity killed the cat.\""
                             ]
                         },
                         {
@@ -8165,21 +7731,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でもね？分かっていても、やめられないものなのよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・特に貴方のような人間はね？」"
+                                "\"But you know? Even if you understand that, you can't stop.\nEspecially people like you.\""
                             ]
                         },
                         {
@@ -8221,7 +7780,7 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
@@ -8270,21 +7829,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・貴方はこれからもっと古代術式を研究し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その最奥に触れなさい」"
+                                "\"You will continue to study ancient spellcraft and reach its\ndeepest secrets.\""
                             ]
                         },
                         {
@@ -8295,21 +7847,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私・・・いえ、私たちの悲願である古代術式の解明と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "世界の掌握に向けてね？」"
+                                "\"For our, no, our shared ambition to unravel ancient\nspellcraft and take control of the world.\""
                             ]
                         },
                         {
@@ -8351,14 +7896,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・僕はそんなことをしない」"
+                                "\"I won't do such a thing.\""
                             ]
                         },
                         {
@@ -8400,28 +7945,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いいえ、すでに貴方はこちら側の人間。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっとその才能が古代術式を呼び起こし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その魅力と力にあなたは確実に溺れるわ」"
+                                "\"No, you are already one of us. Your talent will surely\nawaken ancient spellcraft and you will definitely be seduced\nby its charm and power.\""
                             ]
                         },
                         {
@@ -8432,21 +7963,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「強い仲間に囲まれて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分の力のなさを嘆いている貴方ならね？」"
+                                "\"Especially someone like you, surrounded by strong\ncompanions and lamenting your own lack of power.\""
                             ]
                         },
                         {
@@ -8469,7 +7993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その言葉に、\\!今度は何も言い返せなかった・・・。"
+                                "At those words, this time he couldn't find anything to say\nin return."
                             ]
                         },
                         {
@@ -8487,21 +8011,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふふっ、長く話過ぎたかしら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのときを楽しみにしてるわね」"
+                                "\"Fufufu, perhaps we've talked too long. I'm looking forward\nto that time.\""
                             ]
                         },
                         {
@@ -8519,7 +8036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の役目は終わったとばかりにベルラは抵抗もなく捕まった。"
+                                "As if his role was over, Bellra was captured without any\nresistance."
                             ]
                         },
                         {
@@ -8537,14 +8054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラが最後に残した言葉。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スエルはまだベルラほど古代術式を知らない。"
+                                "Bellra's last words. Suelle still doesn't know as much about\nancient spellcraft as Bellra does."
                             ]
                         },
                         {
@@ -8562,14 +8072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも、もし世界を根底から覆す絶大な力が手に入るとすれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕は僕のままで力に溺れずにいられるのか？"
+                                "But if I could obtain a power that could overturn the world,\ncould I remain true to myself without being drowned by that\npower?"
                             ]
                         },
                         {
@@ -8587,14 +8090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何度も自分の非力さを味わったスエルだからこそ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベルラの言葉が絡みつくように染み渡る。"
+                                "It's precisely because Suelle has tasted his own\npowerlessness many times that Bellra's words seep into him\nlike they're entwining around him."
                             ]
                         },
                         {
@@ -8612,14 +8108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それが興味をいだくようにしむけれらたベルラの甘い罠だと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かっていながらも・・・。"
+                                "Even though he knows it's a sweet trap set by Bellra to\npique his interest."
                             ]
                         },
                         {
@@ -8702,14 +8191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルのはその後、国の中枢や法務部の人間の体を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男女関係なく全身を触りに触った。"
+                                "Afterward, Suelle touched the bodies of people from the\nnation's core and the justice department, regardless of\ntheir gender."
                             ]
                         },
                         {
@@ -8727,7 +8209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もちろんベルラが言っていた隷属の契約や洗脳を解くためだ。"
+                                "Of course, it was to undo the enslavement contract and\nbrainwashing that Bellra had mentioned."
                             ]
                         },
                         {
@@ -8745,14 +8227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は洗脳されていないと信頼できる人間にのみ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベルラの勾留を任せている。"
+                                "Currently, only those who can be trusted not to be\nbrainwashed are left in charge of Bellra's detention."
                             ]
                         },
                         {
@@ -8770,7 +8245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラはその時も、特に抵抗も仕掛けもしていなかった。"
+                                "Even then, Bellra did not resist or set any traps."
                             ]
                         },
                         {
@@ -8788,14 +8263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはまるで・・・、自分よりも優れた人間に後を託したと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言っているようにもスエルには見えた。"
+                                "To Suelle, it seemed as if Bellra was entrusting the future\nto someone superior to himself."
                             ]
                         },
                         {
@@ -8813,14 +8281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兎にも角にも、これでベルラはしばらく何もできないはずだと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひとまず安堵したところでそれとは別に予期せぬ事態が発生した。"
+                                "At any rate, with this, Bellra should be unable to do\nanything for a while, and Suelle felt a momentary relief\nbefore an unexpected situation arose."
                             ]
                         },
                         {
@@ -8838,7 +8299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルには重大な戦いが待っていたのだ。"
+                                "A grave battle awaited Suelle."
                             ]
                         },
                         {
@@ -8856,7 +8317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まず結論からいって・・・スエルはその戦いのため体を鍛えている。"
+                                "To start with the conclusion, Suelle is training his body\nfor that battle."
                             ]
                         },
                         {
@@ -8874,14 +8335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし戦いといっても戦闘行為をするわけではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・鍛えているのは腕力でなく体力面だ。"
+                                "However, it's not combat he's training for. He's working on\nhis physical endurance, not his strength."
                             ]
                         },
                         {
@@ -8899,7 +8353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・逃げるため？と思う人もいるだろう。"
+                                "For the purpose of running away? Some might think so."
                             ]
                         },
                         {
@@ -8917,7 +8371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしそれも違う、スエルが決して逃げ切れる相手じゃない。"
+                                "But that's not it either; Suelle's opponent is not someone\nhe can simply escape from."
                             ]
                         },
                         {
@@ -8935,14 +8389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ何故鍛えているのか・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはスエルの日常の戦いを見て貰えれば分かると思う。"
+                                "So why is he training? I think you'll understand if you see\nthe daily battles Suelle faces."
                             ]
                         },
                         {

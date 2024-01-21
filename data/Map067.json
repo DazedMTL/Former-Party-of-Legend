@@ -4618,7 +4618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シュタッ・・・。"
+                                "Shut..."
                             ]
                         },
                         {
@@ -4644,14 +4644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セルフィ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っと、潜入成功ね」"
+                                "Selphie: \"Alright, infiltration successful.\""
                             ]
                         },
                         {
@@ -4819,21 +4812,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ティナの目撃情報や調査の結果的には、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにいる可能性が高いんだけれど・・・」"
+                                "\"Based on Tina's sighting information and the investigation\nresults, there's a high chance she's here...\""
                             ]
                         },
                         {
@@ -4926,14 +4912,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここは、私が潰したはずの人身売買組織の拠点の一つよね」"
+                                "\"This place is one of the human trafficking organization\nbases I thought I had taken down.\""
                             ]
                         },
                         {
@@ -5010,21 +4996,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まさかこの拠点が再稼働している？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・いや、それにしては静かすぎるわね）"
+                                "\"(Could it be that this base has started operating again?\nNo, it's too quiet for that...)\""
                             ]
                         },
                         {
@@ -5101,21 +5080,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（もしかして拠点をあえて稼働させずにそのままに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しておくっことで）"
+                                "\"(Maybe they're deliberately not running the base to make it\nharder for investigations to take place here...)\""
                             ]
                         },
                         {
@@ -5192,21 +5164,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（捜査の目が入りにくい場所にして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "秘密裏に人身売買の取引だけに使ってるの？）"
+                                "\"(And they're using it secretly just for human trafficking\ntransactions?)\""
                             ]
                         },
                         {
@@ -5322,21 +5287,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いや、予測を立てていても仕方がない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はこの拠点の捜索だけでもしておく必要があるわね」"
+                                "\"No, there's no point in making predictions now. I need to\nat least search this base for now.\""
                             ]
                         },
                         {
@@ -5429,14 +5387,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まずは、中を調べるわよ」"
+                                "\"First, let's check inside.\""
                             ]
                         },
                         {
@@ -5459,7 +5417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特別ステージ。"
+                                "Special Stage."
                             ]
                         },
                         {
@@ -5505,14 +5463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエル達はマロゲスの屋敷に潜入している時間帯ですので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "操作キャラの変更や、別ステージにはいけません。"
+                                "You cannot change the playable character or go to a\ndifferent stage during the time Suelle and the others are\ninfiltrating Maroges' mansion."
                             ]
                         },
                         {
@@ -5530,14 +5481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここでのレベルアップや入手アイテムなどは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "通常通り引き継がれます。"
+                                "Level-ups and items obtained here will be carried over as\nusual."
                             ]
                         },
                         {

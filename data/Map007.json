@@ -10091,14 +10091,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「到着、無事街についたわね」"
+                                "\"We've arrived, we made it to town safely.\""
                             ]
                         },
                         {
@@ -10191,14 +10191,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん、今日は本当にありがとうティナ姉」"
+                                "\"Yeah, thank you so much for today, Tina Onee-san.\""
                             ]
                         },
                         {
@@ -10291,14 +10291,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「良いってことよ」"
+                                "\"It's no big deal.\""
                             ]
                         },
                         {
@@ -10375,21 +10375,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私はセルフィに今日の討伐の報告するために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この後、法務部に行くけれどスエルはどうする？」"
+                                "\"I'm going to the legal affairs department to report today's\nsubjugation to Selphie. What will you do, Suelle?\""
                             ]
                         },
                         {
@@ -10482,21 +10475,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「僕もついて行くよ。今回現れた魔物について"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セルフィさんに報告しておきたいからね」"
+                                "\"I'll come with you. I want to report about the monster that\nappeared this time to Selphie-san.\""
                             ]
                         },
                         {
@@ -10589,14 +10575,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よし、じゃあ一緒に法務部に向かいますか」"
+                                "\"Alright, then shall we head to the legal affairs department\ntogether?\""
                             ]
                         },
                         {
@@ -10793,14 +10779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「遅くなる前に法務部に向かおう」"
+                                "Tina: \"Let's head to the legal affairs department before it\ngets too late.\""
                             ]
                         },
                         {
@@ -10930,7 +10909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マップ説明 武器スロットとショップ"
+                                "Map Explanation: Weapon Slots and Shop"
                             ]
                         },
                         {
@@ -10953,14 +10932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本作では、キャラの武器の代わりに補助装器と呼ばれるものを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取り付けることで武器のように攻撃力を伸ばすことが出来ます。"
+                                "In this game, you can attach something called an auxiliary\nequipment in place of a character's weapon to increase\nattack power like a weapon."
                             ]
                         },
                         {
@@ -10978,21 +10950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "補助装器はキャラの武器種類によって違うので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナの武器装備をセルフィなどの別キャラに装備させることは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来ません。"
+                                "Auxiliary equipment varies depending on the type of weapon a\ncharacter uses, so you cannot equip Tina's weapon equipment\non other characters like Selphie."
                             ]
                         },
                         {
@@ -11010,21 +10968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "補助装器はショップでも取り扱っており、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオの進み具合によって購入出来る装備アイテムや"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その他アイテムが変わってきます。"
+                                "Auxiliary equipment is also available at shops, and the\nequipment items and other items you can purchase will change\nas the scenario progresses."
                             ]
                         },
                         {
@@ -11042,14 +10986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "敵が強いと感じたら、ショップで武器の補助装器を購入することを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おススメします。"
+                                "If you feel that the enemies are strong, it is recommended\nto purchase auxiliary weapon equipment at the shop."
                             ]
                         },
                         {
@@ -11723,14 +11660,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「二人はこの後どうするの？」"
+                                "\"What are you two going to do after this?\""
                             ]
                         },
                         {
@@ -11823,21 +11760,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうねぇ、久々に街に帰って来たし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スエルを荷物持ちにして買い物をするわ」"
+                                "\"Well, it's been a while since we've been back in town, so\nI'm going to make Suelle carry my shopping bags.\""
                             ]
                         },
                         {
@@ -11972,14 +11902,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっ、僕も！！？」"
+                                "\"Eh, me too?!\""
                             ]
                         },
                         {
@@ -12103,21 +12033,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「当たり前でしょ？アタシの荷物を持てる事を光栄に思って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キリキリ働きなさい！！」"
+                                "\"Of course. You should feel honored to carry my bags. Now\nwork hard!\""
                             ]
                         },
                         {
@@ -12241,21 +12164,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ってことで私達はこのまま買い物に行くわ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナこそどうするの？」"
+                                "\"So, we're going to go shopping now. What about you, Tina?\""
                             ]
                         },
                         {
@@ -12348,14 +12264,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私はこのまま、マロゲスに会いに行くわ」"
+                                "\"I'm going to see Maroges.\""
                             ]
                         },
                         {
@@ -12448,28 +12364,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「分かった。でも何かあったら私を呼びなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マロゲスだかマカロニだか知らないけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶっ飛ばしてやるわ」"
+                                "\"Got it. But if anything happens, call me. I don't care if\nit's Maroges or Macaroni, I'll send them flying.\""
                             ]
                         },
                         {
@@ -12562,14 +12464,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「頼もしいわね。その時があればよろしくね」"
+                                "\"You're so reliable. I'll count on you if that time comes.\""
                             ]
                         },
                         {
@@ -12662,14 +12564,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、遠慮せずに私を頼りなさい！！」"
+                                "\"Yes, don't hesitate to rely on me!!\""
                             ]
                         },
                         {
@@ -12777,14 +12679,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃ、下僕！！買い物に行くわよ！！」"
+                                "\"Now, minion! Let's go shopping!!\""
                             ]
                         },
                         {
@@ -12800,14 +12702,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いや待って！！僕って、すでに下僕なの！！？」"
+                                "\"Wait a minute!! Am I already considered a minion?!\""
                             ]
                         },
                         {
@@ -13000,14 +12902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さて、私もマロゲスの所に向かいますか」"
+                                "Tina: \"Well then, I guess I'll head over to Maroges' place.\""
                             ]
                         },
                         {
@@ -13412,14 +13307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "住民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この銅像のおち〇ちん・・・実際よりも大きく作ってるらしいの」"
+                                "Villager: \"It seems they made the dick on this statue bigger\nthan it actually is.\""
                             ]
                         },
                         {
@@ -13437,14 +13325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "住民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当はどの程度の大きさなのかしら・・・」"
+                                "Villager: \"I wonder how big it really is...\""
                             ]
                         },
                         {
@@ -13876,14 +13757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は貴族街になります」"
+                                "Guard: \"Beyond here lies the noble district.\""
                             ]
                         },
                         {
@@ -13901,21 +13775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「貴族を狙った犯罪防止のため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許可証のない方の通行はご遠慮下さい」"
+                                "Guard: \"To prevent crimes targeting nobles, we ask those\nwithout a permit to refrain from passing through.\""
                             ]
                         },
                         {
@@ -14129,14 +13989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は通行証が必要になります」"
+                                "Guard: \"You will need a pass to proceed from here.\""
                             ]
                         },
                         {
@@ -14154,14 +14007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、これ。マロゲスって貴族の依頼で来たのよ」"
+                                "Tina: \"Yes, here it is. I've come on a request from the\nnoble Maroges.\""
                             ]
                         },
                         {
@@ -14188,14 +14034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「確かに確認いたしました、マロゲス様ですね。ご案内いたします」"
+                                "Guard: \"Indeed, I have confirmed it, Lord Maroges. I will\nguide you.\""
                             ]
                         },
                         {
@@ -14474,14 +14313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は貴族街になります」"
+                                "Guard: \"Beyond here lies the noble district.\""
                             ]
                         },
                         {
@@ -14499,21 +14331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「貴族を狙った犯罪防止のため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許可証のない方の通行はご遠慮下さい」"
+                                "Guard: \"To prevent crimes targeting nobles, passage is\nrestricted to those without a permit.\""
                             ]
                         },
                         {
@@ -14951,14 +14769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "補修作業員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近、ここの壁の老朽化が進んでてね」"
+                                "Maintenance Worker: \"Lately, the deterioration of this wall\nhas been progressing.\""
                             ]
                         },
                         {
@@ -14976,14 +14787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "補修作業員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今修繕作業しているから、ここを通るのはもうしばらく待ってくれ」"
+                                "Maintenance Worker: \"I'm currently doing repair work, so\nplease wait a while before passing through here.\""
                             ]
                         },
                         {
@@ -15428,14 +15232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は貴族街になります」"
+                                "Guard: \"Beyond here lies the noble district.\""
                             ]
                         },
                         {
@@ -15453,21 +15250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「貴族を狙った犯罪防止のため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許可証のない方の通行はご遠慮下さい」"
+                                "Guard: \"To prevent crimes targeting nobles, passage is\nrestricted to those without a permit.\""
                             ]
                         },
                         {
@@ -15681,14 +15464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は通行証が必要になります」"
+                                "Guard: \"You will need a pass to go beyond this point.\""
                             ]
                         },
                         {
@@ -15706,14 +15482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、これ。マロゲスって貴族の依頼で来たのよ」"
+                                "Tina: \"Yes, here it is. I've come on a request from the\nnoble Maroges.\""
                             ]
                         },
                         {
@@ -15740,14 +15509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「確かに確認いたしました、マロゲス様ですね。ご案内いたします」"
+                                "Guard: \"Indeed, I have confirmed it, Lord Maroges. I will\nguide you.\""
                             ]
                         },
                         {
@@ -16026,14 +15788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は貴族街になります」"
+                                "Guard: \"Beyond here lies the noble district.\""
                             ]
                         },
                         {
@@ -16051,21 +15806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「貴族を狙った犯罪防止のため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許可証のない方の通行はご遠慮下さい」"
+                                "Guard: \"To prevent crimes targeting nobles, we ask those\nwithout a permit to refrain from passing through.\""
                             ]
                         },
                         {
@@ -17932,21 +17673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "住民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし、防具も買ったし・・・剣も買った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポーションも買った・・・準備は万端だ」"
+                                "Villager: \"Alright, I've bought armor, a sword, and potions.\nI'm fully prepared.\""
                             ]
                         },
                         {
@@ -17964,14 +17691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "住民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・でも魔物怖いから冒険はまた明日にしようかな」"
+                                "Villager: \"But monsters are scary, so maybe I'll go on an\nadventure tomorrow instead.\""
                             ]
                         },
                         {
@@ -18194,21 +17914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "傭兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「魔王が倒されてから、いろいろな基地の傭兵も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "解雇される人が多くてね・・・」"
+                                "傭兵: \"Since the Demon Lord was defeated, a lot of mercenaries\nfrom various bases have been getting laid off, you know.\""
                             ]
                         },
                         {
@@ -18226,21 +17932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "傭兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういった人達が、お金のために悪い組織の傭兵をするってのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "増えてきているんだよ・・・」"
+                                "傭兵: \"And it's becoming more common for those people to work\nas mercenaries for bad organizations, all for the sake of\nmoney.\""
                             ]
                         },
                         {
@@ -18463,14 +18155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "住民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わしもあと30年若かったらこの世界を支配しておったんじゃがのぅ」"
+                                "Villager: \"If I were 30 years younger, I would have\ndominated this world, I tell you.\""
                             ]
                         },
                         {
@@ -18616,7 +18301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここにあった冒険者組合は法務部との合併をしました。"
+                                "The Adventurers' Guild that was here has merged with the\nLegal Affairs Department."
                             ]
                         },
                         {
@@ -18634,14 +18319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "保険や企業、個人の斡旋もしやすくなっておりますので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぜひ法務部をおたずねください。"
+                                "It's now easier to facilitate insurance, corporate, and\npersonal introductions, so please do visit the Legal Affairs\nDepartment."
                             ]
                         },
                         {
@@ -18716,8 +18394,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -18748,7 +18426,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "現在回想はありません。"
+                                "There are no flashbacks available at the moment."
                             ]
                         },
                         {
@@ -18769,8 +18447,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,
@@ -18916,8 +18594,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -19039,8 +18717,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,

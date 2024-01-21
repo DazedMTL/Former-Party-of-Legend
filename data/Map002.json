@@ -1406,7 +1406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この世界はモンスターがいるファンタジーな世界。"
+                                "This world is a fantasy realm filled with monsters."
                             ]
                         },
                         {
@@ -1429,7 +1429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔王がいて、魔物がいて・・・人々を苦しめていた。"
+                                "There was a Demon King, and demonic creatures tormented the\npeople."
                             ]
                         },
                         {
@@ -1447,14 +1447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしある時、異世界からとある勇者が転移してきたことにより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "状況は一変する。"
+                                "However, at one point, a certain hero from another world was\ntransferred here, and the situation changed dramatically."
                             ]
                         },
                         {
@@ -1472,14 +1465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勇者はこの世界の最強の仲間を集め、そのパーティーはルセントと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呼ばれた。"
+                                "The hero gathered the strongest companions in this world,\nand their party was called Lucent."
                             ]
                         },
                         {
@@ -1509,14 +1495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルセントは魔王を倒し、その後しばらくして皆に感謝されながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メンバーの中核であった勇者は元の世界に帰っていった。"
+                                "Lucent defeated the Demon King, and after some time, while\nbeing thanked by everyone, the hero who was the core member\nof the group returned to his original world."
                             ]
                         },
                         {
@@ -1534,7 +1513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは魔王を倒し、勇者が元の世界に帰った後の物語。"
+                                "This is the story after the Demon King was defeated and the\nhero returned to his original world."
                             ]
                         },
                         {

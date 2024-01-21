@@ -15269,14 +15269,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここが入口よ」"
+                                "\"This is the entrance.\""
                             ]
                         },
                         {
@@ -15361,14 +15361,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっとただの壁？」"
+                                "\"Uh, just a wall?\""
                             ]
                         },
                         {
@@ -15453,14 +15453,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ！！よく見れば装器特有のつなぎ目がある！！」"
+                                "\"Ah!! If you look closely, there's a seam that's\ncharacteristic of a device!!\""
                             ]
                         },
                         {
@@ -15537,21 +15537,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なるほど、視覚認識の装器に・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触っても分からない認識阻害の装器まで使われているんだね」"
+                                "\"I see, it's not just visual recognition devices, but also\nperception inhibition devices that you can't even feel.\""
                             ]
                         },
                         {
@@ -15667,21 +15660,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・絶対に分からないように作られている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハズなんだけれど・・・流石はスエルよね・・・」"
+                                "\"   It's supposed to be absolutely undetectable, but as\nexpected of Suelle.   \""
                             ]
                         },
                         {
@@ -15723,21 +15709,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まあ、そういうこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてここに呼ばれている私は当然、それを解く事も出来る」"
+                                "\"Well, that's how it is. And naturally, being called here, I\ncan also solve it.\""
                             ]
                         },
                         {
@@ -15904,14 +15883,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さっ、先に進むわよ」"
+                                "\"Come on, let's move forward.\""
                             ]
                         },
                         {
@@ -16532,14 +16511,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここが入口よ」"
+                                "\"This is the entrance.\""
                             ]
                         },
                         {
@@ -16624,14 +16603,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっとただの壁？」"
+                                "\"Uh, just a wall?\""
                             ]
                         },
                         {
@@ -16716,14 +16695,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ！！よく見れば装器特有のつなぎ目がある！！」"
+                                "\"Ah!! If you look closely, there's a seam that's\ncharacteristic of a device!!\""
                             ]
                         },
                         {
@@ -16800,21 +16779,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なるほど、視覚認識の装器に・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触っても分からない認識阻害の装器まで使われているんだね」"
+                                "\"I see, it's not just a visual recognition device, but also\none that prevents recognition even when touched.\""
                             ]
                         },
                         {
@@ -16930,21 +16902,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・絶対に分からないように作られている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハズなんだけれど・・・流石はスエルよね・・・」"
+                                "\"It's supposed to be absolutely undetectable... But as\nexpected of Suelle.\""
                             ]
                         },
                         {
@@ -16986,21 +16951,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まあ、そういうこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてここに呼ばれている私は当然、それを解く事も出来る」"
+                                "\"Well, that's how it is. And naturally, being called here, I\ncan also solve it.\""
                             ]
                         },
                         {
@@ -17167,14 +17125,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さっ、先に進むわよ」"
+                                "\"Come on, let's move forward.\""
                             ]
                         },
                         {
@@ -17684,14 +17642,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここが入口よ」"
+                                "\"This is the entrance.\""
                             ]
                         },
                         {
@@ -17776,14 +17734,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっとただの壁？」"
+                                "\"Uh, just a wall?\""
                             ]
                         },
                         {
@@ -17868,14 +17826,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ！！よく見れば装器特有のつなぎ目がある！！」"
+                                "\"Ah!! If you look closely, there's a seam that's\ncharacteristic of a device!!\""
                             ]
                         },
                         {
@@ -17952,21 +17910,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なるほど、視覚認識の装器に・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触っても分からない認識阻害の装器まで使われているんだね」"
+                                "\"I see, it's not just a visual recognition device, but also\none that prevents recognition even when touched.\""
                             ]
                         },
                         {
@@ -18082,21 +18033,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・絶対に分からないように作られている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハズなんだけれど・・・流石はスエルよね・・・」"
+                                "\"It's supposed to be absolutely undetectable... But as\nexpected of Suelle.\""
                             ]
                         },
                         {
@@ -18138,21 +18082,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まあ、そういうこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてここに呼ばれている私は当然、それを解く事も出来る」"
+                                "\"Well, that's how it is. And naturally, being called here, I\ncan also solve it.\""
                             ]
                         },
                         {
@@ -18319,14 +18256,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さっ、先に進むわよ」"
+                                "\"Come on, let's move forward.\""
                             ]
                         },
                         {
@@ -18809,7 +18746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ．ＭＰが全回復した。"
+                                "HP. MP has been fully restored."
                             ]
                         },
                         {
@@ -18908,8 +18845,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -19031,8 +18968,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,
@@ -20542,7 +20479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "MAXエーテルを手に入れた！"
+                                "Obtained MAX Ether!"
                             ]
                         },
                         {
@@ -20827,7 +20764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鋼鉄の額当てを手に入れた！"
+                                "Obtained an Iron Headband!"
                             ]
                         },
                         {
@@ -21110,7 +21047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "2000Gを手に入れた！"
+                                "Obtained 2000G!"
                             ]
                         },
                         {
@@ -21395,7 +21332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フルアーマー(リイス専用防具）を手に入れた！"
+                                "Acquired Full Armor (Rise's exclusive armor)!"
                             ]
                         },
                         {
@@ -21679,7 +21616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "煙玉を手に入れた！"
+                                "Obtained a smoke bomb!"
                             ]
                         },
                         {

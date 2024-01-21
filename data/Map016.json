@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ラスラの森",
+    "displayName": "Lasra Forest",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -9143,21 +9143,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さて、ようやくここまで来ましたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この森を進んだ場所にいよいよ例の洞窟があります」"
+                                "\"Well, we've finally made it this far. The cave we've been\nlooking for is just beyond this forest.\""
                             ]
                         },
                         {
@@ -9234,14 +9227,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これ以上、被害が拡大しないように頑張りましょう」"
+                                "\"Let's do our best to prevent any further damage from\nspreading.\""
                             ]
                         },
                         {
@@ -9376,14 +9369,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ここへ来るまでの間・・・、特に変わった様子もなかった）"
+                                "\"(Nothing seemed out of the ordinary on our way here.)\""
                             ]
                         },
                         {
@@ -9460,21 +9453,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（封鎖されていると言ってた通り・・・、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "広域サーチをしてもこの先に人の気配はない）"
+                                "\"(Just as they said it was sealed off, there's no sign of\nanyone ahead even after a wide search.)\""
                             ]
                         },
                         {
@@ -9551,21 +9537,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（森の中で待ち伏せもないとすると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に何もしない可能性が？）"
+                                "\"(If there's no ambush waiting in the forest, could it be\npossible that they really aren't doing anything?)\""
                             ]
                         },
                         {
@@ -9669,14 +9648,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「？ティナさん？どうしましたか？」"
+                                "\"?Tina-san? What's the matter?\""
                             ]
                         },
                         {
@@ -9769,14 +9748,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いえ・・・何でもないわ。先を急ぎましょう」"
+                                "\"No, it's nothing. Let's hurry on ahead.\""
                             ]
                         },
                         {
@@ -9852,7 +9831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マップ説明　2"
+                                "Map Description 2"
                             ]
                         },
                         {
@@ -9900,14 +9879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一部シナリオではイベントクリアまでキャラは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "街には戻ることが出来ません。"
+                                "In some scenarios, characters cannot return to town until\nthe event is cleared."
                             ]
                         },
                         {
@@ -9925,14 +9897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこで、キャラ切り替えアイコンに触れると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "操作キャラがリイスとスエルのペアに変わります。"
+                                "Touching the character switch icon will change the playable\ncharacters to a pair of Rise and Suelle."
                             ]
                         },
                         {
@@ -9950,14 +9915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "街で購入したもの、経験値、お金などは操作キャラ全体で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "引き継がれます。"
+                                "Items purchased in town, experience points, and money are\nshared among all playable characters."
                             ]
                         },
                         {
@@ -11841,7 +11799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ．ＭＰが全回復した。"
+                                "HP. MP has been fully restored."
                             ]
                         },
                         {
@@ -12620,8 +12578,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -12652,7 +12610,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "現在回想はありません。"
+                                "There are no flashbacks available at the moment."
                             ]
                         },
                         {
@@ -12673,8 +12631,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,
@@ -12820,8 +12778,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -12943,8 +12901,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,
@@ -13250,7 +13208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラッキーミルクを手に入れた！"
+                                "Lucky! I've obtained the Milk!"
                             ]
                         },
                         {
@@ -13533,7 +13491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "500Gを手に入れた！"
+                                "Obtained 500G!"
                             ]
                         },
                         {

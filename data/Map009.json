@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "エルド街　法務部",
+    "displayName": "Eld City Legal Affairs Department",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -2707,14 +2707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ようこそ、ここは法務部です。」"
+                                "Receptionist: \"Welcome, this is the Legal Affairs\nDepartment.\""
                             ]
                         },
                         {
@@ -2732,14 +2725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申請内容をそちらにある書類に記載して、こちらまでお持ちください」"
+                                "Receptionist: \"Please fill out the application form over\nthere and bring it to me.\""
                             ]
                         },
                         {
@@ -2962,14 +2948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ようこそ、ここは法務部です。」"
+                                "Receptionist: \"Welcome, this is the Legal Affairs\nDepartment.\""
                             ]
                         },
                         {
@@ -2987,14 +2966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申請内容をそちらにある書類に記載して、こちらまでお持ちください」"
+                                "Receptionist: \"Please fill out the application form over\nthere and bring it to me.\""
                             ]
                         },
                         {
@@ -3217,21 +3189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "剣士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この法部で直接指名されて受けれる特殊依頼は凄く難易度が高い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かわりに依頼料も凄く高いんだ」"
+                                "Swordsman: \"The special requests that are directly nominated\nin this department are incredibly difficult, but the reward\nis also very high.\""
                             ]
                         },
                         {
@@ -3249,14 +3207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "剣士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつか俺も指名されて依頼が受けれるよう頑張るよ」"
+                                "Swordsman: \"Someday, I'll work hard so that I can be\nnominated and take on those requests too.\""
                             ]
                         },
                         {
@@ -3479,14 +3430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この先は許可のある人しかお通し出来ません」"
+                                "Guard: \"Beyond this point, only those with permission may\npass.\""
                             ]
                         },
                         {
@@ -3504,14 +3448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「御用の方はまず、受付の方で許可をおとり下さい」"
+                                "Guard: \"If you have business here, please obtain permission\nat the reception first.\""
                             ]
                         },
                         {
@@ -3734,14 +3671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村娘"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の村の近くに普段現れない魔物が沢山現れて・・・」"
+                                "Village Girl: \"A lot of monsters that don't usually appear\nhave been showing up near my village...\""
                             ]
                         },
                         {
@@ -3759,21 +3689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村娘"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「状況申請にきたんだけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやらこの地域一帯で起こっているらしくて、待たされそうなの」"
+                                "Village Girl: \"I came to submit a situation report, but it\nseems like this is happening all over the region, so I might\nhave to wait.\""
                             ]
                         },
                         {
@@ -4080,14 +3996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この先は許可のある人しかお通し出来ません」"
+                                "Guard: \"Beyond this point, only those with permission may\npass.\""
                             ]
                         },
                         {
@@ -4105,14 +4014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「御用の方はまず、受付の方で許可をおとり下さい」"
+                                "Guard: \"If you have business here, please obtain permission\nat the reception first.\""
                             ]
                         },
                         {
@@ -4335,28 +4237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴族"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うちの家の近くに魔物が出て来てね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "困ったから法務部に依頼して冒険者を派遣してもらおうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ってるんだよ」"
+                                "Noble: \"Monsters have appeared near my house, it's quite\ntroubling. I'm thinking of requesting the legal department\nto dispatch an adventurer to deal with it.\""
                             ]
                         },
                         {

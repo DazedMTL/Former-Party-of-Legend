@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "法部　セルフィの部屋",
+    "displayName": "Legal Affairs, Selphie's Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -1826,7 +1826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガチャ・・・。"
+                                "Click."
                             ]
                         },
                         {
@@ -2071,14 +2071,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・待たせたわね」"
+                                "\"Sorry to keep you waiting.\""
                             ]
                         },
                         {
@@ -2120,14 +2120,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「セルフィ、もう大丈夫なの？」"
+                                "\"Selphie, are you alright now?\""
                             ]
                         },
                         {
@@ -2184,14 +2184,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、隷属の契約も無事解けたし問題ないわよ」"
+                                "\"Yes, the contract of servitude has been safely broken, so\nthere's no problem.\""
                             ]
                         },
                         {
@@ -2233,21 +2233,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「良かった。セルフィさんがいた部屋から凄く揺れる音がしてたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心配してたんだよ」"
+                                "\"Thank goodness. There was a lot of shaking coming from the\nroom Selphie-san was in, so I was worried.\""
                             ]
                         },
                         {
@@ -2296,14 +2289,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・そっ、それはその・・・」"
+                                "\"That, well, that's because...\""
                             ]
                         },
                         {
@@ -2358,14 +2351,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「オ〇ニーをしていたのよ・・・」"
+                                "\"I was masturbating.\""
                             ]
                         },
                         {
@@ -2407,14 +2400,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっ！！？・・・\\{えぇっ！！？\\}」"
+                                "\"What!!? Really!!?\""
                             ]
                         },
                         {
@@ -2456,21 +2449,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そういう場合じゃないのは分かっているんだけれどね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・その、寸止め責めってのをされてて」"
+                                "\"I know this isn't the time for it, but... I was being\nteased to the point of almost climaxing.\""
                             ]
                         },
                         {
@@ -2528,21 +2514,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ・・・アレは発狂するくらい辛いわよねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も発狂防止されてなかったら気が狂ってたわよ」"
+                                "\"Ah, that's incredibly tough, isn't it? If I hadn't been\nprevented from going mad, I would have lost my mind too.\""
                             ]
                         },
                         {
@@ -2616,21 +2595,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（しみじみ世間話のように話しているけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄く恐ろしい話をしているんじゃないかな）"
+                                "(They're talking so casually, but isn't this actually a\nterrifying conversation?)"
                             ]
                         },
                         {
@@ -2676,21 +2648,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っと、セルフィのオ〇ニーの話はひとまず置いといて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後はティナだけね」"
+                                "\"Anyway, let's put aside the talk of Selphie's masturbation\nfor now. The only one left is Tina.\""
                             ]
                         },
                         {
@@ -2739,21 +2704,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それなら、先ほどググカスがマロゲスの情報を話したって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報告が入ったわ」"
+                                "\"If that's the case, Gugukas just reported some information\nabout Maroges.\""
                             ]
                         },
                         {
@@ -2811,14 +2769,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「早っ！！？」"
+                                "\"That was fast!!?\""
                             ]
                         },
                         {
@@ -2875,21 +2833,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの二人は今回の件でも繋がっていたから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに分かったのよ」"
+                                "\"Those two were connected in this incident as well, so it\nwas quickly figured out.\""
                             ]
                         },
                         {
@@ -2931,14 +2882,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「早い方がいいんだけれどね・・・。それで場所も分かったの？」"
+                                "\"It's better to be quick, but did you also find out the\nlocation?\""
                             ]
                         },
                         {
@@ -2981,21 +2932,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「閉鎖されていたはずの魔物育成研究所よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこにマロゲスとティナがいるらしいわ」"
+                                "\"It's the monster breeding research facility that was\nsupposed to be closed. It seems Maroges and Tina are there.\""
                             ]
                         },
                         {
@@ -3052,14 +2996,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔物の人為的な成長誘導・・・禁止されているハズよね」"
+                                "\"Artificially inducing the growth of monsters... That's\nsupposed to be banned, right?\""
                             ]
                         },
                         {
@@ -3101,14 +3045,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあもしかしてマロゲスが依頼した魔物も・・・」"
+                                "\"So maybe the monsters Maroges requested are also...\""
                             ]
                         },
                         {
@@ -3182,14 +3126,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おそらく全て最初から仕組まれていたようね」"
+                                "\"It's likely that everything was planned from the start.\""
                             ]
                         },
                         {
@@ -3231,14 +3175,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・許せないね」"
+                                "\"I can't forgive this.\""
                             ]
                         },
                         {
@@ -3280,14 +3224,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、あの施設もろともマロゲスをぶっ飛ばしてやるわよ」"
+                                "\"Yeah, I'll blow Maroges and that facility to smithereens.\""
                             ]
                         },
                         {
@@ -3336,28 +3280,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・ぶっ飛ばすのは賛成なのだけれど一つ疑問が・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スエル達から聞いた話によればティナは洗脳されて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "記憶を書き換えらえているのよね？」"
+                                "\"I agree with blowing them away, but I have one question.\nAccording to what we heard from Suelle and the others, Tina\nhas been brainwashed and her memories rewritten, right?\""
                             ]
                         },
                         {
@@ -3368,21 +3298,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だとしたら洗脳が解けても、記憶が無かったり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "偽の記憶に支配されているんじゃないの？」"
+                                "\"If that's the case, even if the brainwashing is undone,\nwouldn't she be without her memories or dominated by false\nones?\""
                             ]
                         },
                         {
@@ -3424,21 +3347,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その点は大丈夫。リイスの時もそうだったんだけれど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "記憶を忘れさせるって言ってもなくなるわけじゃないんだ」"
+                                "\"That part is okay. It was the same with Rise; even though\nthey say her memories were made to be forgotten, it doesn't\nmean they're gone.\""
                             ]
                         },
                         {
@@ -3449,14 +3365,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「忘れさせるってのは・・・つまり思い出せないだけなんだ」"
+                                "\"Making her forget means, essentially, she just can't recall\nthem.\""
                             ]
                         },
                         {
@@ -3467,14 +3383,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それはリイスの洗脳を解いたときに記憶が戻ったことで実証済だよ」"
+                                "\"That was proven when we lifted Rise's brainwashing and her\nmemories returned.\""
                             ]
                         },
                         {
@@ -3485,28 +3401,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そして改編と言っても書き換えるわけじゃなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忘れることと、新たな記憶を植えつけることを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "両方行っているだけだったんだ」"
+                                "\"And as for rewriting, it's not actually rewriting but\nrather making her forget things and planting new memories at\nthe same time.\""
                             ]
                         },
                         {
@@ -3517,21 +3419,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「つまり、洗脳が切れた時点で忘れた記憶は思い出せるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "植えつけられた記憶は偽の記憶だってティナ自身が理解できるよ」"
+                                "\"So, when the brainwashing wears off, the forgotten memories\ncan be recalled, and Tina herself will be able to understand\nthat the planted memories are fake.\""
                             ]
                         },
                         {
@@ -3590,21 +3485,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なるほど、つまり契約の効果や洗脳を解けば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナも洗脳前の状態に戻るってことね」"
+                                "\"I see, so if we break the contract's effect and the\nbrainwashing, Tina can return to her state before the\nbrainwashing.\""
                             ]
                         },
                         {
@@ -3638,14 +3526,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なら問題なくマロゲスを倒せるわ」"
+                                "\"Then we can take down Maroges without any problems.\""
                             ]
                         },
                         {
@@ -3704,21 +3592,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「といっても・・・向こうはマロゲスじゃなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらく洗脳されたティナが待ち構えているでしょうし」"
+                                "\"Even so, it's likely not Maroges but probably the\nbrainwashed Tina who will be waiting for us.\""
                             ]
                         },
                         {
@@ -3752,14 +3633,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しっかりと準備してから向かいましょう」"
+                                "\"Let's make sure we're fully prepared before we head out.\""
                             ]
                         },
                         {
@@ -3857,7 +3738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マップの行き先に\\C[2]生物研究所\\C[0]が追加されました。"
+                                "The destination \\C[2]Biological Research Institute\\C[0] has\nbeen added to the map."
                             ]
                         },
                         {
@@ -3886,7 +3767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プレイキャラがリイスからセルフィに変更されました。"
+                                "The playable character has been changed from Rise to\nSelphie."
                             ]
                         },
                         {
@@ -3922,14 +3803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスが装備していた中で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セルフィが装備出来るアイテムを装備解除しました。"
+                                "Items that Rise was equipped with that Selphie can equip\nhave been unequipped."
                             ]
                         },
                         {

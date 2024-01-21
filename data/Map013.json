@@ -1771,14 +1771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "検問管"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは検問所だよ」"
+                                "Checkpoint Officer: \"This is a checkpoint.\""
                             ]
                         },
                         {
@@ -1796,14 +1789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "検問管"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「刑務所や法務部への物資搬入があれば、一旦ここへ持ってきてね」"
+                                "Checkpoint Officer: \"If you have supplies to deliver to the\nprison or the justice department, please bring them here\nfirst.\""
                             ]
                         },
                         {

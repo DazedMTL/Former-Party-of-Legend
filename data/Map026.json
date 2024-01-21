@@ -3241,21 +3241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは保育園よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者の人がお仕事中預けていくってのが多いわね」"
+                                "Teacher: \"This is a nursery. It's mostly used by adventurers\nto leave their children while they're at work.\""
                             ]
                         },
                         {
@@ -3273,14 +3259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「みんなパワフルで大変よ・・・」"
+                                "Teacher: \"Everyone is so energetic, it's quite a handful.\""
                             ]
                         },
                         {
@@ -3503,14 +3482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お姉ちゃんもおままごとする？」"
+                                "Child: \"Onee-chan, will you play house with me?\""
                             ]
                         },
                         {
@@ -3733,14 +3705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺、おままごとより外で遊びたいんだけれど・・・」"
+                                "Kid: \"I'd rather play outside than play house.\""
                             ]
                         },
                         {
@@ -3963,14 +3928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここってみんな同じ服を着てるのよ」"
+                                "Child: \"Everyone here wears the same clothes.\""
                             ]
                         },
                         {
@@ -3988,14 +3946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「街に出ちゃっても誰かが見つけれるようにってことらしいけれど」"
+                                "Child: \"It seems to be so that someone can find you if you\ngo out into the city.\""
                             ]
                         },
                         {
@@ -4013,14 +3964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「正直、もっとオシャレしたいわね」"
+                                "Child: \"Honestly, I'd like to dress more stylishly.\""
                             ]
                         },
                         {

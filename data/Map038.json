@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ラスラの森　洞窟前",
+    "displayName": "Lasra Forest - In front of the Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -7704,7 +7704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ．ＭＰが全回復した。"
+                                "HP. MP has been fully restored."
                             ]
                         },
                         {
@@ -8118,14 +8118,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おやおや、ずいぶん遅かったですねぇ」"
+                                "\"Oh my, you took quite a while to arrive.\""
                             ]
                         },
                         {
@@ -8202,21 +8202,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でゅひっ、もしや、私ともっと居たいと思って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "任務を長引かせようとしているのですか？」"
+                                "\"Dyuhh, could it be that you're trying to prolong the\nmission because you want to spend more time with me?\""
                             ]
                         },
                         {
@@ -8309,14 +8302,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんなわけないでしょ」"
+                                "\"That's not it at all.\""
                             ]
                         },
                         {
@@ -8409,21 +8402,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でゅひひっ、そんなに睨まないでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昨日あんなに愛し合ったではありませんか」"
+                                "\"Dyuhuhu, please don't glare at me like that. Didn't we\nshare such love yesterday?\""
                             ]
                         },
                         {
@@ -8500,21 +8486,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ、いいでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早速目的の洞窟に行きましょうか」"
+                                "\"Well, no matter. Shall we head to the cave that's our\nobjective right away?\""
                             ]
                         },
                         {
@@ -8621,14 +8600,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・依頼はこなそうとするのね）"
+                                "\"(He's insisting on completing the request, huh.)\""
                             ]
                         },
                         {
@@ -8705,14 +8684,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（洗脳するのが目的であれば依頼を達成する必要がない）"
+                                "\"(If the purpose was to brainwash me, there would be no need\nto complete the request.)\""
                             ]
                         },
                         {
@@ -8789,21 +8768,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（時間をフルに使ってこのままこの休憩所に閉じこもって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調教すればいいだけだ）"
+                                "\"(He could just use the full time to keep me confined in\nthis rest area for training.)\""
                             ]
                         },
                         {
@@ -8880,21 +8852,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（それなのにわざわざ依頼をこなそうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "するってことは・・・）"
+                                "\"(And yet he's going out of his way to complete the request,\nwhich means...)\""
                             ]
                         },
                         {
@@ -8971,21 +8936,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（隷属の契約どおり、私が依頼をこなす動きを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しなければならない）"
+                                "\"(According to the contract of servitude, I must act to\ncomplete the request or it would be considered non-\nfulfillment.)\""
                             ]
                         },
                         {
@@ -9062,21 +9020,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ようは私が依頼をしていると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私自身が思い込まないと依頼不履行になるって考え）"
+                                "\"(In other words, unless I myself am convinced that I am\nundertaking the request, it would be a breach of contract.)\""
                             ]
                         },
                         {
@@ -9169,21 +9120,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（それかもしくは・・・、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!この先に私をハメる罠を事前に仕掛けている可能性）"
+                                "\"(Or perhaps, he has set a trap ahead to ensnare me.)\""
                             ]
                         },
                         {
@@ -9301,14 +9245,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まぁ、どちらにせよ洞窟に向かうしかないのよね・・・）"
+                                "\"(Well, either way, I have no choice but to head towards the\ncave...)\""
                             ]
                         },
                         {
@@ -9385,21 +9329,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、もちろん行くわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさと依頼を終わらせたいからね」"
+                                "\"Yes, of course I'm going. I want to get this request over\nwith quickly.\""
                             ]
                         },
                         {
@@ -9492,14 +9429,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・でもその前に、一応試しておくわね」"
+                                "\"But before that, I'll give something a try.\""
                             ]
                         },
                         {
@@ -9592,14 +9529,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はて？何を試すのですか？」"
+                                "\"What might you be testing?\""
                             ]
                         },
                         {
@@ -9692,14 +9629,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こういうことを・・・よっ！！」"
+                                "\"Something like this... Take this!!\""
                             ]
                         },
                         {
@@ -9845,7 +9782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒュガッ！！"
+                                "Hyugah!!"
                             ]
                         },
                         {
@@ -9863,14 +9800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何の初動のモーションも見せず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目にもとまらぬ速さでティナはマロゲスに切りかかる。"
+                                "Without any initial motion and with a speed invisible to the\neye, Tina strikes at Maroges."
                             ]
                         },
                         {
@@ -9897,7 +9827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（！！？力が抜けて！！）"
+                                "(!!? My strength is draining away!!)"
                             ]
                         },
                         {
@@ -9942,7 +9872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドサッ・・・。"
+                                "Thud."
                             ]
                         },
                         {
@@ -9960,7 +9890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うっく・・・」"
+                                "\"Ugh...\""
                             ]
                         },
                         {
@@ -9978,14 +9908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その切っ先がマロゲスに届く前に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナの力を込めた刃は減速し、ティナは地面に倒れる。"
+                                "Before Tina's blade could reach Maroges, it slowed down, and\nTina fell to the ground."
                             ]
                         },
                         {
@@ -10085,21 +10008,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おやおや、怖いですなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いきなり雇い主に切りかかるとは・・・」"
+                                "\"Oh dear, how frightening. To suddenly strike at your\nemployer.\""
                             ]
                         },
                         {
@@ -10192,14 +10108,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でゅふっ！！でも、無駄ですよ」"
+                                "\"Dyufu!! But, it's futile.\""
                             ]
                         },
                         {
@@ -10276,21 +10192,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「洗脳奴隷の術式は反抗すると、私が許可するまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体に力が入らなくなる仕組みですからねぇ」"
+                                "\"The spell of a brainwashed slave is designed so that if you\nrebel, you won't be able to muster any strength until I\npermit it.\""
                             ]
                         },
                         {
@@ -10383,21 +10292,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（くっ・・・、攻撃にも対策を講じているとは思ったけれど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか立つことすら出来なくなるとは・・・）"
+                                "\"(Damn, I thought he might have taken precautions against\nattacks, but to think I wouldn't even be able to stand...)\""
                             ]
                         },
                         {
@@ -10514,14 +10416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マロゲスはティナの体に触り、何かを唱えると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナの体に力が戻っていく。"
+                                "Maroges touches Tina's body and chants something, and\nstrength returns to Tina's body."
                             ]
                         },
                         {
@@ -10630,21 +10525,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふひっ、これで分かったでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナさんが出来ることは依頼を達成することだけですよ」"
+                                "\"Fuhii, now do you understand? The only thing you can do,\nTina-san, is to complete the request.\""
                             ]
                         },
                         {
@@ -10737,21 +10625,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・ふん、アンタがおとなしくしてれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐにでも終わるわよ」"
+                                "\"Hmph, if you behave yourself, this will be over before you\nknow it.\""
                             ]
                         },
                         {
@@ -10828,14 +10709,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（今は攻略の手がない以上、従うしかないわね）"
+                                "\"(For now, since I have no means of overcoming this, I have\nno choice but to obey.)\""
                             ]
                         },
                         {
@@ -10912,21 +10793,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そのうえで考えられる方法を一つ一つ試して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "弱点を探るしかない・・・）"
+                                "\"(On top of that, I'll have to try every method I can think\nof one by one to find a weakness.)\""
                             ]
                         },
                         {
@@ -10949,14 +10823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっさと行くわよ・・・アンタをぶっ飛ばすために」"
+                                "Tina: \"Let's get moving. For the sake of blasting you away.\""
                             ]
                         },
                         {
@@ -10974,7 +10841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マロゲスにもティナの考えていることは分かっているだろう。"
+                                "Maroges probably understands what Tina is thinking."
                             ]
                         },
                         {
@@ -10992,14 +10859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでもマロゲスに余裕があることが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この状況の打破の難しさを物語っているようだった。"
+                                "Still, the fact that Maroges has the upper hand speaks\nvolumes about the difficulty of breaking this situation."
                             ]
                         },
                         {

@@ -2199,21 +2199,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いた！！あの魔物の背中にある鉱石が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素材となる石なんだ！！」"
+                                "\"There it is!! The ore on that monster's back is the\nmaterial we need!!\""
                             ]
                         },
                         {
@@ -2290,14 +2283,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「気を付けて・・・すっごく強い魔物なんだ」"
+                                "\"Be careful, it's a really strong monster.\""
                             ]
                         },
                         {
@@ -2390,21 +2383,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「確かに他と違う気配を感じるわ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは本当に強敵ね、スエルは・・・」"
+                                "\"I can definitely sense a different aura from it. This is\ntruly a formidable foe, Suelle.\""
                             ]
                         },
                         {
@@ -2497,14 +2483,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「分かってる！！終わるまで避難しておくよ！！」"
+                                "\"I know!! I'll take shelter until it's over!!\""
                             ]
                         },
                         {
@@ -2597,14 +2583,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よしっ、いつも通り！！」"
+                                "\"Alright, as usual!!\""
                             ]
                         },
                         {
@@ -2709,14 +2695,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さぁ、いくわよ！！」"
+                                "\"Now, let's go!!\""
                             ]
                         },
                         {
@@ -2821,14 +2807,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁあああっ！！」"
+                                "\"Haaaahhh!!\""
                             ]
                         },
                         {
@@ -2971,7 +2957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズウゥゥウゥウンッ！！"
+                                "ZZZOOOOOOOMMM!!"
                             ]
                         },
                         {
@@ -3066,14 +3052,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「貴方も十分強かったわ・・・でも私が強すぎたのよ・・・」"
+                                "\"You were quite strong... But I was just too powerful.\""
                             ]
                         },
                         {
@@ -3207,14 +3193,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さて、お目当ての物はこれでいいのよね？」"
+                                "\"Now, this is what we were after, right?\""
                             ]
                         },
                         {
@@ -3258,7 +3244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]エルドグラス鉱石\\C[0]を手に入れた。"
+                                "\\C[2]You obtained Lucent Glass Ore.\\C[0]"
                             ]
                         },
                         {
@@ -3339,14 +3325,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとう…これを使えば理論上はうまくいくはず」"
+                                "\"Thank you... Theoretically, this should work.\""
                             ]
                         },
                         {
@@ -3439,21 +3425,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・特定周波を解析してエネルギー効率を・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "通常の術式の膜を特殊障壁に・・・」"
+                                "\"   Analyzing specific frequencies to improve energy\nefficiency... Converting the usual spell formula into a\nspecial barrier...\""
                             ]
                         },
                         {
@@ -3557,14 +3536,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あーはいはい、そういうのは帰ってからにするわよ」"
+                                "\"Ah- yes yes, let's save that talk for when we get back.\""
                             ]
                         },
                         {
@@ -3657,21 +3636,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん…本当に作ったものが上手くいくか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緊張して何度も確認してしまうんだ…」"
+                                "\"Yeah... I'm just nervous about whether what I've made will\nactually work, so I keep checking it over and over...\""
                             ]
                         },
                         {
@@ -3764,14 +3736,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「大丈夫よ。私はアンタの実力を信じてるわ」"
+                                "\"Don't worry. I believe in your abilities.\""
                             ]
                         },
                         {
@@ -3864,21 +3836,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ、ここまで待たせて失敗したら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スペシャルおしおきコースだけれどね？」"
+                                "\"Well, if you've kept me waiting this long only to fail,\nyou'll be in for a special punishment course, you know?\""
                             ]
                         },
                         {
@@ -3971,14 +3936,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おっ、恐ろしい…。気合い入れて作るよ！！」"
+                                "\"Oh, that's scary... I'll put my spirit into making it\nwork!!\""
                             ]
                         },
                         {
@@ -4071,21 +4036,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「程々にね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…私もがんばって手がかりを探すわ」"
+                                "\"Just moderately, okay?... I'll also do my best to look for\nclues.\""
                             ]
                         },
                         {
@@ -4108,14 +4066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、頑張るわよっ！！」"
+                                "Rise: \"Alright, let's give it our all!!\""
                             ]
                         },
                         {
@@ -4198,7 +4149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その頃・・・とある地下施設では・・・。"
+                                "Meanwhile, in a certain underground facility..."
                             ]
                         },
                         {

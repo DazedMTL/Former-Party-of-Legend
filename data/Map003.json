@@ -12558,7 +12558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「大丈夫？スエル」"
+                                "\"Are you okay, Suelle?\""
                             ]
                         },
                         {
@@ -12584,14 +12584,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとう、助かったよティナ」"
+                                "\"Thank you, I'm saved, Tina.\""
                             ]
                         },
                         {
@@ -12602,14 +12602,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でもどうしてここに？」"
+                                "\"But why are you here?\""
                             ]
                         },
                         {
@@ -12635,21 +12635,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここの洞窟を抜けた山に魔物の群れが出没しててね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "丁度退治した帰り道だったのよ」"
+                                "\"There was a swarm of monsters on the mountain past this\ncave. I was just on my way back from subduing them.\""
                             ]
                         },
                         {
@@ -12676,14 +12669,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それよりもスエルの方こそ、どうしてこんな場所に？」"
+                                "\"More importantly, what about you, Suelle? Why are you in a\nplace like this?\""
                             ]
                         },
                         {
@@ -12725,14 +12718,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「新しい装具を作るのに素材が欲しくてね」"
+                                "\"I wanted some materials to make a new piece of equipment.\""
                             ]
                         },
                         {
@@ -12750,7 +12743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言ってスエルは先ほどまで採取していた鉱石を見せる。"
+                                "Suelle showed the ore he had been collecting until just a\nmoment ago."
                             ]
                         },
                         {
@@ -12776,14 +12769,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「言ってくれれば私も一緒について来てあげたのに・・・」"
+                                "\"If you had told me, I would have come with you.\""
                             ]
                         },
                         {
@@ -12794,14 +12787,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ティナも忙しそうだったし・・・」"
+                                "\"You seemed busy too, Tina.\""
                             ]
                         },
                         {
@@ -12812,21 +12805,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それにここは比較的安全な場所のはずだったから一人でも問題ないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ったんだけれど・・・」"
+                                "\"Besides, this place was supposed to be relatively safe, so\nI thought it would be no problem to come alone.\""
                             ]
                         },
                         {
@@ -12844,7 +12830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルの言葉にティナも先ほど倒した魔物に視線を向ける。"
+                                "Tina also looked at the monsters she had defeated earlier\nupon hearing Suelle's words."
                             ]
                         },
                         {
@@ -12862,14 +12848,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・このモンスター達、本来こんな所にいるはずがない種族ね」"
+                                "\"These monsters... they're not the kind that should be in a\nplace like this.\""
                             ]
                         },
                         {
@@ -12902,21 +12888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナが倒したモンスターは、本来ならば数人のパーティを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "組んで討伐するほどのモンスターだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "町の近くにある洞窟にいるようなモンスターではなかった。"
+                                "The monsters Tina had defeated were the kind that normally\nrequired a party of several people to subdue. They were not\nthe type of monsters that should be near a town or in its\ncaves."
                             ]
                         },
                         {
@@ -12927,14 +12899,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もしかしたら、生態系のバランスに何かあったのかも・・・」"
+                                "\"Maybe there's been some disturbance in the ecosystem.\""
                             ]
                         },
                         {
@@ -12945,21 +12917,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、本当に助かったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さすがは魔王を倒した勇者一行、ルセントのメンバーだね」"
+                                "\"But really, I owe you one. As expected of a member of\nLucent, the party that defeated the Demon Lord.\""
                             ]
                         },
                         {
@@ -12977,14 +12942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルの言ったことは本当だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナは魔王を倒したメンバーの一人である。"
+                                "What Suelle said was true. Tina was indeed one of the\nmembers who had defeated the Demon Lord."
                             ]
                         },
                         {
@@ -13011,14 +12969,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・はぁ、相変わらずねぇ」"
+                                "\"Sigh, as usual.\""
                             ]
                         },
                         {
@@ -13036,7 +12994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしスエルの言葉にティナは何とも言い難い顔をしていた。"
+                                "However, Tina made a face that was hard to describe upon\nhearing Suelle's words."
                             ]
                         },
                         {
@@ -13047,39 +13005,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・いつも他人事のように言ってるけれど、アンタも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのメンバーの一人だったでしょ？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう、スエル自身もその勇者メンバーの一人であったのだ。"
+                                "\"You always talk as if it's someone else's business, but\nweren't you also one of those members?\""
                             ]
                         },
                         {
@@ -13097,7 +13030,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とは言ってもスエル自身にティナほどの戦闘力はない。"
+                                "Indeed, Suelle himself was also one of those heroic members."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Even so, Suelle himself doesn't have the same combat ability\nas Tina."
                             ]
                         },
                         {
@@ -13123,14 +13074,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「僕はメンバーと言っても装具士だけれどね」"
+                                "\"Even though I'm a member, I'm just an artificer.\""
                             ]
                         },
                         {
@@ -13148,21 +13099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようはスエル自身、戦闘はからっきしで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勇者パーティの装具士としてのサポート役として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メンバーに入っていたのだ。"
+                                "Essentially, Suelle was quite poor at combat, and he joined\nthe party as an artificer to provide support for the hero's\nparty."
                             ]
                         },
                         {
@@ -13215,7 +13152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "装具。"
+                                "Artificer."
                             ]
                         },
                         {
@@ -13233,14 +13170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この世界の術式を利用したアイテムや武器、防具のことである。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段はいろいろな形をしており、効果によってさまざまな役割を持つ。"
+                                "Artificers are items, weapons, and armor that utilize the\nspells and techniques of this world. They usually come in\nvarious forms and have a wide range of effects depending on\ntheir purpose."
                             ]
                         },
                         {
@@ -13293,7 +13223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "例えばティナもスエルが作ったリングを持っている。"
+                                "For example, Tina also has a ring made by Suelle."
                             ]
                         },
                         {
@@ -13311,7 +13241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このリングはティナが力を込めると剣に変質する特殊な装具だ。"
+                                "This ring is a special piece of artifice that transforms\ninto a sword when Tina channels her power into it."
                             ]
                         },
                         {
@@ -13329,14 +13259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "装具は戦いにおいて重要な役割を持ち、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その装具を開発、調整、修正、修理などを行うものを装具士と呼ぶ。"
+                                "An artificer plays an important role in battle, developing,\nadjusting, modifying, and repairing such artifice, and those\nwho perform these tasks are called artificers."
                             ]
                         },
                         {
@@ -13354,14 +13277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "故に長旅をする場合、いかに勇者一行であれど装具士という役割は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パーティには必須だった。"
+                                "Therefore, even for a hero's party on a long journey, the\nrole of an artificer was essential."
                             ]
                         },
                         {
@@ -13424,21 +13340,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「僕は装具のサポートをしていただけだよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦闘をこなしていたのは全部ティナ達だし・・・」"
+                                "\"I was just providing support with the artifice. The ones\nhandling the combat were all Tina and the others.\""
                             ]
                         },
                         {
@@ -13472,7 +13381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルの言葉に先ほどよりもさらに深くティナは、はぁっ息を吐いた。"
+                                "Tina let out an even deeper sigh than before at Suelle's\nwords."
                             ]
                         },
                         {
@@ -13498,21 +13407,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あんたの作った装具なんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今や世の中で誰もが使っている装具の基礎になってるし」"
+                                "\"The artifice you created has become the foundation for all\nthe artifice used in the world now.\""
                             ]
                         },
                         {
@@ -13523,21 +13425,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにより実際問題として、アンタの装具が無かったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔王を倒せていたかも怪しいわよ・・・\\!って何度もいってるんだけれど」"
+                                "\"More importantly, as a matter of fact, it's dubious whether\nwe could have defeated the Demon Lord without your\nartifice... I've said this many times.\""
                             ]
                         },
                         {
@@ -13555,14 +13450,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あまり分かってない顔してるわね・・・」"
+                                "\"You seem to not quite understand that.\""
                             ]
                         },
                         {
@@ -13588,14 +13483,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「実感ないからね・・・」"
+                                "\"I don't really feel it.\""
                             ]
                         },
                         {
@@ -13613,14 +13508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナの言いたいことは分かる、が別にスエルは謙遜しているわけでは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかった。"
+                                "Tina understood what she wanted to say, but Suelle wasn't\nbeing modest."
                             ]
                         },
                         {
@@ -13638,14 +13526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勇者一行として間近で見てきたティナ達の戦いっぷりはそれほどまでに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄かったのだ。"
+                                "The way Tina and the others fought as a hero's party was so\nimpressive that Suelle had witnessed it up close."
                             ]
                         },
                         {
@@ -13656,21 +13537,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まずティナ達が当たり前のように出来る全方位からの攻撃を察知する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんてことすら、普通の人には絶対出来ないし・・・」"
+                                "\"First of all, the ability to detect attacks from all\ndirections that Tina and the others do as if it's natural is\nsomething that ordinary people absolutely can't do.\""
                             ]
                         },
                         {
@@ -13688,7 +13562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "当然普通の人の中にはスエル自身も含まれており"
+                                "Of course, Suelle himself was included among those ordinary\npeople."
                             ]
                         },
                         {
@@ -13706,14 +13580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勇者パーティと行動を共にしていたスエルは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつ攻撃が飛んでくるか分からない状況に何度も晒された。"
+                                "Having accompanied the hero's party, Suelle was often\nexposed to situations where he didn't know when an attack\nmight come."
                             ]
                         },
                         {
@@ -13731,14 +13598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では、そんな時にティナのような全方位を察知できる実力者が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "周りにいたらどういった行動を取ればいいのか？"
+                                "So, what should one do when surrounded by powerful\nindividuals who can detect attacks from all directions like\nTina?"
                             ]
                         },
                         {
@@ -13756,14 +13616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "答えは簡単だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ジッと動かずに硬直して、なるべく邪魔をしないことに限る。"
+                                "The answer is simple. Stay still and rigid, trying not to\nget in the way as much as possible."
                             ]
                         },
                         {
@@ -13781,14 +13634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは魔王討伐の旅でにいろいろ行動した結果、最善策ということが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かった。"
+                                "This was understood to be the best course of action after\nvarious experiences during the journey to defeat the Demon\nLord."
                             ]
                         },
                         {
@@ -13806,21 +13652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなこともあってか、いくらサポートが役に立つと言われても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実際に戦うのはいつもティナ達であり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを間近で見ているからこそスエルは自分の非力さを痛感してしまう。"
+                                "Perhaps because of this, no matter how useful the support is\nsaid to be, it's always Tina and the others who actually\nfight, and seeing this up close makes Suelle acutely aware\nof his own lack of strength."
                             ]
                         },
                         {
@@ -13846,21 +13678,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ、全方位の攻撃が分かるといっても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "明らかな非戦闘員が予想外の不意打ちをしてきたら反応が遅れるわよ」"
+                                "\"Well, even if we can detect attacks from all directions, if\na clear non-combatant makes an unexpected surprise attack,\nour reaction might be delayed.\""
                             ]
                         },
                         {
@@ -13886,21 +13711,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それもそうだけれど・・・、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナにはフルボディっていう固有スキルよね？」"
+                                "\"That's true, but Tina, you have a unique skill called Full\nBody, right?\""
                             ]
                         },
                         {
@@ -13948,7 +13766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "固有スキル。"
+                                "Unique Skill."
                             ]
                         },
                         {
@@ -13966,14 +13784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この世界の人々には普通のスキルとは別に個人に特殊な固有スキルが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "備わることがある。"
+                                "In this world, people have unique skills that are different\nfrom normal skills and are specific to individuals."
                             ]
                         },
                         {
@@ -13991,7 +13802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フルボディとはその一種で、ティナ専用の固有スキルだ。"
+                                "Full Body is one such skill, exclusive to Tina."
                             ]
                         },
                         {
@@ -14009,14 +13820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔王討伐時代、子供が操られて不意打ちで銃弾を受けたりなど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナにも危ない場面もあった。"
+                                "During the era of the Demon Lord's subjugation, there were\ndangerous moments for Tina, such as when a child was\nmanipulated into making a surprise gunshot attack."
                             ]
                         },
                         {
@@ -14034,14 +13838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしティナのフルボディという能力は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんな不意打ちもオートで攻撃をはじいてくれるのだ。"
+                                "However, Tina's ability Full Body automatically deflects any\nsurprise attacks."
                             ]
                         },
                         {
@@ -14083,28 +13880,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「とはいってもフルボディは、私が敵でないと認識した者からの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不意打ちでないと発動しない上、自動防除に切り替わったとき、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一瞬だけ意識が途切れるのよねぇ」"
+                                "\"Even so, Full Body only activates against surprise attacks\nfrom those I don't recognize as enemies, and when it\nswitches to automatic defense, my consciousness is\ninterrupted for a moment.\""
                             ]
                         },
                         {
@@ -14131,21 +13914,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その一瞬の遅れは強敵との戦いで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "決定的な隙になるし・・・あまり発動させたくはないのよ」"
+                                "\"That momentary delay can become a critical vulnerability in\na battle against a formidable enemy, so I'd rather not\nactivate it too often.\""
                             ]
                         },
                         {
@@ -14163,14 +13939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナの一瞬というのは文字通り本当に一瞬だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそも戦闘の経験の薄いスエルではそれを認識することすらできない。"
+                                "The 'moment' Tina refers to is literally just an instant.\nSuelle, with little experience in combat, couldn't even\nperceive it."
                             ]
                         },
                         {
@@ -14181,21 +13950,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんな一瞬が左右する戦闘なんて・・・もう魔王もいない今だし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今後ないような気が」"
+                                "\"I feel like battles where such an instant can be decisive\nwon't happen anymore now that the Demon Lord is gone.\""
                             ]
                         },
                         {
@@ -14213,21 +13975,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まぁね。でもだからといってまだ世界には大量のモンスターが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中には強力なモンスターもいる」"
+                                "\"Well, yes. But that doesn't mean we can neglect the fact\nthat there are still a large number of monsters in the\nworld, some of which are powerful.\""
                             ]
                         },
                         {
@@ -14254,21 +14009,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おろそかにして油断するわけにはいかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勇者が帰った今、まだまだ修行は続けるつもりよ？」"
+                                "\"We can't afford to be careless and let our guard down. Now\nthat the hero has returned, I intend to continue my\ntraining.\""
                             ]
                         },
                         {
@@ -14301,14 +14049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナは実際にスエルの思っている通り、戦闘においては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最強格の一人であろう。"
+                                "Tina is indeed one of the strongest in combat, just as\nSuelle imagines."
                             ]
                         },
                         {
@@ -14342,14 +14083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも、ティナの本当の意味での強さは、慢心せずに努力し続ける所に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるとスエルは思っていた。"
+                                "But Suelle thought that Tina's true strength lay in her\ncontinuous effort without becoming complacent."
                             ]
                         },
                         {
@@ -14374,7 +14108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グォオオオオッ！！"
+                                "Gwooooooh!!"
                             ]
                         },
                         {
@@ -14408,14 +14142,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っと、ちょっと長話をしてしまったわね」"
+                                "\"Oops, we've been talking for quite a while, haven't we?\""
                             ]
                         },
                         {
@@ -14433,7 +14167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「また魔物が現れる前に、とりあえず街に帰ろうか」"
+                                "\"Before any more monsters show up, let's head back to town\nfor now.\""
                             ]
                         },
                         {
@@ -14512,7 +14246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マップ説明"
+                                "Map Explanation"
                             ]
                         },
                         {
@@ -14549,14 +14283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マップには青と赤のクリスタルがあり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近づいて決定キーを押すと効果を発揮します。"
+                                "On the map, there are blue and red crystals. Approach them\nand press the confirm key to activate their effects."
                             ]
                         },
                         {
@@ -14606,14 +14333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]青\\C[0]・・・味方のHP、MPを全回復。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]赤\\C[0]・・・回想モードへの移行。陰毛切替"
+                                "\\C[1]Blue\\C[0]   Fully restores allies' HP and MP.\\C[2]\nRed\\C[0]   Transitions to reminiscence mode. Pubic hair\ntoggle."
                             ]
                         },
                         {
@@ -14650,14 +14370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、マップ行動中にキャラのフキダシアイコンをクリックすると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次の目的のヒントを教えてくれます。"
+                                "Also, clicking on the speech bubble icon of a character\nduring map actions will give you hints about your next\nobjective."
                             ]
                         },
                         {
@@ -14694,14 +14407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もし、何をすれば良いか分からなくなった場合は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "活用してください。"
+                                "If you're ever unsure about what to do next, please make use\nof this feature."
                             ]
                         },
                         {

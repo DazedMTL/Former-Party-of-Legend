@@ -3473,14 +3473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベテラン傭兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい、交代の時間だ」"
+                                "Veteran Mercenary: \"Hey, it's time to switch.\""
                             ]
                         },
                         {
@@ -3498,14 +3491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新人傭兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ようやく交代の時間・・・立ってるだけなのにドッと疲れましたよ」"
+                                "New Mercenary: \"Finally, it's time to switch. Just standing\nhere makes me so tired.\""
                             ]
                         },
                         {
@@ -3561,7 +3547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{「ひぎゃぁああああああっ！！」"
+                                "\"Aaahhhhhhh!!\""
                             ]
                         },
                         {
@@ -3667,14 +3653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベテラン傭兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・、またやってるのか・・・」"
+                                "Veteran Mercenary: \"Again, they're at it, huh...\""
                             ]
                         },
                         {
@@ -3692,21 +3671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新人傭兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今回のはググカス様のお気に入りですからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にたまったもんじゃないですよ・・・」"
+                                "New Mercenary: \"This one is Lord Gugukas's favorite, after\nall. It's really too much.\""
                             ]
                         },
                         {
@@ -3724,21 +3689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベテラン傭兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい、ここでは雇い主に対する愚痴は慎めよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺らは何も関与せず、ただ警備しているだけでいいんだ」"
+                                "Veteran Mercenary: \"Hey, watch your mouth here. We're not\nsupposed to get involved, just stand guard and that's it.\""
                             ]
                         },
                         {
@@ -3756,14 +3707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新人傭兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうでしたね。では俺は上がるんで・・・」"
+                                "New Mercenary: \"Right, I forgot. Well, I'm going off then.\""
                             ]
                         },
                         {
@@ -3786,14 +3730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベテラン傭兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、ゆっくり休めよ」"
+                                "Veteran Mercenary: \"Yeah, rest up.\""
                             ]
                         },
                         {
@@ -3943,14 +3880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベテラン傭兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(関与せずただ警備・・・か）"
+                                "Veteran Mercenary: (Just stand guard without getting\ninvolved, huh...)"
                             ]
                         },
                         {
@@ -3968,21 +3898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベテラン傭兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（・・・金のためとはいえ、こんな事仕事をして・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺は何をやってうんだろうな）"
+                                "Veteran Mercenary: (Even if it's for the money, doing this\nkind of job... what am I really doing here?)"
                             ]
                         },
                         {
@@ -4005,14 +3921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪事に加担し、しかしそれをただ見ているだけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな自分自身に落胆しながら男は今日も扉の前に立つ。"
+                                "Complicit in evil deeds, yet merely an observer; the man\nstands by the door today as well, disappointed in himself."
                             ]
                         },
                         {
@@ -4037,21 +3946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雇い主であるググカスがいる部屋の扉、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その横に付けられた腕が入るくらいの鉄格子付きの穴に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男は視線をうつし中を覗き込んだ。"
+                                "The man shifts his gaze to a small barred window next to the\ndoor of the room where their employer, Gugukas, is located\nand peeks inside."
                             ]
                         },
                         {

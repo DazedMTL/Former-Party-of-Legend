@@ -2839,7 +2839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ．ＭＰが全回復した。"
+                                "HP. MP has been fully restored."
                             ]
                         },
                         {
@@ -2938,8 +2938,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -2970,7 +2970,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "現在回想はありません。"
+                                "There are no flashbacks available at the moment."
                             ]
                         },
                         {
@@ -2991,8 +2991,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,
@@ -3138,8 +3138,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -3252,8 +3252,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,
@@ -3502,14 +3502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちは街とは逆の方向だね」"
+                                "Suelle: \"This way is the opposite direction from the town,\nisn't it?\""
                             ]
                         },
                         {
@@ -3527,14 +3520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今は街に戻ろう」"
+                                "Suelle: \"Let's head back to town for now.\""
                             ]
                         },
                         {
@@ -3793,14 +3779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今はこの先に行く必要はなさそうね」"
+                                "Tina: \"It doesn't seem like we need to go any further right\nnow.\""
                             ]
                         },
                         {
@@ -4059,14 +4038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今はこの先に行く必要はないわね」"
+                                "Rise: \"There's no need to go any further right now.\""
                             ]
                         },
                         {
@@ -4751,14 +4723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちは街とは逆の方向だね」"
+                                "Suelle: \"This way is the opposite direction from town, isn't\nit?\""
                             ]
                         },
                         {
@@ -4776,14 +4741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今は街に戻ろう」"
+                                "Suelle: \"Let's head back to town for now.\""
                             ]
                         },
                         {
@@ -5042,14 +5000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今はこの先に行く必要はなさそうね」"
+                                "Tina: \"It doesn't seem like we need to go any further right\nnow.\""
                             ]
                         },
                         {
@@ -5308,14 +5259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今はこの先に行く必要はないわね」"
+                                "Rise: \"There's no need to go any further right now.\""
                             ]
                         },
                         {

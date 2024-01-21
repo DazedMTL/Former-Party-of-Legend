@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "法部　セルフィの部屋",
+    "displayName": "Legal Department - Selphie's Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -1875,7 +1875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・数時間後・・・。"
+                                "Several hours later."
                             ]
                         },
                         {
@@ -1905,7 +1905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガチャ・・・。"
+                                "Click."
                             ]
                         },
                         {
@@ -2115,14 +2115,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お帰り、リイス。ググカス法務長に報告出来た？」"
+                                "\"Welcome back, Rise. Were you able to report to Gugukas, the\nMinister of Justice?\""
                             ]
                         },
                         {
@@ -2149,28 +2149,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それが会いにいったんだけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よその街に出向く急な案件が入ったらしくてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はいないらしいのよ」"
+                                "\"That was the plan, but it seems he had to rush off to an\nurgent case in another town. He's not here right now.\""
                             ]
                         },
                         {
@@ -2209,14 +2195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "街に戻ったスエルはセルフィの部屋に向かい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "催眠術式についての調べものをしていた。"
+                                "Suelle returned to town and headed to Selphie's room to\nresearch hypnotic spells."
                             ]
                         },
                         {
@@ -2234,14 +2213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスはそのままググカス法務長へ洗脳についての"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報告に向かったのだが、どうもググカスはいないようだった。"
+                                "Rise went to report about the brainwashing to Gugukas, the\nMinister of Justice, but it seems Gugukas was not there."
                             ]
                         },
                         {
@@ -2282,28 +2254,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それで通信装器で職員が連絡しようとしてくれたんだけれどね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうも繋がらないらしくて・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらく通信が出来ない施設にいるのだろうって」"
+                                "\"So I tried to have the staff contact him through the\ncommunication device, but it seems they couldn't get\nthrough. He's probably in a facility where communication is\nimpossible.\""
                             ]
                         },
                         {
@@ -2345,21 +2303,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「通信できない施設・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "監獄施設や、機密施設あたりかな？」"
+                                "\"A facility where communication is impossible... Maybe a\nprison or a confidential facility?\""
                             ]
                         },
                         {
@@ -2386,14 +2337,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もしかして、ティナ姉について何か進展があったとか？」"
+                                "\"Could it be that there's been some progress with Tina Onee-\nsan?\""
                             ]
                         },
                         {
@@ -2435,21 +2386,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私もそう思って聞いたんだけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詳しい内容を部下に伝えずに出て行ったらしいのよ」"
+                                "\"I thought so too and asked, but it seems he left without\ntelling his subordinates the details.\""
                             ]
                         },
                         {
@@ -2492,21 +2436,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ただ外せない用事が出来たって慌ててたみたいだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナがらみって事も十分あり得るわね」"
+                                "\"He seemed to be in a hurry because of some unavoidable\nbusiness, so it's quite possible it has something to do with\nTina.\""
                             ]
                         },
                         {
@@ -2548,21 +2485,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なるほど・・・それならググカス法務長が帰ってきたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞いてみようか」"
+                                "\"I see. Then we'll ask Gugukas, the Minister of Justice,\nwhen he gets back.\""
                             ]
                         },
                         {
@@ -2596,14 +2526,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうね、ティナに関係のあることなら私たちにも連絡するだろうし」"
+                                "\"Right. If it's related to Tina, he'll surely contact us\ntoo.\""
                             ]
                         },
                         {
@@ -2614,21 +2544,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひとまずググカスは置いといてセルフィに連絡ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナの状況についてすぐにでも報告したいところだけれど・・・」"
+                                "\"For now, let's put Gugukas aside and contact Selphie. I'd\nlike to report about Tina's situation as soon as\npossible...\""
                             ]
                         },
                         {
@@ -2670,21 +2593,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「セルフィさんは潜入捜査中だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちから連絡を取るわけには行かないね・・・」"
+                                "\"Selphie-san is undercover, so we can't just contact her\nfrom our end.\""
                             ]
                         },
                         {
@@ -2711,21 +2627,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、今日中に連絡するとは言ってたから夜には通信して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来るんじゃないかな？」"
+                                "\"But she said she would contact us within the day, so maybe\nshe'll get in touch by tonight?\""
                             ]
                         },
                         {
@@ -2767,14 +2676,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ならその時に洗脳について伝えた方がよさそうね」"
+                                "\"Then we should tell her about the brainwashing when she\ndoes.\""
                             ]
                         },
                         {
@@ -2816,21 +2725,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん、今は僕たちで出来るかぎりティナに使われた術式を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調べながらセルフィさんの連絡をまとう」"
+                                "\"Yeah, for now we'll do what we can to research the spell\nused on Tina while waiting for Selphie-san's contact.\""
                             ]
                         },
                         {
@@ -2867,14 +2769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうしてスエルとリイスは、セルフィの連絡が来るまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "各々調べものに取り掛かるのだった。"
+                                "And so Suelle and Rise began their respective research while\nwaiting for Selphie's contact."
                             ]
                         },
                         {
@@ -2989,7 +2884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・さらに数時間後・・・。"
+                                "Several more hours later."
                             ]
                         },
                         {
@@ -3116,21 +3011,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・うーん、もうこんな時間か・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手がかりがないと調べるのも難しいね」"
+                                "\"Hmm, it's already this late? It's difficult to investigate\nwithout any clues.\""
                             ]
                         },
                         {
@@ -3155,7 +3043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "背伸びをしてスエルは凝り固まった体をほぐす。"
+                                "Stretching, Suelle loosens his stiff body."
                             ]
                         },
                         {
@@ -3197,14 +3085,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そろそろ日付が変わるわね・・・セルフィ、連絡まだかしら？」"
+                                "\"It's about to be a new day. Has Selphie not contacted us\nyet?\""
                             ]
                         },
                         {
@@ -3246,14 +3134,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「朝出発したから、そろそろ連絡があってもいいんだけれど・・・」"
+                                "\"She left in the morning, so we should be getting a contact\nfrom her soon...\""
                             ]
                         },
                         {
@@ -3304,7 +3192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピピピッ！！ピピピッ！！"
+                                "Beep beep beep!! Beep beep beep!!"
                             ]
                         },
                         {
@@ -3331,14 +3219,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ、丁度セルフィから連絡が来たよ！！」"
+                                "\"Ah, right on time, there's a message from Selphie!!\""
                             ]
                         },
                         {
@@ -3381,14 +3269,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「流石セルフィ、タイミングがいいわね」"
+                                "\"As expected of Selphie, her timing is impeccable.\""
                             ]
                         },
                         {
@@ -3430,14 +3318,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっと・・・映像通信で通信して来てるからそのまま壁に写すね」"
+                                "\"Let's see... She's using video communication, so I'll\nproject it onto the wall.\""
                             ]
                         },
                         {
@@ -3460,7 +3348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言ってスエルは手際よく、通信装具を配置し通信を開始する。"
+                                "With that said, Suelle skillfully sets up the communication\ndevice and starts the transmission."
                             ]
                         },
                         {
@@ -3684,7 +3572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はーい、無料はここまでよ」"
+                                "\"Ha-i, the free part ends here.\""
                             ]
                         },
                         {
@@ -3709,7 +3597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "画面が切り替わり明るい声でそう語りながら女性が現れる。"
+                                "The screen switches and a woman appears, speaking in a\ncheerful voice."
                             ]
                         },
                         {
@@ -3727,7 +3615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗な人ではあるが、どこか危険な香りをスエルは感じ取った。"
+                                "She is beautiful, but Suelle senses something dangerous\nabout her."
                             ]
                         },
                         {
@@ -3761,14 +3649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この後ねぇ？セルフィちゃん、それはそれはよがり狂って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう何百回も絶頂してたのよ？」"
+                                "\"What happened next? Oh, Selphie-chan was writhing in\necstasy, climaxing hundreds of times already.\""
                             ]
                         },
                         {
@@ -3786,7 +3667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「男の子ってそういうの好きでしょう？見たいわよね？」"
+                                "\"Boys like that sort of thing, don't they? You want to see\nit, right?\""
                             ]
                         },
                         {
@@ -3804,7 +3685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも残念、ここから先は見たければお金を払ってね？」"
+                                "\"But too bad, if you want to see more, you'll have to pay.\""
                             ]
                         },
                         {
@@ -3829,7 +3710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クスクスと笑う女性を、スエルは言葉も返さずただただ呆然と見ていた。"
+                                "Staring at the giggling woman, Suelle is simply dumbfounded\nand speechless."
                             ]
                         },
                         {
@@ -3863,14 +3744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふっ、でも今回はセルフィちゃんと隷属の契約をするときに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スエル君が、役にたったから特別に見せてあげたのよ？」"
+                                "\"Hehe, but this time, since Suelle-kun was so helpful when\nSelphie-chan and I made our slave contract, I decided to\nshow you as a special treat.\""
                             ]
                         },
                         {
@@ -3910,7 +3784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと喜んで欲しいわぁと口をとがらせる。"
+                                "The woman pouts as if she wanted more of a reaction."
                             ]
                         },
                         {
@@ -3937,14 +3811,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「僕が・・・役に立った？」"
+                                "\"I was... helpful?\""
                             ]
                         },
                         {
@@ -3969,7 +3843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "映像の女性の言葉に引っかかりを覚えてスエルは聞き返す。"
+                                "Catching on the woman's words in the video, Suelle asks back\nwith a sense of unease."
                             ]
                         },
                         {
@@ -4018,7 +3892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら？まだ気が付いてなかったのねぇ」"
+                                "\"Oh? You still haven't realized?\""
                             ]
                         },
                         {
@@ -4036,14 +3910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まっ、そのうち君の周りのことに気が付くでしょうし・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後のお楽しみってことで・・・ね？」"
+                                "\"Well, you'll notice what's going on around you\neventually... Let's just call it a future pleasure, shall\nwe?\""
                             ]
                         },
                         {
@@ -4085,21 +3952,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何を言ってるんだ・・・、一体どういうこと！！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は・・・だれなんだ！！」"
+                                "\"What are you talking about, what does this mean?!! Who are\nyou?!!\""
                             ]
                         },
                         {
@@ -4148,7 +4008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いやん、がっつく男は嫌われちゃうぞ」"
+                                "\"Oh my, men who are too eager can be such a turn-off.\""
                             ]
                         },
                         {
@@ -4159,21 +4019,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ名前くらいは教えてあげる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・私はベルラ。よろしくね？」"
+                                "\"Well, I suppose I can at least tell you my name. I'm\nBellra. Nice to meet you?\""
                             ]
                         },
                         {
@@ -4184,28 +4037,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ、もしかして私に興味が湧いちゃった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、あんなエロ豚の姿見せられたら私に鞍替えするのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理ないわねぇ・・・」"
+                                "\"Ah, perhaps you've become interested in me? Well, after\nseeing such a lewd pig, it's not surprising you'd switch\nyour attention to me.\""
                             ]
                         },
                         {
@@ -4245,7 +4084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "落ち込まないで？と笑いながら挑発するように言葉を続ける。"
+                                "She continues to speak provocatively with a laugh, as if to\ntaunt without getting discouraged."
                             ]
                         },
                         {
@@ -4272,14 +4111,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・なんでこんなことをするんだ！！」"
+                                "\"Why are you doing this?!\""
                             ]
                         },
                         {
@@ -4304,7 +4143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その言葉にうぅんっと考える。"
+                                "She ponders the question with a thoughtful 'hmm'."
                             ]
                         },
                         {
@@ -4346,21 +4185,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんでって言われてもねぇ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特に理由はないのよ・・・しいて言うなら遊びかな？」"
+                                "\"Why, you ask? There's no particular reason... If I had to\nsay, maybe it's just for fun?\""
                             ]
                         },
                         {
@@ -4371,14 +4203,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「勇者パーティがどんなものかな？って興味もあったし」"
+                                "\"I was also curious about what a hero party would be like.\""
                             ]
                         },
                         {
@@ -4418,14 +4250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルはベルラと名乗った女性が何を言っているのか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "理解が出来なかった。"
+                                "Suelle couldn't comprehend what the woman who called herself\nBellra was saying."
                             ]
                         },
                         {
@@ -4443,14 +4268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "言っていることは分かる。しかし、理解ができないのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "常識では測れない狂った思想にスエルは寒気を覚える。"
+                                "He understood the words, but not their meaning. Suelle felt\na chill at the madness of her thoughts, which were beyond\nany normal reasoning."
                             ]
                         },
                         {
@@ -4477,21 +4295,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ゲームって・・・そんなことのために、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんなにこんな酷い事をするなんて・・・絶対に許さない！！」"
+                                "\"A game... To do such terrible things to everyone for that,\nI'll never forgive you!!\""
                             ]
                         },
                         {
@@ -4533,21 +4344,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そう？まぁ私は許してもらおうとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなこと別に考えてなかったけれど・・・」"
+                                "\"Is that so? Well, I wasn't exactly looking for your\nforgiveness anyway.\""
                             ]
                         },
                         {
@@ -4558,14 +4362,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、そこまで言うなら一つ貴方ともゲームをしましょうか」"
+                                "\"But if you insist so much, perhaps we should play a game\ntogether.\""
                             ]
                         },
                         {
@@ -4590,7 +4394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルールは簡単、一つだけよ。っと指を立てる。"
+                                "She raises a finger as if to indicate a simple rule."
                             ]
                         },
                         {
@@ -4617,21 +4421,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「貴方が勇者メンバーの仲間を全員助けることが出来たら・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうねぇ、私はおとなしく捕まってあげる。・・・どうかしら？」"
+                                "\"If you can save all the members of the hero party... Hmm,\nthen I'll quietly let myself be captured. How about that?\""
                             ]
                         },
                         {
@@ -4671,14 +4468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラの言うことには乗りたくはなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ましてや悪趣味なゲームなんてもってのほかだ。"
+                                "Suelle didn't want to agree to Bellra's terms. Especially\nnot to such a distasteful game."
                             ]
                         },
                         {
@@ -4696,14 +4486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしそれがティナやセルフィを助ける事だというのであれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "望むところだという気持ちが湧き上がってくる。"
+                                "However, if it meant saving Tina and Selphie, then he felt a\nrising desire to do just that."
                             ]
                         },
                         {
@@ -4730,14 +4513,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・絶対に仲間は助け出す！！これ以上好き勝手させない！！」"
+                                "\"I will definitely save my companions!! I won't let you do\nas you please anymore!!\""
                             ]
                         },
                         {
@@ -4779,14 +4562,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふっ、それは楽しみねぇ」"
+                                "\"Fufu, that sounds delightful.\""
                             ]
                         },
                         {
@@ -4804,14 +4587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "助け出すのは無理だと思っているのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それとも、どう転ぶか遊び感覚で見ているのか？"
+                                "Does she think it's impossible to save them? Or is she just\nwatching with a sense of amusement to see how things will\nturn out?"
                             ]
                         },
                         {
@@ -4829,14 +4605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相も変わらず画面の向こうのベルラは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただただ余裕を持った笑みを浮かべている。"
+                                "As always, Bellra on the other side of the screen just keeps\na composed smile on her face."
                             ]
                         },
                         {
@@ -4847,14 +4616,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあティナちゃんとセルフィちゃんを見つけ出して助けてあげてね？」"
+                                "\"Then go ahead and find Tina-chan and Selphie-chan and\nrescue them, okay?\""
                             ]
                         },
                         {
@@ -4865,21 +4634,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うふふっ・・・早くしないと取り返しのつかないことに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なっちゃうかもよぉ？」"
+                                "\"Ufufu, you better hurry or it might become something\nirreversible, you know?\""
                             ]
                         },
                         {
@@ -4909,7 +4671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "楽しみにしているわと言い残すと通信は一方的に切れた。"
+                                "Leaving behind words of anticipation, the communication was\nunilaterally cut off."
                             ]
                         },
                         {
@@ -5104,14 +4866,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・セルフィさんまで」"
+                                "\"Selphie-san too...\""
                             ]
                         },
                         {
@@ -5136,7 +4898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すでに何も映っていない壁に向かってガクンとうなだれるスエル。"
+                                "Suelle slumped down towards the wall that no longer showed\nanything."
                             ]
                         },
                         {
@@ -5163,14 +4925,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・スエル・・・」"
+                                "\"Suelle...\""
                             ]
                         },
                         {
@@ -5195,7 +4957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うなだれるスエルに待っていたのは、仲間が捕まったという現状だ。"
+                                "What awaited the slumped Suelle was the reality that his\ncompanions had been captured."
                             ]
                         },
                         {
@@ -5213,14 +4975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "励ます言葉が思いつかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!慰める言葉も思いつかない。"
+                                "No words of encouragement came to mind. No words of comfort\neither."
                             ]
                         },
                         {
@@ -5238,14 +4993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでもリイスはかけるべき言葉は分かっていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スゥッっと大きく息を吸い込む。"
+                                "Yet Rise knew what words should be spoken. She took a deep\nbreath in."
                             ]
                         },
                         {
@@ -5295,14 +5043,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「スエル、しっかりしなさい！！」"
+                                "\"Suelle, pull yourself together!!\""
                             ]
                         },
                         {
@@ -5327,7 +5075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "部屋中に響き渡る大きな声でスエルに向かってリイスは叫んだ。"
+                                "Rise shouted at Suelle with a loud voice that echoed\nthroughout the room."
                             ]
                         },
                         {
@@ -5354,21 +5102,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さっき助けるって言ったばかりでしょ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタをみんな頼りにしてるんだから！！」"
+                                "\"You just said you'd save them!! Everyone is relying on\nyou!!\""
                             ]
                         },
                         {
@@ -5393,7 +5134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスもあの惨状を見て心を痛めていないはずがない。"
+                                "Rise must have been pained by the horrific scene as well."
                             ]
                         },
                         {
@@ -5427,14 +5168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでも、目の前のスエルを起き上がらせるために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "声を張り上げて喝を入れたのだ。"
+                                "Nevertheless, she raised her voice and scolded him to get\nSuelle back on his feet."
                             ]
                         },
                         {
@@ -5483,7 +5217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「リイス・・・」"
+                                "\"Rise...\""
                             ]
                         },
                         {
@@ -5508,14 +5242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスの方を向くとうっすらと涙を浮かべながらも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スエルを睨み付けていた。"
+                                "Turning towards Rise, Suelle was glaring at her with tears\nfaintly showing in his eyes."
                             ]
                         },
                         {
@@ -5554,14 +5281,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うっ、うん・・・そうだよ・・・ね」"
+                                "\"Uh, yeah, that's right.\""
                             ]
                         },
                         {
@@ -5572,21 +5299,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そうだ今・・・しっかりしないといけないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・こんな時に落ち込んでる時間なんて一秒もない！！）"
+                                "\"(That's right, I need to pull myself together now. There's\nnot a second to spare feeling down at a time like this!!)\""
                             ]
                         },
                         {
@@ -5604,14 +5324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスの思いを知って、だからこそスエルは今一番踏ん張らないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いけないことに気づかされた。"
+                                "Knowing Rise's feelings, Suelle realized that now was the\ntime he had to stand firm."
                             ]
                         },
                         {
@@ -5638,14 +5351,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとう、リイス。きっと二人を助け出すよ」"
+                                "\"Thank you, Rise. I'll definitely rescue them.\""
                             ]
                         },
                         {
@@ -5686,14 +5399,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「当たり前よ。・・・頼りにしてるんだから」"
+                                "\"Of course. I'm counting on you.\""
                             ]
                         },
                         {
@@ -5735,14 +5448,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・よし、まずはとにかく情報を整理しないと」"
+                                "\"Alright, first we need to organize the information we\nhave.\""
                             ]
                         },
                         {
@@ -5779,7 +5492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は限りある情報で突破口を開かなくてはいけない。"
+                                "Now they needed to find a breakthrough with the limited\ninformation available."
                             ]
                         },
                         {
@@ -5797,7 +5510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二人は僅かな情報も逃さないように、起こったことを思い出していく。"
+                                "The two of them tried to remember everything that happened,\nnot letting any piece of information slip by."
                             ]
                         },
                         {
@@ -5840,14 +5553,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・そういえばあいつら、古代術式で洗脳って言ってたわね」"
+                                "\"Come to think of it, those guys mentioned something about\nbrainwashing with ancient magic formulas.\""
                             ]
                         },
                         {
@@ -5889,21 +5602,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん・・・古代術式。現代の術式とは力の本質も術式の構造も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全く違う力だったはず」"
+                                "\"Yeah, ancient magic formulas. They're supposed to be a\ncompletely different kind of power from modern magic, both\nin essence and structure.\""
                             ]
                         },
                         {
@@ -5930,21 +5636,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・そうか、ならティナが洗脳されたのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フルボディが古代術式をスキルと認識できなかったからかもしれない」"
+                                "\"So, maybe Tina was brainwashed because Fullbody couldn't\nrecognize the ancient magic formula as a skill.\""
                             ]
                         },
                         {
@@ -5978,21 +5677,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも術式のスキルとして認識しなくても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "攻撃であれば無作為にはじくハズでしょ？」"
+                                "\"But even if it didn't recognize it as a skill, if it was an\nattack, Fullbody should have automatically repelled it\nrandomly, right?\""
                             ]
                         },
                         {
@@ -6032,21 +5724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "例えスキルの解明が出来なかったとしても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが攻撃でさえあればフルボディは自動で反応するのではないかと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイスは考えた。"
+                                "Rise thought that even if Fullbody couldn't decipher the\nskill, if it was an attack, it should automatically react."
                             ]
                         },
                         {
@@ -6073,14 +5751,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・もしかしたら攻撃じゃなかったのかも」"
+                                "\"Maybe it wasn't an attack.\""
                             ]
                         },
                         {
@@ -6091,21 +5769,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さっきのセルフィの動画、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の中に隷属の契約って言ってた人がいたよね」"
+                                "\"In that video Selphie showed earlier, there was someone\ntalking about a 'contract of servitude'.\""
                             ]
                         },
                         {
@@ -6116,21 +5787,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「奴隷洗脳でも隷属の洗脳でもなく・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隷属の、契約、といったんだ」"
+                                "\"He didn't say slave brainwashing or servitude\nbrainwashing... he said 'contract of servitude'.\""
                             ]
                         },
                         {
@@ -6141,21 +5805,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・前に文献で見たことがあるんだけれど、古代術式の中には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "契約を使った術式があって」"
+                                "\"I've read about it in documents before. There are ancient\nmagic formulas that use contracts,\""
                             ]
                         },
                         {
@@ -6166,21 +5823,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その契約期間中に洗脳を完了させてしまうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと洗脳状態を保つものがあるらしいんだ」"
+                                "\"And it seems there are some that maintain a brainwashed\nstate indefinitely once the brainwashing is completed during\nthe contract period.\""
                             ]
                         },
                         {
@@ -6205,14 +5855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほとんど謎だらけの不確かな情報だけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とスエルは付け加える。"
+                                "Suelle added that it was mostly uncertain information\nshrouded in mystery."
                             ]
                         },
                         {
@@ -6239,21 +5882,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おそらくティナの・・・フルボディの攻撃に反応するって部分を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "契約という形で回避したんだと思う・・・」"
+                                "\"I think they probably avoided Fullbody's reactive attack by\nusing a contract.\""
                             ]
                         },
                         {
@@ -6296,14 +5932,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なるほど・・・、だとしたら相手は相当調べ上げていたみたいね」"
+                                "\"I see, if that's the case, it seems like our opponent did\nquite a bit of research.\""
                             ]
                         },
                         {
@@ -6343,14 +5979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな術式が使えるのであれば、いくらティナとはいえ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不意打ちを食らうことも大いにあり得る。"
+                                "If such a technique can be used, then it's entirely possible\nfor even Tina to be caught off guard."
                             ]
                         },
                         {
@@ -6368,14 +5997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特にティナのフルボディはその性質ゆえそういう絡め手では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隙を見せやすい。"
+                                "Especially since Tina's Fullbody is prone to showing\nopenings due to its nature when dealing with such tricky\ntactics."
                             ]
                         },
                         {
@@ -6393,7 +6015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスもこの状況がかなり危機的だと頭を悩ませる。"
+                                "Rise also finds herself troubled by how critical the\nsituation has become."
                             ]
                         },
                         {
@@ -6420,7 +6042,7 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
@@ -6454,21 +6076,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・ごめん、リイス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しの間、部屋に引きこもってもいいかな？」"
+                                "\"Sorry, Rise. Do you mind if I hole up in my room for a\nlittle while?\""
                             ]
                         },
                         {
@@ -6493,7 +6108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しばらく悩みこんだスエルはリイスにそう口を開く。"
+                                "After pondering for a while, Suelle opens up to Rise."
                             ]
                         },
                         {
@@ -6511,14 +6126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしそれは単に引きこもるのではなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その瞳からは打開しようという意思をリイスは感じた。"
+                                "However, it wasn't just about shutting himself away; Rise\ncould feel his determination to find a solution in his eyes."
                             ]
                         },
                         {
@@ -6552,14 +6160,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・何か思いついたの？」"
+                                "\"Did you come up with something?\""
                             ]
                         },
                         {
@@ -6608,14 +6216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん、ティナやセルフィの映像を見て一つ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今作っていた装器を応用して試してみたいことがあるんだ」"
+                                "\"Yeah, there's something I want to try by applying the\ndevice I was working on after watching the videos of Tina\nand Selphie.\""
                             ]
                         },
                         {
@@ -6642,21 +6243,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・といっても二人の居場所が分かるようなものじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ないんだけれどね」"
+                                "\"Though, it's not something that can pinpoint their location\nor anything.\""
                             ]
                         },
                         {
@@ -6714,21 +6308,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そう・・・分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならティナやセルフィの行方については私が調べるわ」"
+                                "\"Okay, understood. Then I'll look into Tina and Selphie's\nwhereabouts.\""
                             ]
                         },
                         {
@@ -6762,21 +6349,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「といっても、アンタを置いて行動範囲を広げるわけにも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いかないし・・・どこまで出来るか分からないけれどね」"
+                                "\"But I can't just leave you and expand my search area... I'm\nnot sure how much I can do.\""
                             ]
                         },
                         {
@@ -6819,21 +6399,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ、とにかく行方の捜索は私に任せて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタはその装器の応用とやらに集中しなさい」"
+                                "\"Anyway, leave the search for them to me and you focus on\nwhatever this application for the device is.\""
                             ]
                         },
                         {
@@ -6867,14 +6440,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(悔しいけれど、私にも出来ることが限られている・・・）"
+                                "(It's frustrating, but there's only so much I can do...)"
                             ]
                         },
                         {
@@ -6885,21 +6458,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（いつもスエルは自分に自信がない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "周りの皆が凄いと思い込んでいるけれど）"
+                                "(Suelle always lacks confidence in himself. He's convinced\nthat everyone around him is amazing...)"
                             ]
                         },
                         {
@@ -6942,21 +6508,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（でもね？こういう時、一番頼りになるのはスエル・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタだってみんな思っているのよ）"
+                                "(But you know? In times like this, the most reliable person\nis Suelle... Everyone thinks so.)"
                             ]
                         },
                         {
@@ -6998,14 +6557,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「二人がいなくなった今・・・焦らずにしっかり対策を立てよう」"
+                                "\"Now that the two of them are gone, let's not rush and make\nsure we come up with a solid plan.\""
                             ]
                         },
                         {
@@ -7047,14 +6606,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もちろん、必ず助け出すわよ」"
+                                "\"Of course, we'll definitely rescue them.\""
                             ]
                         },
                         {
@@ -7079,14 +6638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "落ち込んでる時間なんてない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人は出来ることをやろうと決意して前に進む。"
+                                "There's no time to be downhearted. Both of them resolve to\ndo what they can and move forward."
                             ]
                         },
                         {
@@ -7128,28 +6680,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ、僕はまず再設計に取り掛かるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらく、5日ほどしたら必要な材料が分かるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その時は一緒に取りに行って欲しい」"
+                                "\"Then, I'll start with the redesign first. Probably in about\n5 days, I'll know what materials we need, so I'd like you to\ncome with me to get them then.\""
                             ]
                         },
                         {
@@ -7191,14 +6729,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「分かったわ、その時になったら呼んで頂戴」"
+                                "\"Understood, call me when the time comes.\""
                             ]
                         },
                         {
@@ -7228,7 +6766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・こうして仲間を助けるためにスエル達は動くのだった。"
+                                "And so, Suelle and the others began to move to save their\ncomrades."
                             ]
                         },
                         {
@@ -7299,7 +6837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエル達が決意し、立ちあがる数時間前。"
+                                "A few hours before Suelle and the others made their resolve\nand stood up."
                             ]
                         },
                         {
@@ -7317,7 +6855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何故セルフィが捕まったのか・・・。"
+                                "Why Selphie was captured..."
                             ]
                         },
                         {
@@ -7335,7 +6873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは数時間前のセルフィの一部始終。"
+                                "This is the whole story of Selphie a few hours earlier."
                             ]
                         },
                         {

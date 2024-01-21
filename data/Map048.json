@@ -2056,14 +2056,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この部屋・・・何だかさっきまでとは違うね？」"
+                                "\"This room... it feels different from before, doesn't it?\""
                             ]
                         },
                         {
@@ -2140,21 +2140,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ベットが一つだけで・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとはベットの下に首輪？があるだけ」"
+                                "\"There's only one bed, and... is that a collar under the\nbed?\""
                             ]
                         },
                         {
@@ -2200,7 +2193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルが手に取った首輪を見てリイスの顔が曇る。"
+                                "Rise's face clouds over as Suelle picks up the collar."
                             ]
                         },
                         {
@@ -2232,14 +2225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここで行われていたこと・・・、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それをリイスは嫌でも思い出してしまう。"
+                                "Despite herself, Rise is reminded of what used to happen in\nthis room."
                             ]
                         },
                         {
@@ -2290,7 +2276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・イス」"
+                                "\"...Rise\""
                             ]
                         },
                         {
@@ -2319,7 +2305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「リイス？」"
+                                "\"Rise?\""
                             ]
                         },
                         {
@@ -2487,14 +2473,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「リイス、大丈夫？顔色悪いけれど・・・」"
+                                "\"Rise, are you okay? You look pale...\""
                             ]
                         },
                         {
@@ -2587,14 +2573,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、ちょっと思い出してしまってね」"
+                                "\"Yes, I just remembered something.\""
                             ]
                         },
                         {
@@ -2687,14 +2673,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「思い出したってことは・・・ここって・・」"
+                                "\"Remembered? So this place is...\""
                             ]
                         },
                         {
@@ -2787,14 +2773,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「気にしないで。もう大丈夫だから・・・」"
+                                "\"Don't worry about it. I'm fine now.\""
                             ]
                         },
                         {
@@ -2910,14 +2896,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それよりも奥の扉」"
+                                "\"More importantly, the door at the back...\""
                             ]
                         },
                         {
@@ -2994,21 +2980,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おしおき部屋って書かれた扉があるでしょ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・おそらくあの扉の奥にノルズがいるわ」"
+                                "\"There's a door marked 'Punishment Room.' Nolz is probably\nbeyond that door.\""
                             ]
                         },
                         {
@@ -3085,14 +3064,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・さっさとケリを付けるわよ」"
+                                "\"Let's settle this quickly.\""
                             ]
                         },
                         {
@@ -3814,7 +3793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスの首輪(装飾品）を手に入れた！"
+                                "Obtained Rise's Collar (Accessory)!"
                             ]
                         },
                         {

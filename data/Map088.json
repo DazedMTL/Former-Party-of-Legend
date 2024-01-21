@@ -2330,7 +2330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は孤児院で育った。"
+                                "I was raised in an orphanage."
                             ]
                         },
                         {
@@ -2348,14 +2348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "元々勇者パーティに加わったのも、それで手に入るお金を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "孤児院に仕送りしてみんなの生活を支えるためだ。"
+                                "Originally, I joined the hero party to send the money I\nearned back to the orphanage to support everyone's living."
                             ]
                         },
                         {
@@ -2373,14 +2366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしそこを突かれて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は映像に出てきた女、ベルラにはめられたんだった。"
+                                "But that was exploited, and I was trapped by the woman in\nthe video, Bellra."
                             ]
                         },
                         {
@@ -2416,7 +2402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・数か月前・・・。"
+                                "Several months ago..."
                             ]
                         },
                         {
@@ -2533,7 +2519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスはとある超大型モンスターの討伐依頼に駆り出されていた。"
+                                "Rise was called out on a quest to subdue a super-sized\nmonster."
                             ]
                         },
                         {
@@ -2551,14 +2537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしその依頼自体がリイスを分断させて孤立させるための罠。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "待ち構えていたのはモンスターではなくベルラと名乗る女性だった。"
+                                "However, that request was a trap to isolate and divide Rise.\nWhat awaited her was not a monster but a woman who called\nherself Bellra."
                             ]
                         },
                         {
@@ -2650,14 +2629,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うふふっ、この子たち本当に可愛いわよねぇ？」"
+                                "\"Ufufu, these kids are really cute, aren't they?\""
                             ]
                         },
                         {
@@ -2697,7 +2676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラの周りには、リイスの育った孤児院の女の子たちが立っていた。"
+                                "Surrounding Bellra were the girls from the orphanage where\nRise grew up."
                             ]
                         },
                         {
@@ -2715,21 +2694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "縄で縛られているわけでもなく、けれど動けない様子から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すでに洗脳まではいかなくとも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かしらの催眠を掛けられていることは確かだ。"
+                                "They weren't tied up with rope, but it was clear they\ncouldn't move, likely under some sort of hypnosis even if\nnot fully brainwashed."
                             ]
                         },
                         {
@@ -2740,14 +2705,14 @@
                                 0,
                                 2,
                                 2,
-                                "少女"
+                                "Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「リイスお姉ちゃん・・・」"
+                                "\"Rise Onee-san...\""
                             ]
                         },
                         {
@@ -2774,21 +2739,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アンタ・・・、その子たちに指一本でも触れて見なさい！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶっ飛ばしてやるわよ」"
+                                "\"You... If you lay even one finger on those kids, I'll send\nyou flying!!\""
                             ]
                         },
                         {
@@ -2830,21 +2788,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんな睨まなくても、隷属の契約っていうのをしてくれたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手は出せないわよ？」"
+                                "\"No need to glare like that. If you sign a slave contract\nwith me, I won't be able to touch them, you know?\""
                             ]
                         },
                         {
@@ -2869,7 +2820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちが不安そうな顔でリイスを見る。"
+                                "The children looked at Rise with anxious faces."
                             ]
                         },
                         {
@@ -2896,21 +2847,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「隷属の契約については説明したでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "契約すればこの子たちには危害を加えれないってことも」"
+                                "\"I've explained about the slave contract, haven't I? If you\nsign it, I can't harm these kids.\""
                             ]
                         },
                         {
@@ -2952,21 +2896,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、ちゃんと聞いてたわよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・私を完全に洗脳する予定って所もね」"
+                                "\"Yes, I heard you loud and clear. Including the part where\nyou plan to completely brainwash me.\""
                             ]
                         },
                         {
@@ -3008,21 +2945,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うふふっ、そこは貴方の心が折れずに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲間が助けに来るまで耐えきればいいだけじゃない」"
+                                "\"Ufufu, all you have to do is not break until your friends\ncome to rescue you.\""
                             ]
                         },
                         {
@@ -3033,14 +2963,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「信じているんでしょう？お仲間さんを？」"
+                                "\"You believe in them, don't you? Your friends?\""
                             ]
                         },
                         {
@@ -3065,7 +2995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クスクスとベルラは馬鹿にした笑いを浮かべる。"
+                                "Bellra chuckled mockingly."
                             ]
                         },
                         {
@@ -3083,14 +3013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、早く奴隷契約を結びなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "と人質の子供の中から一人を引き寄せて刃物をちらつかせる。"
+                                "Come on, hurry up and sign the slave contract. Bellra pulled\none of the hostage children closer and flashed a knife."
                             ]
                         },
                         {
@@ -3132,14 +3055,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ・・・、卑怯者・・・私だけを狙いなさいよ！！」"
+                                "\"Grr... You coward... Target only me!!\""
                             ]
                         },
                         {
@@ -3181,21 +3104,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら？そんな正義の味方みたいなこと、悪い大人がするわけない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃない」"
+                                "\"Oh? You don't really think a bad adult would do something\nso heroic, do you?\""
                             ]
                         },
                         {
@@ -3206,21 +3122,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「リイスちゃんが会いたいと思って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特に仲が良かった子たちを集めたのよ？感謝して欲しいわねぇ」"
+                                "\"I've gathered the children that Rise-chan wanted to see,\nespecially those she was close with. You should be\ngrateful.\""
                             ]
                         },
                         {
@@ -3262,14 +3171,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふざけないで！！このクズが！！」"
+                                "\"Don't mess with me!! You scum!!\""
                             ]
                         },
                         {
@@ -3294,7 +3203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "歯ぎしりをしながらリイスはベルラを睨みつける。"
+                                "Grinding her teeth, Rise glared at Bellra."
                             ]
                         },
                         {
@@ -3321,14 +3230,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私を狙う目的は何よ！！」"
+                                "\"What's your purpose in targeting me?!\""
                             ]
                         },
                         {
@@ -3353,7 +3262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこでうーんとベルラは悩む。"
+                                "There, Bellra pondered deeply."
                             ]
                         },
                         {
@@ -3395,21 +3304,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「特に貴方を狙ったわけじゃないわよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勇者パーティの女の子なら最初は誰でも良かったの」"
+                                "\"It's not like I specifically targeted you. Any girl from\nthe Hero Party would have been fine at first.\""
                             ]
                         },
                         {
@@ -3420,21 +3322,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ただねぇ？情報を集めていたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "弱点が一番はっきりしているのが貴方だったってわけよ」"
+                                "\"But you know, as I gathered information, it turned out that\nyour weaknesses were the most apparent.\""
                             ]
                         },
                         {
@@ -3445,14 +3340,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それに貴方を気に入ってる人がぜひとも調教したいって言ってくるし」"
+                                "\"Besides, there's someone who took a liking to you and\ninsisted on wanting to train you.\""
                             ]
                         },
                         {
@@ -3463,21 +3358,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふっ、・・・まぁ貴方のことをいろいろ教えてくれたのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その人だけれど」"
+                                "\"Fufu, well, that person was also the one who told me all\nabout you.\""
                             ]
                         },
                         {
@@ -3502,7 +3390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人気者ねぇっと笑顔を向ける。"
+                                "With a smile, she said, \"You're quite popular, aren't you?\""
                             ]
                         },
                         {
@@ -3544,14 +3432,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何よそれ・・・、それにアンタ今、最初はって言った？」"
+                                "\"What's that supposed to mean? And did you just say 'at\nfirst'?\""
                             ]
                         },
                         {
@@ -3562,14 +3450,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なら私の後は他の仲間も狙うつもりなの！！？」"
+                                "\"Does that mean you plan to target my other companions after\nme?!\""
                             ]
                         },
                         {
@@ -3611,21 +3499,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、そうよ？あなたから他の仲間の情報を引き出して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを元にどうやったら洗脳出来るかを考えるわけ」"
+                                "\"Yes, that's right. I'll extract information about your\nother companions from you and use it to figure out how to\nbrainwash them.\""
                             ]
                         },
                         {
@@ -3636,21 +3517,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「奴隷契約って言っても直接的なやり方から間接的なやり方まで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色々あってね？」"
+                                "\"Even though it's called a slave contract, there are various\nmethods, from direct to indirect.\""
                             ]
                         },
                         {
@@ -3661,28 +3535,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「例えばティナちゃんのフルボディだっけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくら古代術式とは言え、あのスキルを完全に抜けて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴隷契約をかけるには・・・」"
+                                "\"For example, Tina-chan's Full Body, was it? No matter how\nancient the technique, to bypass that skill and apply a\nslave contract...\""
                             ]
                         },
                         {
@@ -3693,21 +3553,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「特性を詳しく聞き出して、スキルの穴を付くために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "術式を改良しないといけないの」"
+                                "\"I need to hear about its specifics in detail and improve\nthe technique to exploit the skill's weaknesses.\""
                             ]
                         },
                         {
@@ -3732,7 +3585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういう情報も教えて欲しいのよ？とベルラは軽くウインクする。"
+                                "Bellra lightly winked as she said, \"That's the kind of\ninformation I want you to tell me.\""
                             ]
                         },
                         {
@@ -3774,14 +3627,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だからね？早く隷属の契約を結びましょう？」"
+                                "\"So come on, let's quickly form a contract of servitude,\nshall we?\""
                             ]
                         },
                         {
@@ -3823,21 +3676,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・そんなのを聞いてハイそうですかって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頷くわけにはいかないでしょう！！」"
+                                "\"As if I could just nod and say 'yes' after hearing all\nthat!!\""
                             ]
                         },
                         {
@@ -3879,14 +3725,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そう・・・それは残念・・・」"
+                                "\"That's too bad.\""
                             ]
                         },
                         {
@@ -3973,7 +3819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザシュッ！！"
+                                "*Stabbing sound*"
                             ]
                         },
                         {
@@ -3991,7 +3837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラはなんの躊躇いもなく近くの子の手に刃物を突き立てる。"
+                                "Bellra, without any hesitation, stabs a knife into the hand\nof a nearby child."
                             ]
                         },
                         {
@@ -4031,14 +3877,14 @@
                                 0,
                                 2,
                                 2,
-                                "少女"
+                                "Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いだぁあああっ！！いだいよぉ！！」"
+                                "\"Aaahhh!! It hurts!! It hurts!!\""
                             ]
                         },
                         {
@@ -4080,21 +3926,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「痛いよねぇ？でもリイスお姉ちゃんが言うこと聞かないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうなるの・・・。全部リイスお姉ちゃんが悪いのよ？」"
+                                "\"It hurts, doesn't it? But it's all because Rise Onee-san\nwon't listen to me. It's all Rise Onee-san's fault, you\nknow?\""
                             ]
                         },
                         {
@@ -4136,14 +3975,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あんた・・・、なんてことしてるのよ！！」"
+                                "\"What are you doing?!\""
                             ]
                         },
                         {
@@ -4185,14 +4024,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おっと、動かないで」"
+                                "\"Oops, don't move.\""
                             ]
                         },
                         {
@@ -4217,7 +4056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "近づくリイスを制するように子供の首筋に刃物を突き立てる。"
+                                "As Rise approaches, Bellra thrusts the knife against the\nchild's neck to restrain her."
                             ]
                         },
                         {
@@ -4244,21 +4083,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さぁ？どうする？次はこの子の首筋・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その次は別の子が大変なことになっちゃうわよぉ？」"
+                                "\"Now, what will you do? Next, I'll target this child's neck,\nand after that, another child will suffer. What's it going\nto be?\""
                             ]
                         },
                         {
@@ -4269,14 +4101,14 @@
                                 0,
                                 2,
                                 2,
-                                "少女"
+                                "Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うわぁああっ！！助けて！！リイスお姉ちゃん！！」"
+                                "\"Aaahhh!! Help me!! Rise Onee-san!!\""
                             ]
                         },
                         {
@@ -4301,21 +4133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "捕まっている子供が泣き叫ぶ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最初に手に刃物を突き刺したのはこうやって泣き叫ばせ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイスの判断力を奪わせるためだ。"
+                                "The captured child screams and cries. The initial stabbing\nin the hand was done to make her cry and cloud Rise's\njudgment."
                             ]
                         },
                         {
@@ -4357,14 +4175,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・っ」"
+                                "\"...\""
                             ]
                         },
                         {
@@ -4406,21 +4224,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら？子供たちが可哀想じゃないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なら今度はお胸をちぎっちゃおうかなぁ」"
+                                "\"Oh? Don't you feel sorry for the children? Maybe next I\nshould tear off your breasts.\""
                             ]
                         },
                         {
@@ -4462,14 +4273,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「待ちなさいっ！！」"
+                                "\"Wait!!\""
                             ]
                         },
                         {
@@ -4496,14 +4307,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・っ」"
+                                "\"...\""
                             ]
                         },
                         {
@@ -4514,14 +4325,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・分かった・・・いう通りにするわ」"
+                                "\"Understood. I'll do as you say.\""
                             ]
                         },
                         {
@@ -4532,14 +4343,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だからその子たちは解放しなさい」"
+                                "\"So release those children.\""
                             ]
                         },
                         {
@@ -4564,21 +4375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悲鳴を聞き・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "爪がめり込んで血が出るほど手を握りながらぽつりと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイスはつぶやいた。"
+                                "Hearing the screams, Rise murmurs softly while clenching her\nhands so tightly that her nails dig in and draw blood."
                             ]
                         },
                         {
@@ -4620,190 +4417,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うふふっ、ようやく素直になってくれたわねぇ」"
-                            ]
-                        },
-                        {
-                            "code": 234,
-                            "indent": 0,
-                            "parameters": [
-                                2,
-                                [
-                                    -68,
-                                    -68,
-                                    -68,
-                                    0
-                                ],
-                                1,
-                                true
-                            ]
-                        },
-                        {
-                            "code": 231,
-                            "indent": 0,
-                            "parameters": [
-                                11,
-                                "k riisu 3",
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                255,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                2,
-                                "リイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふん、覚えておきなさいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を洗脳したところでルセントのメンバーは・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタなんかに絶対に負けないわよ」"
-                            ]
-                        },
-                        {
-                            "code": 235,
-                            "indent": 0,
-                            "parameters": [
-                                11
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その言葉にクスッと笑う。"
-                            ]
-                        },
-                        {
-                            "code": 234,
-                            "indent": 0,
-                            "parameters": [
-                                2,
-                                [
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ],
-                                1,
-                                true
-                            ]
-                        },
-                        {
-                            "code": 231,
-                            "indent": 0,
-                            "parameters": [
-                                11,
-                                "ta k berura",
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                255,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                2,
-                                "ベルラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「勇者パーティーだった貴方が、今こうやって簡単に奴隷に出来るのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなこと言われてもねぇ」"
-                            ]
-                        },
-                        {
-                            "code": 235,
-                            "indent": 0,
-                            "parameters": [
-                                11
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベルラの言葉にリイスは悔しそうな表情を見せるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも瞳の奥には決意したような強さが見える。"
+                                "\"Ufufu, finally you've become obedient.\""
                             ]
                         },
                         {
@@ -4845,39 +4466,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私は何があっても折れない。洗脳なんかされない」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                2,
-                                "リイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「復讐か何か知らないけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勇者パーティの皆を狙ったことを後悔するわよ・・・」"
+                                "\"Hmph, just remember this. Even if you brainwash me, the\nmembers of Lucent... they will never lose to someone like\nyou.\""
                             ]
                         },
                         {
@@ -4902,7 +4498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その言葉を聞いて、えっ？と会って初めてベルラは驚いた顔を見せた。"
+                                "She chuckles at those words."
                             ]
                         },
                         {
@@ -4944,14 +4540,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっと？勇者パーティに何か思うところなんてないわよ？」"
+                                "\"You were once a part of the hero's party, and now you've\nbecome a slave so easily. Your words don't carry much\nweight.\""
                             ]
                         },
                         {
@@ -4976,7 +4572,99 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラの口から出た言葉は、リイスにとって予想外の言葉であった。"
+                                "Rise shows a frustrated expression at Bellra's words, but\nstill, there's a determined strength in the depths of her\neyes."
+                            ]
+                        },
+                        {
+                            "code": 234,
+                            "indent": 0,
+                            "parameters": [
+                                2,
+                                [
+                                    -68,
+                                    -68,
+                                    -68,
+                                    0
+                                ],
+                                1,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                11,
+                                "k riisu 3",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2,
+                                "Rise"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\"I will not break, no matter what happens. I won't be\nbrainwashed.\""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2,
+                                "Rise"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\"I don't know if it's revenge or something else, but you'll\nregret targeting the members of the hero's party.\""
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                11
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Upon hearing those words, Bellra shows a surprised\nexpression for the first time with an \"Eh?\""
                             ]
                         },
                         {
@@ -5018,46 +4706,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「勇者パーティほどのレアな女性・・・しかも全員可愛いでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからお金になるかなぁって思ったのが半分」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                2,
-                                "ベルラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「後の半分は・・・勇者パーティってどれほどのものかなぁって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "興味がわいたから遊んでみるだけよ？」"
+                                "\"Huh? I don't have any particular grudge against the hero's\nparty.\""
                             ]
                         },
                         {
@@ -5082,7 +4738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でもまぁ、っと口を歪ませる。"
+                                "The words that came out of Bellra's mouth were unexpected\nfor Rise."
                             ]
                         },
                         {
@@ -5124,14 +4780,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうせ遊びだから・・・手ごたえがあった方が面白そうねぇ」"
+                                "\"The women of the hero's party are quite rare, and they're\nall cute, right? I thought they might be worth some money,\nthat's half the reason.\""
                             ]
                         },
                         {
@@ -5142,21 +4798,21 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うふふっ・・・、そうだ。勇者メンバーを崩すのであれば、"
+                                "\"The other half is just curiosity about how much the hero's\nparty is really worth, so I thought I'd play around a bit.\""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 235,
                             "indent": 0,
                             "parameters": [
-                                "国の内側に潜り込んで潰すとか、サプライズがあって面白そう」"
+                                11
                             ]
                         },
                         {
@@ -5167,21 +4823,45 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちょうど廃棄しようと思っていた人身売買組織があるし・・・。"
+                                "But well, she twists her mouth."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 234,
                             "indent": 0,
                             "parameters": [
-                                "ワザと尻尾を見せてみようかしら」"
+                                2,
+                                [
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                1,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                11,
+                                "ta k berura",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
                             ]
                         },
                         {
@@ -5192,21 +4872,68 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でもその前に？"
+                                "\"Since it's all just a game, it would be more interesting if\nthere was some resistance.\""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2,
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスちゃんを売り飛ばさないとねぇ？」"
+                                "\"Ufufu, that's right. If I'm going to break up the hero\nmembers, it would be fun to infiltrate and crush from within\nthe country, like a surprise.\""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2,
+                                "Bellra"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\"There's a human trafficking organization I was thinking of\ndiscarding anyway. Maybe I'll show them a little tail on\npurpose.\""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2,
+                                "Bellra"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\"But before that? I have to sell off Rise-chan, don't I?\""
                             ]
                         },
                         {
@@ -5229,21 +4956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うふふっ・・・リイスちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ売り飛ばされた先でも頑張って耐えてね？」"
+                                "Bellra: \"Ufufu, Rise-chan. Do your best to endure wherever\nyou're sold off to, okay?\""
                             ]
                         },
                         {
@@ -5289,14 +5002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うふふふっ・・・」"
+                                "Bellra: \"Ufufufu...\""
                             ]
                         },
                         {
@@ -5339,14 +5045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そうだ・・・私はベルラって女に隷属の契約をさせられたんだ）"
+                                "Rise (That's right. I was forced into a contract of\nservitude by this woman named Bellra.)"
                             ]
                         },
                         {
@@ -5364,21 +5063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そこで気を失わされ・・・次に意識を取り戻したのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの暗い部屋の中だった・・・）"
+                                "Rise (Then I was knocked unconscious, and when I regained\nconsciousness, I was in that dark room.)"
                             ]
                         },
                         {
@@ -5493,14 +5178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・イス」"
+                                "???: \"...Rise\""
                             ]
                         },
                         {
@@ -5518,14 +5196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リイスッ！！」"
+                                "???: \"Rise!!\""
                             ]
                         },
                         {
@@ -5614,14 +5285,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「リイス！！大丈夫！！？」"
+                                "\"Rise!! Are you okay!?\""
                             ]
                         },
                         {
@@ -5648,14 +5319,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ・・・大丈夫よ・・・」"
+                                "\"Yes, I'm fine.\""
                             ]
                         },
                         {
@@ -5666,14 +5337,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・全部、思い出した・・・」"
+                                "\"I remembered everything.\""
                             ]
                         },
                         {
@@ -5731,14 +5402,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「思い出したってことはやっぱり・・・」"
+                                "\"You remembered? So that means...\""
                             ]
                         },
                         {
@@ -5780,21 +5451,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、セルフィの映像に出て来た女。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベルラってやつに隷属の契約ってのをされてたわ」"
+                                "\"Yes, the woman in Selphie's video, that Bellra person, she\nforced me into a contract of servitude.\""
                             ]
                         },
                         {
@@ -5817,14 +5481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスは偽の討伐依頼のことから、ベルラのこと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてノルズのことも順を追って話始める。"
+                                "Rise began to recount everything from the fake subjugation\nrequest, to Bellra, and then about Nolz."
                             ]
                         },
                         {
@@ -5849,7 +5506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルは怒りに震えながら、リイスの話を聞いたのだった。"
+                                "While trembling with anger, Suelle listened to Rise's story."
                             ]
                         },
                         {
@@ -5881,14 +5538,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんなことがあったなんて・・・許せないっ・・・」"
+                                "\"I can't forgive that this happened...\""
                             ]
                         },
                         {
@@ -5930,14 +5587,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私も許せないわよ・・・私自身の不甲斐なさもね・・・」"
+                                "\"I can't forgive it either... my own incompetence as well.\""
                             ]
                         },
                         {
@@ -5977,14 +5634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仲間の情報をしゃべってしまったのだろう・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイスは悲痛な顔を浮かべていた。"
+                                "She must have spilled information about her companions. Rise\nhad a pained expression on her face."
                             ]
                         },
                         {
@@ -6026,21 +5676,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんな状況じゃ仕方ないよ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それより、今は仲間を助けることだけを考えよう」"
+                                "\"It can't be helped under those circumstances. More\nimportantly, let's focus on rescuing our companions now.\""
                             ]
                         },
                         {
@@ -6065,7 +5708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今はリイスを慰めるよりも、目的を持った方がいいとスエルは感じた。"
+                                "Suelle felt it was better to have a goal rather than to\ncomfort Rise right now."
                             ]
                         },
                         {
@@ -6083,7 +5726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それぐらいにリイスは思い詰めているようにも見えたからだ。"
+                                "That's how desperate Rise seemed to be."
                             ]
                         },
                         {
@@ -6125,14 +5768,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・そうね。今は仲間を助けることが先よ」"
+                                "\"Right. Rescuing our companions comes first.\""
                             ]
                         },
                         {
@@ -6172,7 +5815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぱんぱんとリイスは自分の頬を叩いて気合を入れる。"
+                                "Rise slapped her cheeks to psych herself up."
                             ]
                         },
                         {
@@ -6214,14 +5857,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「思い出したことによって一つ、手がかりは見つけたわ」"
+                                "\"Thanks to what I remembered, I've found a clue.\""
                             ]
                         },
                         {
@@ -6232,14 +5875,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ノルズ。この男は人身売買組織と太いパイプを持って繋がっていた」"
+                                "\"Nolz. This man was deeply connected to a human trafficking\norganization.\""
                             ]
                         },
                         {
@@ -6250,14 +5893,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「つまりこいつを捕まえれば、情報が手に入るはずよ」"
+                                "\"Which means if we catch him, we should be able to get\ninformation.\""
                             ]
                         },
                         {
@@ -6299,14 +5942,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なるほど、でも居場所が分からないんじゃ・・・」"
+                                "\"I see, but if we don't know where he is...\""
                             ]
                         },
                         {
@@ -6364,21 +6007,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その点は大丈夫よ。・・・定期メンテナンスとか言って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度か私をとある場所に呼びよせていてね」"
+                                "\"That's not a problem. He's called me to a certain place\nseveral times under the pretext of 'routine maintenance'.\""
                             ]
                         },
                         {
@@ -6412,21 +6048,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちょうど近々、私を呼ぶ予定だったようだからこの機会を利用して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのまま乗り込むわよ」"
+                                "\"It seems he was planning to call me again soon, so we'll\nuse this opportunity to storm in.\""
                             ]
                         },
                         {
@@ -6468,21 +6097,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「分かった、・・・リイスをそんな目にあわした奴だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に捕らえてティナやセルフィについて吐いて貰おう」"
+                                "\"Understood. He's the one who put Rise through such an\nordeal. We'll definitely capture him and make him spill\neverything about Tina and Selphie.\""
                             ]
                         },
                         {
@@ -6525,21 +6147,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もちろんよ。場所は私のいた孤児院から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行ける地下通路だからまずは孤児院に向かいましょう」"
+                                "\"Of course. The place is accessible through an underground\npassage from the orphanage where I was, so let's head to the\norphanage first.\""
                             ]
                         },
                         {
@@ -6590,7 +6205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マップの行き先に\\C[2]ノルズ孤児院\\C[0]が追加されました。"
+                                "The destination \\C[2]Nolz Orphanage\\C[0] has been added to\nthe map."
                             ]
                         },
                         {

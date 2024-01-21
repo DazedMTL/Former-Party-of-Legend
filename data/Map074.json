@@ -2809,7 +2809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カタカタカタ・・・。"
+                                "Click-clack-click   ."
                             ]
                         },
                         {
@@ -2915,7 +2915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カタカタカタカタカタ・・・。"
+                                "Click-clack-click-clack-click   ."
                             ]
                         },
                         {
@@ -3080,14 +3080,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よし、解読完了・・・」"
+                                "\"Alright, decryption complete   .\""
                             ]
                         },
                         {
@@ -3180,21 +3180,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「終わったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・正直私には何をしてたのか全く分からないわね」"
+                                "\"Is it over? Honestly, I have no idea what you were doing.\""
                             ]
                         },
                         {
@@ -3287,14 +3280,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「セキュリティを無理やり解除していただけだよ」"
+                                "\"I was just forcibly disabling the security.\""
                             ]
                         },
                         {
@@ -3387,14 +3380,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ動画、再生するけれど・・・いい？」"
+                                "\"So, shall I play the video   ?\""
                             ]
                         },
                         {
@@ -3487,14 +3480,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ・・・何か手がかりがあるといいんだけれど」"
+                                "\"Yes   . Hopefully, there's a clue in there.\""
                             ]
                         },
                         {
@@ -3524,14 +3517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カチカチと操作をし、スエルはメモリの中に入っていた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動画ファイルを読み込む。"
+                                "Clicking away at the controls, Suelle loads the video file\nthat was inside the memory."
                             ]
                         },
                         {
@@ -3753,14 +3739,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「嘘だ・・・ティナ姉、こんなことが・・・」"
+                                "\"No way   . Tina Onee-san, to think that such a thing   .\""
                             ]
                         },
                         {
@@ -3868,14 +3854,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・リイス、これが本当だとしたらティナ姉が！！」"
+                                "\"   Rise, if this is true, then Tina Onee-san has!!\""
                             ]
                         },
                         {
@@ -3979,7 +3965,7 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
@@ -4079,14 +4065,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・リイス？」"
+                                "\"   Rise?\""
                             ]
                         },
                         {
@@ -4179,14 +4165,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・んっ、あぁ・・・ごめん、ぼーっとしてたわ」"
+                                "\"   Huh, oh   . Sorry, I was spacing out.\""
                             ]
                         },
                         {
@@ -4291,21 +4277,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっと・・・そうよね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナの映像を・・・見てたんだった」"
+                                "\"Let's see   . Right, we were watching Tina's video.\""
                             ]
                         },
                         {
@@ -4398,14 +4377,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「リイス・・・大丈夫？」"
+                                "\"Rise   , are you okay?\""
                             ]
                         },
                         {
@@ -4498,14 +4477,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、ちょっとショックを受けただけよ」"
+                                "\"Yes, I'm just a bit shocked, that's all.\""
                             ]
                         },
                         {
@@ -4598,21 +4577,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「仕方ないよ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕も正直、まだ理解が追い付いていないんだ」"
+                                "\"It can't be helped   . To be honest, I still can't fully\ngrasp it either.\""
                             ]
                         },
                         {
@@ -4705,21 +4677,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私が言うのもなんだけれど、今は気をしっかり持って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "対策を考えるわよ」"
+                                "\"As much as it's for me to say, now's the time to stay\nfocused and think of a strategy.\""
                             ]
                         },
                         {
@@ -4812,14 +4777,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだね、僕たちがしっかりしないと・・・」"
+                                "\"That's right, we need to stay strong   .\""
                             ]
                         },
                         {
@@ -4912,14 +4877,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・あの映像、ティナは洗脳されていたようだった」"
+                                "\"   That video, it looked like Tina was being brainwashed.\""
                             ]
                         },
                         {
@@ -4996,28 +4961,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかも記憶をいじれるほどの洗脳催眠。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにティナのフルボディを抜ける術式となると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通の術式ではないと思う」"
+                                "\"Moreover, it's a type of brainwashing hypnosis that can\ntamper with memories. And if it's a spell that can penetrate\nTina's full body defense, it's not an ordinary spell.\""
                             ]
                         },
                         {
@@ -5110,21 +5061,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうなってくると元の術式が何か分からないわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "対抗策を立てるにはまずは術式の判明からか・・・」"
+                                "\"That being the case, we don't know what the original spell\nis. To come up with countermeasures, we first need to\nidentify the spell.\""
                             ]
                         },
                         {
@@ -5217,21 +5161,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「問題は普通に調べても出てくる術式じゃない所だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か手がかりが欲しいんだけれど・・・」"
+                                "\"The problem is that it's not a spell that comes up with a\nnormal investigation. We need some kind of clue.\""
                             ]
                         },
                         {
@@ -5324,14 +5261,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「地道に探すしかないわね」"
+                                "\"We have no choice but to search diligently.\""
                             ]
                         },
                         {
@@ -5408,14 +5345,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こんな所で二人で考えてもこれ以上答えは出ないわ」"
+                                "\"Thinking about it here, just the two of us, won't give us\nany more answers.\""
                             ]
                         },
                         {
@@ -5492,21 +5429,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まずは今のことをググカス法務長と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セルフィに報告して、情報を共有するわよ」"
+                                "\"First, we'll report the current situation to Gugukas, the\nMinister of Justice, and Selphie, and share the\ninformation.\""
                             ]
                         },
                         {
@@ -5599,14 +5529,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだね、みんなの意見も参考にしたいし」"
+                                "\"Yeah, I want to hear everyone's opinions as well.\""
                             ]
                         },
                         {
@@ -5699,21 +5629,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・今はやれることを一つずつ片付けていく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっとどこか手がかりになるヒントがあるはずよ」"
+                                "\"Right now, we just need to take care of what we can do one\nstep at a time. There must be a clue that will lead us\nsomewhere.\""
                             ]
                         },
                         {
@@ -5806,14 +5729,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん、みんなの力でティナ姉を救い出そう」"
+                                "\"Yeah, let's save Tina Onee-san with everyone's help.\""
                             ]
                         },
                         {
@@ -5906,14 +5829,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、もちろん」"
+                                "\"Yes, of course.\""
                             ]
                         },
                         {
@@ -5936,14 +5859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうと決まれば一旦街へ戻って情報共有よ！！」"
+                                "Rise: \"Now that it's decided, let's head back to town and\nshare information!!\""
                             ]
                         },
                         {
@@ -6379,7 +6295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "術式回路リング（装飾品）を手に入れた！"
+                                "Obtained the Magic Circuit Ring (Accessory)!"
                             ]
                         },
                         {

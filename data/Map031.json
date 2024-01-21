@@ -9995,21 +9995,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら？二人とも、もう買い物終わったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイスの買い物にしては、ずいぶん早かったわね」"
+                                "\"Oh? Have you two finished shopping already? That was quite\nfast for Rise's shopping spree.\""
                             ]
                         },
                         {
@@ -10102,14 +10095,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、今終わった所よ」"
+                                "\"Yes, we just finished.\""
                             ]
                         },
                         {
@@ -10202,21 +10195,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、早かったのかな・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕は三時間も買い物に付き合わされてクタクタだよ」"
+                                "\"But, was it really fast? I've been dragged around shopping\nfor three hours and I'm exhausted.\""
                             ]
                         },
                         {
@@ -10309,14 +10295,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「三時間？」"
+                                "\"Three hours?\""
                             ]
                         },
                         {
@@ -10409,14 +10395,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・てうわっ！！本当に三時間経ってるじゃない！！」"
+                                "\"   Whoa!! It really has been three hours, hasn't it?!\""
                             ]
                         },
                         {
@@ -10520,21 +10506,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おかしいわね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに長い事話していた覚えはないんだけれど」"
+                                "\"That's strange... I don't remember talking for that long.\""
                             ]
                         },
                         {
@@ -10627,21 +10606,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「貴族街は広いからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしたら移動の時間も長かったのかも」"
+                                "\"The noble district is quite large. Maybe we spent a lot of\ntime moving around.\""
                             ]
                         },
                         {
@@ -10734,21 +10706,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「確かに・・・、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういえば屋敷についてからも結構待たされたし」"
+                                "\"Indeed, now that you mention it, we were also kept waiting\nfor a while after arriving at the mansion.\""
                             ]
                         },
                         {
@@ -10853,14 +10818,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・三時間経っていた？・・・わね」"
+                                "\"   It was three hours, wasn't it?\""
                             ]
                         },
                         {
@@ -10953,14 +10918,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それで？何か怪しい所とかあったの？」"
+                                "\"So? Did you notice anything suspicious?\""
                             ]
                         },
                         {
@@ -11053,14 +11018,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何もおかしい所は・・・なかった・・・」"
+                                "\"There was nothing out of the ordinary.\""
                             ]
                         },
                         {
@@ -11153,14 +11118,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ティナ？」"
+                                "\"Tina?\""
                             ]
                         },
                         {
@@ -11253,21 +11218,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・え？あぁ・・・、今の所、怪しい所はなかったわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出発日時と、軽い確認をしただけだったし」"
+                                "\"   Eh? Oh, there was nothing suspicious so far. We just\nconfirmed the departure time and did some light checking.\""
                             ]
                         },
                         {
@@ -11344,21 +11302,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「他にも何か話したような気もするけれど・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覚えてないなら大した事ことのない話だったはず」"
+                                "\"I feel like we talked about something else too, but if I\ncan't remember it must not have been anything important.\""
                             ]
                         },
                         {
@@ -11451,21 +11402,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それに何か行動を起こすとしたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "依頼でこの街を離れたときだと思うわ」"
+                                "\"Besides, if they were going to take any action, I think it\nwould be when we leave town for the request.\""
                             ]
                         },
                         {
@@ -11558,21 +11502,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「街を出る前に尻尾をつかめれば良かったんだけれど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石にそこまで甘くないか・・・」"
+                                "\"It would have been nice to catch their tail before leaving\ntown, but I guess it's not that easy.\""
                             ]
                         },
                         {
@@ -11649,14 +11586,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それで、出発はいつなの？」"
+                                "\"So, when do we depart?\""
                             ]
                         },
                         {
@@ -11749,14 +11686,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「明日の朝になったわ」"
+                                "\"Tomorrow morning.\""
                             ]
                         },
                         {
@@ -11849,14 +11786,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ずいぶんと急な話だね」"
+                                "\"That's quite sudden, isn't it?\""
                             ]
                         },
                         {
@@ -11949,21 +11886,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうやら問題の魔物がいる周辺全域が完全封鎖"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "されているらしくてね」"
+                                "\"Apparently, the entire area around where the problematic\nmonster is located has been completely sealed off.\""
                             ]
                         },
                         {
@@ -12040,21 +11970,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「不便だからどうにかして欲しいって声が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上がってきているんだって・・・」"
+                                "\"There have been complaints about the inconvenience, so they\nwant us to do something about it.\""
                             ]
                         },
                         {
@@ -12131,21 +12054,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・まぁ明日だろうと一週間後だろうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "作戦には影響がないからいいんだけれど」"
+                                "\"Well, whether it's tomorrow or a week from now, it doesn't\naffect our strategy, so it's fine.\""
                             ]
                         },
                         {
@@ -12238,21 +12154,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「開始までの期間を長引かせてティナが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "監視していることを感づかれても困るし・・・」"
+                                "\"Dragging out the start period and risking them noticing\nthat Tina is monitoring would be troublesome.\""
                             ]
                         },
                         {
@@ -12329,21 +12238,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「相手にさとられる時間を空けないで済むって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えればあながち悪い状況でもないわね」"
+                                "\"If you think about it, not giving the enemy time to catch\non isn't necessarily a bad situation.\""
                             ]
                         },
                         {
@@ -12436,21 +12338,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まあね・・・。とにかく今は明日に備えるしか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来ることはないって感じよ」"
+                                "\"Right. Anyway, all we can do now is prepare for tomorrow.\""
                             ]
                         },
                         {
@@ -12543,21 +12438,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・ティナ姉のことだから大丈夫だとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思うけれど、準備は怠らないでね」"
+                                "\"I trust that you'll be fine, Tina Onee-san, but don't\nneglect the preparations.\""
                             ]
                         },
                         {
@@ -12650,14 +12538,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何かあったら私がぶっ飛ばしに行くから連絡しなさいよ」"
+                                "\"If anything happens, I'll come flying in to knock them\ndown, so make sure to contact me.\""
                             ]
                         },
                         {
@@ -12750,14 +12638,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとう、深追いせずに様子を見るわ」"
+                                "\"Thank you, I'll watch without overextending.\""
                             ]
                         },
                         {
@@ -12808,14 +12696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FS[32]ティナ\\FS[26]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それじゃ私はそのまま帰って明日の準備を進めるわね」"
+                                "\\FS[32]Tina\\FS[26]: \"Then I'll head back and proceed with\nthe preparations for tomorrow.\""
                             ]
                         },
                         {
@@ -12833,14 +12714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FS[32]ティナ\\FS[26]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リイスとスエルも遅くなる前に帰るのよ」"
+                                "\\FS[32]Tina\\FS[26]: \"Rise and Suelle, make sure you head\nhome before it gets too late.\""
                             ]
                         },
                         {
@@ -12883,7 +12757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・\\|・\\|・\\|翌朝。"
+                                "The next morning."
                             ]
                         },
                         {
@@ -13072,14 +12946,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んふふ、絶好の冒険日和ですねぇ」"
+                                "\"Nfufu, it's a perfect day for an adventure, isn't it?\""
                             ]
                         },
                         {
@@ -13156,21 +13030,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「では、早速出発しましょうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でゅひっ、今回はよろしくお願いしますね？」"
+                                "\"Well then, shall we depart promptly? Dyuhi, I'm counting on\nyou all for this time as well?\""
                             ]
                         },
                         {
@@ -13263,14 +13130,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、任せて頂戴」"
+                                "\"Yes, leave it to me.\""
                             ]
                         },
                         {
@@ -13363,14 +13230,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（さて・・・気合を入れないとね）"
+                                "\"(Now then, I need to get psyched up.)\""
                             ]
                         },
                         {
@@ -13458,7 +13325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マップの行き先に\\C[2]ラスラの森\\C[0]が追加されました。"
+                                "The destination \\C[2]Lasra Forest\\C[0] has been added to the\nmap."
                             ]
                         },
                         {
@@ -13702,14 +13569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "住民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この銅像のおち〇ちん・・・実際よりも大きく作ってるらしいの」"
+                                "Villager: \"It seems they made the dick on this statue bigger\nthan it actually is.\""
                             ]
                         },
                         {
@@ -13727,14 +13587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "住民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当はどの程度の大きさなのかしら・・・」"
+                                "Villager: \"I wonder how big it really is.\""
                             ]
                         },
                         {
@@ -13959,14 +13812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "補修作業員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近、ここの壁の老朽化が進んでてね」"
+                                "Maintenance Worker: \"The walls here have been aging quite a\nbit recently.\""
                             ]
                         },
                         {
@@ -13984,14 +13830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "補修作業員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今修繕作業しているから、ここを通るのはもうしばらく待ってくれ」"
+                                "Maintenance Worker: \"We're currently doing repair work, so\nplease wait a while before passing through here.\""
                             ]
                         },
                         {

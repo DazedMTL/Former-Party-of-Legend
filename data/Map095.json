@@ -13990,21 +13990,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まさか街の中に廃棄された研究所への道が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるなんて」"
+                                "\"Who would have thought there'd be a path to an abandoned\nlab right in the middle of town.\""
                             ]
                         },
                         {
@@ -14097,21 +14090,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「表面上は稼働していなくても重要な機械は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地下へ運んで実験を続けていたってことね」"
+                                "\"So they've been continuing experiments underground with the\nimportant machinery, even though it's not operational on the\nsurface.\""
                             ]
                         },
                         {
@@ -14188,21 +14174,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この奥におそらくマロゲスとティナがいるわ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・準備はいい？」"
+                                "\"Maroges and Tina are likely further inside. Are you ready?\""
                             ]
                         },
                         {
@@ -14295,21 +14274,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん、もちろんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行こうセルフィさん・・・リイス」"
+                                "\"Yeah, of course. Let's go, Selphie-san... Rise?\""
                             ]
                         },
                         {
@@ -14521,14 +14493,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あれ？リイスは！！？」"
+                                "\"Huh? Where's Rise!!?\""
                             ]
                         },
                         {
@@ -14621,14 +14593,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まっ、まさかあまりの怒りに1人で特攻したんじゃ・・・」"
+                                "\"No way, did she charge in alone because she was too\nangry...?\""
                             ]
                         },
                         {
@@ -14721,14 +14693,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「りっ、リイスならあり得る・・・」"
+                                "\"If it's Rise, it's possible...\""
                             ]
                         },
                         {
@@ -14863,14 +14835,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「スエルの中のリイスってどういうイメージなの・・・」"
+                                "\"What kind of image does Suelle have of Rise, I wonder...\""
                             ]
                         },
                         {
@@ -14947,21 +14919,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「実はここの見取り図を見ていた時に不審な点があってね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイスには別行動でそちらに向かって貰ってるわ」"
+                                "\"Actually, when I was looking at the layout of this place, I\nnoticed something suspicious. So I had Rise take a different\nroute to check it out.\""
                             ]
                         },
                         {
@@ -15054,14 +15019,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・スエルにも言おうと声をかけたのだけれど」"
+                                "\"I tried to tell Suelle as well...\""
                             ]
                         },
                         {
@@ -15154,21 +15119,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何度声をかけても気付かずに装器の確認を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "していたからジャマしちゃ悪いと思ってね」"
+                                "\"But no matter how many times I called out, you didn't\nnotice because you were so focused on checking your\nequipment. I thought it would be bad to disturb you.\""
                             ]
                         },
                         {
@@ -15261,21 +15219,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そっ、そうだったんだ・・・言われてみれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに来る間ずっと不安で確認してた気がする・・・」"
+                                "\"Oh, that's what happened... Now that you mention it, I feel\nlike I was checking over my gear non-stop on the way here\nbecause I was anxious.\""
                             ]
                         },
                         {
@@ -15368,21 +15319,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それにね・・・ティナの得意とする戦法は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手の攻撃を力をまとったブレードで弾き返すこと」"
+                                "\"Besides, Tina's specialty in combat is to repel attacks\nwith her power-charged blade.\""
                             ]
                         },
                         {
@@ -15459,21 +15403,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「リイスと私は二人とも遠距離型の戦法を得意とするから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むしろティナ相手には単独で戦った方が戦いやすいのよ」"
+                                "\"Both Rise and I specialize in long-range combat tactics, so\nit's actually easier for us to fight Tina one-on-one.\""
                             ]
                         },
                         {
@@ -15566,14 +15503,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それとも・・・私一人じゃ心配？」"
+                                "\"Or are you worried about me being alone?\""
                             ]
                         },
                         {
@@ -15666,14 +15603,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いやっ、そんなことはないよ！！」"
+                                "\"No, not at all!!\""
                             ]
                         },
                         {
@@ -15766,21 +15703,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（セルフィは戦闘においてティナと遜色しない実力だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むしろ分析力ではティナの上をいっている）"
+                                "(Selphie's combat abilities are on par with Tina's, and her\nanalytical skills are even superior.)"
                             ]
                         },
                         {
@@ -15857,21 +15787,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そんなセルフィが一人の方がいいと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言ってるんだから、きっと勝算があるのだろう）"
+                                "(If Selphie says it's better for her to go alone, she must\nhave a plan.)"
                             ]
                         },
                         {
@@ -15964,14 +15887,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なら僕が出来るのは信じてサポートすることだ）"
+                                "(Then all I can do is trust her and provide support.)"
                             ]
                         },
                         {
@@ -16064,14 +15987,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「分かった。僕にも手伝えることがあったら言ってね」"
+                                "\"Understood. Let me know if there's anything I can help\nwith.\""
                             ]
                         },
                         {
@@ -16164,21 +16087,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、もちろんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "作戦についてはここを進みながら話し合いましょう」"
+                                "\"Yes, of course. Let's discuss the strategy as we move\nforward.\""
                             ]
                         },
                         {
@@ -16255,14 +16171,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふっ、じゃあ行きましょうか」"
+                                "\"Hehe, then shall we get going?\""
                             ]
                         },
                         {
@@ -16355,14 +16271,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うんっ！！」"
+                                "\"Yeah!!\""
                             ]
                         },
                         {

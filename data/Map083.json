@@ -4013,14 +4013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「確かにこの奥とはいったけれど・・・」"
+                                "Suelle: \"We were told it's further inside, but...\""
                             ]
                         },
                         {
@@ -4125,14 +4118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セキュリティカード、未所持。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナンバー、不一致。"
+                                "Security card not possessed. Number mismatch."
                             ]
                         },
                         {
@@ -4189,7 +4175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビービーッ、ビービーッ。"
+                                "Beep-beep, beep-beep."
                             ]
                         },
                         {
@@ -4207,14 +4193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲスト用パスワードヲ入力シテクダサイ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲスト用パスワードヲ入力シテクダサイ。　"
+                                "Please enter the guest password. Please enter the guest\npassword."
                             ]
                         },
                         {
@@ -4304,14 +4283,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「危険な感じがするテンプレートな防衛装置がいるね・・・」"
+                                "\"There seems to be a template-like defense mechanism that\nfeels dangerous...\""
                             ]
                         },
                         {
@@ -4395,21 +4374,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうする？ここは一旦引いて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セキュリティを解除した方が・・・」"
+                                "\"What should we do? Maybe we should pull back for now and\nfind a way to disable the security...\""
                             ]
                         },
                         {
@@ -4514,21 +4486,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はあぁぁぁぁん？何言ってるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目の前に怪しげな場所があるのよ？」"
+                                "\"Huhhh? What are you talking about? There's a suspicious\nplace right in front of us, you know?\""
                             ]
                         },
                         {
@@ -4621,21 +4586,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私の歩く道の先にふさがるものは何人たりともぶっ飛ばす。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが私の常識よ？」"
+                                "\"Anything that blocks the path I walk, no matter who they\nare, I'll blow them away. That's my common sense.\""
                             ]
                         },
                         {
@@ -4728,21 +4686,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こっちもこっちで危険思想だったね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バーサーカーかな？」"
+                                "\"You have quite the dangerous idea too, huh? Are you a\nberserker or something?\""
                             ]
                         },
                         {
@@ -4835,21 +4786,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この可憐な私をバーサーカー呼ばわりするとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いい度胸ね。おしおき・・・は後でするとして」"
+                                "\"How dare you call me, so lovely and delicate, a berserker.\nI'll punish you later for that.\""
                             ]
                         },
                         {
@@ -4954,14 +4898,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今はこいつをぶっ壊すわよ！！」"
+                                "\"For now, let's smash this thing!!\""
                             ]
                         },
                         {
@@ -4993,7 +4937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "侵入者ト判定。セキュリティーモード、デストロイニ変更。"
+                                "Identified as an intruder. Security mode, switching to\ndestroy."
                             ]
                         },
                         {
@@ -5011,7 +4955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "侵入者ヲ排除シマス。"
+                                "Eliminating intruder."
                             ]
                         },
                         {
@@ -5102,14 +5046,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁああああっ！！」"
+                                "\"Haaaahhhhh!!\""
                             ]
                         },
                         {
@@ -5192,7 +5136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズウゥゥゥゥゥウンッ！！"
+                                "Vroooommm!!"
                             ]
                         },
                         {
@@ -5278,14 +5222,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まっ、こんな所ね」"
+                                "\"Well, that takes care of that.\""
                             ]
                         },
                         {
@@ -5378,14 +5322,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「先に進むわよ」"
+                                "\"Let's move on.\""
                             ]
                         },
                         {
@@ -6408,14 +6352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「確かにこの奥とはいったけれど・・・」"
+                                "Suelle: \"We were told it's further inside, but...\""
                             ]
                         },
                         {
@@ -6520,14 +6457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セキュリティカード、未所持。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナンバー、不一致。"
+                                "Security card not possessed. Number mismatch."
                             ]
                         },
                         {
@@ -6584,7 +6514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビービーッ、ビービーッ。"
+                                "Beep-beep, beep-beep."
                             ]
                         },
                         {
@@ -6602,14 +6532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲスト用パスワードヲ入力シテクダサイ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲスト用パスワードヲ入力シテクダサイ。　"
+                                "Please enter the guest password. Please enter the guest\npassword."
                             ]
                         },
                         {
@@ -6699,14 +6622,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「危険な感じがするテンプレートな防衛装置がいるね・・・」"
+                                "\"There seems to be a template-like defense mechanism that\nfeels dangerous...\""
                             ]
                         },
                         {
@@ -6790,21 +6713,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうする？ここは一旦引いて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セキュリティを解除した方が・・・」"
+                                "\"What should we do? Maybe we should pull back for now and\nfind a way to disable the security...\""
                             ]
                         },
                         {
@@ -6909,21 +6825,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はあぁぁぁぁん？何言ってるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目の前に怪しげな場所があるのよ？」"
+                                "\"Haaah? What are you saying? There's a suspicious place\nright in front of us, you know?\""
                             ]
                         },
                         {
@@ -7016,21 +6925,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私の歩く道の先にふさがるものは何人たりともぶっ飛ばす。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが私の常識よ？」"
+                                "\"Anything that blocks the path I walk, no matter who they\nare, I'll blow them away. That's my common sense.\""
                             ]
                         },
                         {
@@ -7123,21 +7025,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こっちもこっちで危険思想だったね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バーサーカーかな？」"
+                                "\"You have quite the dangerous ideology too, huh? Are you a\nberserker or something?\""
                             ]
                         },
                         {
@@ -7230,21 +7125,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この可憐な私をバーサーカー呼ばわりするとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いい度胸ね。おしおき・・・は後でするとして」"
+                                "\"To call me, who is so lovely, a berserker, you've got some\nnerve. I'll punish you later for that.\""
                             ]
                         },
                         {
@@ -7349,14 +7237,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今はこいつをぶっ壊すわよ！！」"
+                                "\"For now, let's smash this thing!!\""
                             ]
                         },
                         {
@@ -7388,7 +7276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "侵入者ト判定。セキュリティーモード、デストロイニ変更。"
+                                "Identified as intruders. Security mode changing to destroy."
                             ]
                         },
                         {
@@ -7406,7 +7294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "侵入者ヲ排除シマス。"
+                                "Eliminating intruders."
                             ]
                         },
                         {
@@ -7497,14 +7385,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁああああっ！！」"
+                                "\"Haaaahhhhh!!\""
                             ]
                         },
                         {
@@ -7587,7 +7475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズウゥゥゥゥゥウンッ！！"
+                                "Zuuuuuuun!"
                             ]
                         },
                         {
@@ -7673,14 +7561,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まっ、こんな所ね」"
+                                "\"Well, that takes care of that.\""
                             ]
                         },
                         {
@@ -7773,14 +7661,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「先に進むわよ」"
+                                "\"Let's move on.\""
                             ]
                         },
                         {

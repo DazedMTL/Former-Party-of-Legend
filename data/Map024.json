@@ -4431,14 +4431,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おや？この触手達は何か動きが変ですなぁ」"
+                                "\"Oh? The movements of these tentacles seem odd.\""
                             ]
                         },
                         {
@@ -4531,14 +4531,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この触手、洞窟に巣くう触手の本体・・・親玉ね）"
+                                "\"(These tentacles, they're the main body nesting in the\ncave... the boss.)\""
                             ]
                         },
                         {
@@ -4615,28 +4615,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（洞窟を覆いつくすほどの触手だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かあるとは思っていたけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほど、親玉の触手が複数いたってわけ）"
+                                "\"(With so many tentacles covering the cave, I thought there\nmust be something... I see, there are multiple boss\ntentacles.)\""
                             ]
                         },
                         {
@@ -4729,14 +4715,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「少し危険な感じがするので早く倒して貰えますかな？」"
+                                "\"It feels a bit dangerous, so could you defeat them\nquickly?\""
                             ]
                         },
                         {
@@ -4860,21 +4846,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（マロゲスはこの親玉を倒せば依頼が終わることに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気が付いてないようね）"
+                                "\"(It seems Maroges hasn't realized that completing the\nrequest by defeating this boss will end it.)\""
                             ]
                         },
                         {
@@ -4967,21 +4946,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（これはチャンスだわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この触手達が本体ってことに気づかれる前に全部しとめれば）"
+                                "\"(This is my chance. If I defeat all these tentacles before\nthey realize they're the main body...)\""
                             ]
                         },
                         {
@@ -5089,21 +5061,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（隷属の契約自体が依頼達成によって解除される。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうすれば、マロゲス自身を捕らえることなんて簡単よ）"
+                                "\"(The contract of servitude itself will be nullified upon\ncompletion of the request. Then, capturing Maroges himself\nwill be easy.)\""
                             ]
                         },
                         {
@@ -5184,14 +5149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すぐに片を付けるわ。下がっていなさい」"
+                                "Tina: \"I'll finish this quickly. Stand back.\""
                             ]
                         },
                         {
@@ -5351,14 +5309,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この程度の相手、私の敵じゃないわね」"
+                                "\"An opponent of this level is no enemy to me.\""
                             ]
                         },
                         {
@@ -5369,14 +5327,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いくわよっ！！」"
+                                "\"Here I go!!\""
                             ]
                         },
                         {
@@ -5568,7 +5526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "親玉の触手が地面から次から次にどんどんと現れてくる。"
+                                "The boss tentacles keep appearing one after another from the\nground."
                             ]
                         },
                         {
@@ -5605,14 +5563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目には見えている部分だけでなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数十体の親玉触手からこの触手洞窟は成り立っていたのだ。"
+                                "Not just the parts visible to the eye, but dozens of boss\ntentacles made up this tentacle cave."
                             ]
                         },
                         {
@@ -5639,7 +5590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さらに他の触手も再生能力があるのか、切った先から触手が伸びる。"
+                                "Furthermore, do the other tentacles have regenerative\nabilities? Tentacles grow back from where they were cut."
                             ]
                         },
                         {
@@ -5650,14 +5601,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふっ！！」"
+                                "\"Hmph!!\""
                             ]
                         },
                         {
@@ -5839,14 +5790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしティナはそんな触手を現れた先から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目にも止まらぬ速さで攻撃していき、数は目に見えて減っていく。"
+                                "However, Tina attacks the newly appeared tentacles with\nblinding speed, visibly reducing their number."
                             ]
                         },
                         {
@@ -5857,14 +5801,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あと少しっ！！）"
+                                "\"(Just a little more!!)\""
                             ]
                         },
                         {
@@ -5882,7 +5826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナは体に力を入れさらに動きを加速させる。"
+                                "Tina puts more strength into her body and accelerates her\nmovements even further."
                             ]
                         },
                         {
@@ -5893,14 +5837,14 @@
                                 0,
                                 2,
                                 0,
-                                "マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ふむ、そろそろですかね？）"
+                                "\"(Hmm, is it about time?)\""
                             ]
                         },
                         {
@@ -6028,7 +5972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{パキィイインッ！！"
+                                "A loud snapping sound!"
                             ]
                         },
                         {
@@ -6074,14 +6018,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なっ！！？」"
+                                "\"What?!\""
                             ]
                         },
                         {
@@ -6099,7 +6043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突如、ティナのブレード型の装器がひび割れ砕け散る。"
+                                "Suddenly, Tina's blade-type weapon cracks and shatters to\npieces."
                             ]
                         },
                         {
@@ -6122,14 +6066,14 @@
                                 0,
                                 2,
                                 0,
-                                "マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おやおや、壊れてしまいましたなぁ」"
+                                "\"Oh dear, it seems to have broken.\""
                             ]
                         },
                         {
@@ -6163,7 +6107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナのブレード型装器は物理耐性も含め最高位の装具だ。"
+                                "Tina's blade-type weapon is of the highest quality,\nincluding physical resistance."
                             ]
                         },
                         {
@@ -6212,21 +6156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それをスエルが調整し、本来傷がつくことすらほとんどない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなブレードが突然、前触れもなく粉々に砕けるなど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えられない状況だ。"
+                                "Adjusted by Suelle, it's a blade that should hardly ever get\nscratched, let alone shatter into pieces without warning."
                             ]
                         },
                         {
@@ -6256,14 +6186,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アンタ・・・細工したわね！！」"
+                                "\"You tampered with it!!\""
                             ]
                         },
                         {
@@ -6281,14 +6211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昨日の夜にでも細工したであろうマロゲスを睨むと怒りのままに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナは掴みかかろうとする。"
+                                "Glaring at Maroges, who likely tampered with it the night\nbefore, Tina lunges at him in anger."
                             ]
                         },
                         {
@@ -6341,7 +6264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キシャァアアアッ！！"
+                                "The sound of screeching!"
                             ]
                         },
                         {
@@ -6509,14 +6432,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（くっ、触手の回復が思ったよりも早いっ！！？）"
+                                "\"(Damn, the tentacles are regenerating faster than I\nthought!!)\""
                             ]
                         },
                         {
@@ -6534,14 +6457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面からの触手の不意打ち攻撃を折れたブレードで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何とか弾き返したティナ。"
+                                "Tina somehow deflects the surprise tentacle attacks from the\nground with her broken blade."
                             ]
                         },
                         {
@@ -6552,21 +6468,14 @@
                                 0,
                                 2,
                                 0,
-                                "マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いわれもない疑いを弁解したいのですが・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしまずはこの触手達を倒すことが先決では？」"
+                                "\"I would like to refute these baseless suspicions...\nHowever, shouldn't we prioritize defeating these tentacles\nfirst?\""
                             ]
                         },
                         {
@@ -6577,14 +6486,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふんっ、分かっているわよ！！」"
+                                "\"Hmph, I know that!!\""
                             ]
                         },
                         {
@@ -6595,14 +6504,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この程度の魔物なら、素手でも十分倒せる）"
+                                "\"(I can take down monsters of this level with my bare\nhands.)\""
                             ]
                         },
                         {
@@ -6613,21 +6522,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そうだ、落ち着け・・・触手さえ倒してしまえば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マロゲスとの隷属の契約もきれるハズ）"
+                                "\"(That's right, stay calm. If I defeat the tentacles, the\ncontract of servitude with Maroges should be broken.)\""
                             ]
                         },
                         {
@@ -6638,14 +6540,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そうすればあんな男、いつでも捕まえることが出来る！！）"
+                                "\"(Once that's done, I can capture that man anytime!!)\""
                             ]
                         },
                         {
@@ -6663,14 +6565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マロゲスを問いただすのは触手を処理した後でいいと考えたティナは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずは触手に狙いを定め、拳を振り上げる。"
+                                "Deciding to deal with Maroges after handling the tentacles,\nTina focuses on the tentacles and raises her fist."
                             ]
                         },
                         {
@@ -6735,7 +6630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒュガッ！！"
+                                "The sound of a swift movement!"
                             ]
                         },
                         {
@@ -6753,14 +6648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし叩きこもうと振りかぶったティナの拳は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと一歩のところで触手に届かず空をきる。"
+                                "However, Tina's fist, swung with the intent to strike,\nmisses the tentacles by a hair's breadth and cuts through\nthe air."
                             ]
                         },
                         {
@@ -6778,7 +6666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だがそれは決して触手が避けたわけではない。"
+                                "But it was not because the tentacles dodged."
                             ]
                         },
                         {
@@ -6813,7 +6701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドサッ！！"
+                                "The sound of a heavy fall!"
                             ]
                         },
                         {
@@ -6964,14 +6852,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なっ！！？体の力が抜けていく・・・）"
+                                "\"(What?! My body's strength is draining away...)\""
                             ]
                         },
                         {
@@ -7048,21 +6936,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（これって、マロゲスに危害を加えようとしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "起こる隷属の契約の効果？）"
+                                "\"(Is this the effect of the servitude contract that\nactivates when I try to harm Maroges?)\""
                             ]
                         },
                         {
@@ -7139,21 +7020,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まさか・・・さっきのマロゲスに掴みかかろうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しただけで攻撃したと判断されたわけ！！？）"
+                                "\"(Don't tell me... just because I tried to grab Maroges\nearlier, it was judged as an attack!!?)\""
                             ]
                         },
                         {
@@ -7232,7 +7106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅるるるっ・・・じゅるぅうぅ・・・、じゅるる。"
+                                "*slurping sounds*"
                             ]
                         },
                         {
@@ -7250,14 +7124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ！！放せ！！」"
+                                "Tina: \"Ugh!! Let go!!\""
                             ]
                         },
                         {
@@ -7275,14 +7142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体に力を入れることの出来なくなったティナがズルズルと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触手に取り込まれていく。"
+                                "Unable to muster any strength, Tina is gradually engulfed by\nthe tentacles."
                             ]
                         },
                         {
@@ -8256,7 +8116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ．ＭＰが全回復した。"
+                                "HP and MP have been fully restored."
                             ]
                         },
                         {
@@ -8355,8 +8215,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -8478,8 +8338,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,
@@ -8986,14 +8846,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おや？この触手達は何か動きが変ですなぁ」"
+                                "\"Oh? These tentacles are moving strangely, aren't they?\""
                             ]
                         },
                         {
@@ -9086,14 +8946,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この触手、洞窟に巣くう触手の本体・・・親玉ね）"
+                                "\"(These tentacles... they're the main body nesting in the\ncave—the boss, huh.)\""
                             ]
                         },
                         {
@@ -9170,28 +9030,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（洞窟を覆いつくすほどの触手だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かあるとは思っていたけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほど、親玉の触手が複数いたってわけ）"
+                                "\"(With tentacles covering the cave like this, I thought\nthere must be something... I see, so there are multiple boss\ntentacles.)\""
                             ]
                         },
                         {
@@ -9284,14 +9130,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「少し危険な感じがするので早く倒して貰えますかな？」"
+                                "\"It feels a bit dangerous, so could you please defeat them\nquickly?\""
                             ]
                         },
                         {
@@ -9415,21 +9261,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（マロゲスはこの親玉を倒せば依頼が終わることに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気が付いてないようね）"
+                                "\"(It seems Maroges hasn't realized that completing the\nrequest by defeating this boss will end it.)\""
                             ]
                         },
                         {
@@ -9522,21 +9361,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（これはチャンスだわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この触手達が本体ってことに気づかれる前に全部しとめれば）"
+                                "\"(This is my chance. If I defeat all these tentacles before\nthey realize they're the main body...)\""
                             ]
                         },
                         {
@@ -9644,21 +9476,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（隷属の契約自体が依頼達成によって解除される。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうすれば、マロゲス自身を捕らえることなんて簡単よ）"
+                                "\"(The contract of servitude itself will be terminated upon\ncompletion of the request. Then, capturing Maroges himself\nwill be easy.)\""
                             ]
                         },
                         {
@@ -9739,14 +9564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すぐに片を付けるわ。下がっていなさい」"
+                                "Tina: \"I'll finish this quickly. Stay back.\""
                             ]
                         },
                         {
@@ -9906,14 +9724,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この程度の相手、私の敵じゃないわね」"
+                                "\"An opponent of this level is no enemy to me.\""
                             ]
                         },
                         {
@@ -9924,14 +9742,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いくわよっ！！」"
+                                "\"Here I go!!\""
                             ]
                         },
                         {
@@ -10123,7 +9941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "親玉の触手が地面から次から次にどんどんと現れてくる。"
+                                "The boss tentacles keep appearing one after another from the\nground."
                             ]
                         },
                         {
@@ -10160,14 +9978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目には見えている部分だけでなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数十体の親玉触手からこの触手洞窟は成り立っていたのだ。"
+                                "Not just the parts visible to the eye, but dozens of boss\ntentacles make up this tentacle cave."
                             ]
                         },
                         {
@@ -10194,7 +10005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さらに他の触手も再生能力があるのか、切った先から触手が伸びる。"
+                                "Furthermore, do the other tentacles have regenerative\nabilities? Tentacles grow back from where they were cut."
                             ]
                         },
                         {
@@ -10205,14 +10016,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふっ！！」"
+                                "\"Hmph!!\""
                             ]
                         },
                         {
@@ -10394,14 +10205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしティナはそんな触手を現れた先から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目にも止まらぬ速さで攻撃していき、数は目に見えて減っていく。"
+                                "However, Tina attacks the newly appeared tentacles with\nblinding speed, visibly reducing their numbers."
                             ]
                         },
                         {
@@ -10412,14 +10216,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あと少しっ！！）"
+                                "\"(Just a little more!!)\""
                             ]
                         },
                         {
@@ -10437,7 +10241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナは体に力を入れさらに動きを加速させる。"
+                                "Tina puts more strength into her body and accelerates her\nmovements."
                             ]
                         },
                         {
@@ -10448,14 +10252,14 @@
                                 0,
                                 2,
                                 0,
-                                "マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ふむ、そろそろですかね？）"
+                                "\"(Hmm, is it about time?)\""
                             ]
                         },
                         {
@@ -10583,7 +10387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{パキィイインッ！！"
+                                "The sound of something snapping sharply!"
                             ]
                         },
                         {
@@ -10629,14 +10433,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なっ！！？」"
+                                "\"What?!\""
                             ]
                         },
                         {
@@ -10654,7 +10458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突如、ティナのブレード型の装器がひび割れ砕け散る。"
+                                "Suddenly, Tina's blade-type weapon cracks and shatters to\npieces."
                             ]
                         },
                         {
@@ -10677,14 +10481,14 @@
                                 0,
                                 2,
                                 0,
-                                "マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おやおや、壊れてしまいましたなぁ」"
+                                "\"Oh dear, it seems to have broken.\""
                             ]
                         },
                         {
@@ -10718,7 +10522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナのブレード型装器は物理耐性も含め最高位の装具だ。"
+                                "Tina's blade-type weapon is of the highest quality,\nincluding physical resistance."
                             ]
                         },
                         {
@@ -10767,21 +10571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それをスエルが調整し、本来傷がつくことすらほとんどない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなブレードが突然、前触れもなく粉々に砕けるなど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えられない状況だ。"
+                                "Adjusted by Suelle, it's a blade that should hardly ever\neven get scratched. The situation where such a blade\nsuddenly shatters into pieces without warning is\nunthinkable."
                             ]
                         },
                         {
@@ -10811,14 +10601,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アンタ・・・細工したわね！！」"
+                                "\"You tampered with it!!\""
                             ]
                         },
                         {
@@ -10836,14 +10626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昨日の夜にでも細工したであろうマロゲスを睨むと怒りのままに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナは掴みかかろうとする。"
+                                "Glaring at Maroges, who likely tampered with it the night\nbefore, Tina tries to grab him in her anger."
                             ]
                         },
                         {
@@ -10896,7 +10679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キシャァアアアッ！！"
+                                "Kishaaaaaah!!"
                             ]
                         },
                         {
@@ -11064,14 +10847,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（くっ、触手の回復が思ったよりも早いっ！！？）"
+                                "\"(Damn, the tentacles are regenerating faster than I\nthought!!)\""
                             ]
                         },
                         {
@@ -11089,14 +10872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面からの触手の不意打ち攻撃を折れたブレードで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何とか弾き返したティナ。"
+                                "Tina somehow parries the surprise tentacle attacks from the\nground with her broken blade."
                             ]
                         },
                         {
@@ -11107,21 +10883,14 @@
                                 0,
                                 2,
                                 0,
-                                "マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いわれもない疑いを弁解したいのですが・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしまずはこの触手達を倒すことが先決では？」"
+                                "\"I would like to refute your baseless suspicions... However,\nshouldn't we prioritize defeating these tentacles first?\""
                             ]
                         },
                         {
@@ -11132,14 +10901,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふんっ、分かっているわよ！！」"
+                                "\"Hmph, I know that!!\""
                             ]
                         },
                         {
@@ -11150,14 +10919,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この程度の魔物なら、素手でも十分倒せる）"
+                                "\"(I can take down monsters of this level with my bare\nhands.)\""
                             ]
                         },
                         {
@@ -11168,21 +10937,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そうだ、落ち着け・・・触手さえ倒してしまえば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マロゲスとの隷属の契約もきれるハズ）"
+                                "\"(That's right, calm down. If I defeat the tentacles, the\ncontract of servitude with Maroges should be broken.)\""
                             ]
                         },
                         {
@@ -11193,14 +10955,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そうすればあんな男、いつでも捕まえることが出来る！！）"
+                                "\"(Once that's done, I can capture that man anytime!!)\""
                             ]
                         },
                         {
@@ -11218,14 +10980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マロゲスを問いただすのは触手を処理した後でいいと考えたティナは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずは触手に狙いを定め、拳を振り上げる。"
+                                "Deciding to confront Maroges after dealing with the\ntentacles, Tina focuses on the tentacles and raises her\nfist."
                             ]
                         },
                         {
@@ -11290,7 +11045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒュガッ！！"
+                                "Hyugah!!"
                             ]
                         },
                         {
@@ -11308,14 +11063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし叩きこもうと振りかぶったティナの拳は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと一歩のところで触手に届かず空をきる。"
+                                "However, Tina's fist, swung with the intent to strike,\nmisses the tentacles by a hair's breadth and cuts through\nthe air."
                             ]
                         },
                         {
@@ -11333,7 +11081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だがそれは決して触手が避けたわけではない。"
+                                "But it's not because the tentacles dodged."
                             ]
                         },
                         {
@@ -11368,7 +11116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドサッ！！"
+                                "Dosah!!"
                             ]
                         },
                         {
@@ -11519,14 +11267,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なっ！！？体の力が抜けていく・・・）"
+                                "\"(What?! My body is losing strength...)\""
                             ]
                         },
                         {
@@ -11603,21 +11351,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（これって、マロゲスに危害を加えようとしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "起こる隷属の契約の効果？）"
+                                "\"(Is this the effect of the servitude contract that\nactivates when I try to harm Maroges?)\""
                             ]
                         },
                         {
@@ -11694,21 +11435,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まさか・・・さっきのマロゲスに掴みかかろうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しただけで攻撃したと判断されたわけ！！？）"
+                                "\"(Don't tell me... just because I tried to grab Maroges\nearlier, it was judged as an attack!!?)\""
                             ]
                         },
                         {
@@ -11787,7 +11521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅるるるっ・・・じゅるぅうぅ・・・、じゅるる。"
+                                "Slurp slurp slurp, slurrrp, slurp."
                             ]
                         },
                         {
@@ -11805,14 +11539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ！！放せ！！」"
+                                "Tina: \"Ugh!! Let go!!\""
                             ]
                         },
                         {
@@ -11830,14 +11557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体に力を入れることの出来なくなったティナがズルズルと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触手に取り込まれていく。"
+                                "Unable to muster any strength, Tina is gradually engulfed by\nthe tentacles."
                             ]
                         },
                         {
@@ -12417,14 +12137,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おや？この触手達は何か動きが変ですなぁ」"
+                                "\"Oh? These tentacles are moving strangely, aren't they?\""
                             ]
                         },
                         {
@@ -12517,14 +12237,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この触手、洞窟に巣くう触手の本体・・・親玉ね）"
+                                "\"(These tentacles... they're the main body of the tentacles\nnesting in the cave—the boss, huh.)\""
                             ]
                         },
                         {
@@ -12601,28 +12321,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（洞窟を覆いつくすほどの触手だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かあるとは思っていたけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほど、親玉の触手が複数いたってわけ）"
+                                "\"(Considering the tentacles cover the entire cave, I thought\nthere must be something to it... I see, so there were\nmultiple boss tentacles.)\""
                             ]
                         },
                         {
@@ -12715,14 +12421,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「少し危険な感じがするので早く倒して貰えますかな？」"
+                                "\"It feels a bit dangerous, so could you please defeat them\nquickly?\""
                             ]
                         },
                         {
@@ -12846,21 +12552,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（マロゲスはこの親玉を倒せば依頼が終わることに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気が付いてないようね）"
+                                "\"(It seems Maroges hasn't realized that completing the\nrequest by defeating this boss will end it.)\""
                             ]
                         },
                         {
@@ -12953,21 +12652,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（これはチャンスだわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この触手達が本体ってことに気づかれる前に全部しとめれば）"
+                                "\"(This is my chance. If I can defeat all these tentacles\nbefore it's realized they're the main body...)\""
                             ]
                         },
                         {
@@ -13075,21 +12767,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（隷属の契約自体が依頼達成によって解除される。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうすれば、マロゲス自身を捕らえることなんて簡単よ）"
+                                "\"(The contract of servitude itself will be nullified upon\ncompletion of the request. Then, capturing Maroges himself\nwill be easy.)\""
                             ]
                         },
                         {
@@ -13170,14 +12855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すぐに片を付けるわ。下がっていなさい」"
+                                "Tina: \"I'll finish this quickly. Stand back.\""
                             ]
                         },
                         {
@@ -13337,14 +13015,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この程度の相手、私の敵じゃないわね」"
+                                "\"An opponent of this level is no enemy of mine.\""
                             ]
                         },
                         {
@@ -13355,14 +13033,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いくわよっ！！」"
+                                "\"Here I go!!\""
                             ]
                         },
                         {
@@ -13554,7 +13232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "親玉の触手が地面から次から次にどんどんと現れてくる。"
+                                "The boss tentacles keep appearing from the ground one after\nanother."
                             ]
                         },
                         {
@@ -13591,14 +13269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目には見えている部分だけでなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数十体の親玉触手からこの触手洞窟は成り立っていたのだ。"
+                                "Not just the parts visible to the eye, but dozens of boss\ntentacles made up this tentacle cave."
                             ]
                         },
                         {
@@ -13625,7 +13296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さらに他の触手も再生能力があるのか、切った先から触手が伸びる。"
+                                "Furthermore, it seems other tentacles have regenerative\nabilities, as new ones grow from where they were cut."
                             ]
                         },
                         {
@@ -13636,14 +13307,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふっ！！」"
+                                "\"Hmph!!\""
                             ]
                         },
                         {
@@ -13825,14 +13496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしティナはそんな触手を現れた先から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目にも止まらぬ速さで攻撃していき、数は目に見えて減っていく。"
+                                "However, Tina attacks the newly appeared tentacles with\nblinding speed, visibly reducing their number."
                             ]
                         },
                         {
@@ -13843,14 +13507,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あと少しっ！！）"
+                                "\"(Just a little more!!)\""
                             ]
                         },
                         {
@@ -13868,7 +13532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナは体に力を入れさらに動きを加速させる。"
+                                "Tina puts more strength into her body and accelerates her\nmovements even further."
                             ]
                         },
                         {
@@ -13879,14 +13543,14 @@
                                 0,
                                 2,
                                 0,
-                                "マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ふむ、そろそろですかね？）"
+                                "\"(Hmm, is it about time?)\""
                             ]
                         },
                         {
@@ -14014,7 +13678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{パキィイインッ！！"
+                                "A loud snap echoes!"
                             ]
                         },
                         {
@@ -14060,14 +13724,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なっ！！？」"
+                                "\"What?!\""
                             ]
                         },
                         {
@@ -14085,7 +13749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突如、ティナのブレード型の装器がひび割れ砕け散る。"
+                                "Suddenly, Tina's blade-type weapon cracks and shatters to\npieces."
                             ]
                         },
                         {
@@ -14108,14 +13772,14 @@
                                 0,
                                 2,
                                 0,
-                                "マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おやおや、壊れてしまいましたなぁ」"
+                                "\"Oh dear, it seems to have broken.\""
                             ]
                         },
                         {
@@ -14149,7 +13813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナのブレード型装器は物理耐性も含め最高位の装具だ。"
+                                "Tina's blade-type weapon is of the highest quality,\nincluding physical resistance."
                             ]
                         },
                         {
@@ -14198,21 +13862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それをスエルが調整し、本来傷がつくことすらほとんどない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなブレードが突然、前触れもなく粉々に砕けるなど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えられない状況だ。"
+                                "Adjusted by Suelle, it's almost impossible for it to get\neven a scratch. Such a blade shattering into pieces without\nwarning is unthinkable."
                             ]
                         },
                         {
@@ -14242,14 +13892,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アンタ・・・細工したわね！！」"
+                                "\"You tampered with it!!\""
                             ]
                         },
                         {
@@ -14267,14 +13917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昨日の夜にでも細工したであろうマロゲスを睨むと怒りのままに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナは掴みかかろうとする。"
+                                "Glaring at Maroges, who likely tampered with it the night\nbefore, Tina tries to grab him in anger."
                             ]
                         },
                         {
@@ -14327,7 +13970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キシャァアアアッ！！"
+                                "Screeeeech!!"
                             ]
                         },
                         {
@@ -14495,14 +14138,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（くっ、触手の回復が思ったよりも早いっ！！？）"
+                                "\"(Damn, the tentacles are regenerating faster than I\nthought!!)\""
                             ]
                         },
                         {
@@ -14520,14 +14163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面からの触手の不意打ち攻撃を折れたブレードで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何とか弾き返したティナ。"
+                                "Tina somehow deflects the surprise tentacle attacks from the\nground with her broken blade."
                             ]
                         },
                         {
@@ -14538,21 +14174,14 @@
                                 0,
                                 2,
                                 0,
-                                "マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いわれもない疑いを弁解したいのですが・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしまずはこの触手達を倒すことが先決では？」"
+                                "\"I would like to refute your baseless suspicions... However,\nshouldn't we prioritize defeating these tentacles first?\""
                             ]
                         },
                         {
@@ -14563,14 +14192,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふんっ、分かっているわよ！！」"
+                                "\"Hmph, I know that!!\""
                             ]
                         },
                         {
@@ -14581,14 +14210,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この程度の魔物なら、素手でも十分倒せる）"
+                                "\"(I can take down these kinds of monsters with my bare\nhands.)\""
                             ]
                         },
                         {
@@ -14599,21 +14228,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そうだ、落ち着け・・・触手さえ倒してしまえば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マロゲスとの隷属の契約もきれるハズ）"
+                                "\"(That's right, calm down. If I defeat the tentacles, the\ncontract of servitude with Maroges should be broken.)\""
                             ]
                         },
                         {
@@ -14624,14 +14246,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そうすればあんな男、いつでも捕まえることが出来る！！）"
+                                "\"(Once that's done, I can capture that man anytime!!)\""
                             ]
                         },
                         {
@@ -14649,14 +14271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マロゲスを問いただすのは触手を処理した後でいいと考えたティナは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずは触手に狙いを定め、拳を振り上げる。"
+                                "Deciding to confront Maroges after dealing with the\ntentacles, Tina focuses on the tentacles and raises her\nfist."
                             ]
                         },
                         {
@@ -14721,7 +14336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒュガッ！！"
+                                "Whoosh!!"
                             ]
                         },
                         {
@@ -14739,14 +14354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし叩きこもうと振りかぶったティナの拳は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと一歩のところで触手に届かず空をきる。"
+                                "However, Tina's fist, swung with the intent to strike,\nmisses the tentacles by a hair's breadth and cuts through\nthe air."
                             ]
                         },
                         {
@@ -14764,7 +14372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だがそれは決して触手が避けたわけではない。"
+                                "But it wasn't because the tentacles dodged."
                             ]
                         },
                         {
@@ -14799,7 +14407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドサッ！！"
+                                "Thud!!"
                             ]
                         },
                         {
@@ -14950,14 +14558,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なっ！！？体の力が抜けていく・・・）"
+                                "\"(What?! My body is losing strength...)\""
                             ]
                         },
                         {
@@ -15034,21 +14642,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（これって、マロゲスに危害を加えようとしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "起こる隷属の契約の効果？）"
+                                "\"(Is this the effect of the servitude contract that\nactivates when I try to harm Maroges?)\""
                             ]
                         },
                         {
@@ -15125,21 +14726,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まさか・・・さっきのマロゲスに掴みかかろうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しただけで攻撃したと判断されたわけ！！？）"
+                                "\"(Don't tell me... just because I tried to grab Maroges\nearlier, it was judged as an attack!!?)\""
                             ]
                         },
                         {
@@ -15218,7 +14812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅるるるっ・・・じゅるぅうぅ・・・、じゅるる。"
+                                "Slurp slurp slurp, slurrrp, slurp."
                             ]
                         },
                         {
@@ -15236,14 +14830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ！！放せ！！」"
+                                "Tina: \"Ugh!! Let go!!\""
                             ]
                         },
                         {
@@ -15261,14 +14848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体に力を入れることの出来なくなったティナがズルズルと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触手に取り込まれていく。"
+                                "Unable to muster any strength, Tina is gradually engulfed by\nthe tentacles."
                             ]
                         },
                         {

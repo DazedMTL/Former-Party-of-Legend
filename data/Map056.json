@@ -9751,14 +9751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こちらは現在、土砂崩れによって通行出来ません」"
+                                "Soldier: \"This area is currently impassable due to a\nlandslide.\""
                             ]
                         },
                         {
@@ -9776,14 +9769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありませんが整備されるまでの間、別の道をご利用ください」"
+                                "Soldier: \"I apologize, but please use a different route\nuntil it has been cleared.\""
                             ]
                         },
                         {
@@ -10570,14 +10556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こちらは現在、土砂崩れによって通行出来ません」"
+                                "Soldier: \"This area is currently impassable due to a\nlandslide.\""
                             ]
                         },
                         {
@@ -10595,14 +10574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありませんが整備されるまでの間、別の道をご利用ください」"
+                                "Soldier: \"I apologize, but please use a different route\nuntil it has been cleared.\""
                             ]
                         },
                         {
@@ -11426,7 +11398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ネッコフラッシュ（リイス専用武器）を手に入れた！"
+                                "Acquired Neko Flash (Rise's exclusive weapon)!"
                             ]
                         },
                         {
@@ -11621,7 +11593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ．ＭＰが全回復した。"
+                                "HP. MP has been fully restored."
                             ]
                         },
                         {
@@ -11720,8 +11692,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -11843,8 +11815,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,
@@ -12150,7 +12122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラッキーミルクを手に入れた！"
+                                "Lucky! I've obtained the milk!"
                             ]
                         },
                         {

@@ -1771,7 +1771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おや？誰だい君は？」"
+                                "Oh? Who might you be?"
                             ]
                         },
                         {
@@ -1789,7 +1789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「勝手に他の人の部屋に入っちゃダメだよ」"
+                                "You shouldn't just enter someone else's room without\npermission."
                             ]
                         },
                         {

@@ -4347,21 +4347,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（使われてないハズの封鎖された施設に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人が集まってるなんて・・・）"
+                                "\"(It's strange to see people gathering in a facility that's\nsupposed to be sealed and unused   )\""
                             ]
                         },
                         {
@@ -4438,21 +4431,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ティナはいないようだけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはビンゴかしら？）"
+                                "\"(Tina doesn't seem to be here, but   could this be a\njackpot?)\""
                             ]
                         },
                         {
@@ -4529,14 +4515,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（男が数人・・・それにあの女は・・・まさか）"
+                                "\"(There are several men   and that woman   could it be?)\""
                             ]
                         },
                         {
@@ -4627,7 +4613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そこにいるのは分かっているわよ。出てきなさい」"
+                                "\"I know you're there. Come out.\""
                             ]
                         },
                         {
@@ -4893,14 +4879,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・私の固有スキルで完全に気配は消していたはずだけれど？」"
+                                "\"   I should have completely erased my presence with my\nunique skill, but...?\""
                             ]
                         },
                         {
@@ -4964,14 +4950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ、私の術式はね？すこーし特別でね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた達のスキルに引っかからずに行使できるのよ」"
+                                "\"Ah, my technique is a bit special, you see. It can be\nexecuted without being caught by your skills.\""
                             ]
                         },
                         {
@@ -5028,21 +5007,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（・・・どういう理屈か知らないけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナのフルボディもおそらくこの系統に突破されたのね）"
+                                "\"(   I don't know the logic behind it, but it seems like\nthey've broken through Tina's Full Body as well.)\""
                             ]
                         },
                         {
@@ -5053,21 +5025,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・私が前に捕まえたときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな術式・・・使ってなかったハズよね」"
+                                "\"   When I caught you before, you weren't using such\ntechniques, were you?\""
                             ]
                         },
                         {
@@ -5124,14 +5089,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら？私のこと覚えてくれてたの？」"
+                                "\"Oh? You remember me? How flattering.\""
                             ]
                         },
                         {
@@ -5188,14 +5153,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「当たり前よ・・・ベルラ」"
+                                "\"Of course, Bellra.\""
                             ]
                         },
                         {
@@ -5235,7 +5200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セルフィは目の前の女性を知っていた。"
+                                "Selphie recognized the woman in front of her."
                             ]
                         },
                         {
@@ -5253,14 +5218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラ・・・。前にセルフィが捕まえた人身売買組織の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "トップだった人物なのだ。"
+                                "Bellra. She was the head of the human trafficking\norganization that Selphie had captured before."
                             ]
                         },
                         {
@@ -5285,14 +5243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルやティナは、話こそセルフィから聞いていたものの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実際に顔を合わせそして捕らえたのはセルフィだ。"
+                                "Suelle and Tina had heard the story from Selphie, but it was\nSelphie who had actually faced and captured her."
                             ]
                         },
                         {
@@ -5310,7 +5261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "当然、覚えていないはずがなかった。"
+                                "Of course, she hadn't forgotten."
                             ]
                         },
                         {
@@ -5352,14 +5303,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どうやって牢獄を抜けだしたの・・・いや、それよりも）"
+                                "\"(How did she escape from prison   No, more importantly...)\""
                             ]
                         },
                         {
@@ -5370,14 +5321,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どうする、戦う？）"
+                                "\"(What to do, fight?)\""
                             ]
                         },
                         {
@@ -5388,21 +5339,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（いや、焦ってはダメ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦うにしても相手の能力が未知数すぎる）"
+                                "\"(No, I mustn't rush   . Even if I decide to fight, her\nabilities are too much of an unknown.)\""
                             ]
                         },
                         {
@@ -5427,7 +5371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セルフィは冷静に周りの状況を確認する。"
+                                "Selphie calmly assessed the situation around her."
                             ]
                         },
                         {
@@ -5438,21 +5382,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この部屋の出口は一つ。入ってきた道だけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人が集まって来ているわね）"
+                                "\"(There's only one exit in this room, the way I came in\nbut people are starting to gather.)\""
                             ]
                         },
                         {
@@ -5477,7 +5414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セルフィの索敵スキルで正確に近づいてくる敵の動きを把握する。"
+                                "Using her enemy detection skill, Selphie accurately grasped\nthe movements of the approaching enemies."
                             ]
                         },
                         {
@@ -5504,14 +5441,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（完全に私を包囲する気ね・・・でもこのくらいなら！！）"
+                                "\"(They're planning to surround me completely   but with this\nmuch, I can!!)\""
                             ]
                         },
                         {
@@ -5568,14 +5505,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「逃げきれる・・・って思ってるでしょう？」"
+                                "\"You think you can escape, don't you?\""
                             ]
                         },
                         {
@@ -5632,7 +5569,7 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
@@ -5679,14 +5616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "動こうとした瞬間、心を見透かされたかのような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言葉を投げかけられ思わず動きを止めてしまう。"
+                                "Just as she was about to move, Selphie was thrown off by\nwords that seemed to see right through her, causing her to\ninvoluntarily stop in her tracks."
                             ]
                         },
                         {
@@ -5728,14 +5658,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇ？一つ取引をしない？」"
+                                "\"Hey? How about we make a deal?\""
                             ]
                         },
                         {
@@ -5792,14 +5722,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・取引？あなたと？」"
+                                "\"   A deal? With you?\""
                             ]
                         },
                         {
@@ -5856,14 +5786,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、お互い納得のとってもいい案があるのよ」"
+                                "\"Yes, a very good proposal that I'm sure we'll both agree\non.\""
                             ]
                         },
                         {
@@ -5893,14 +5823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言ってベルラはタブレットのような機器を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取り出しセルフィにその画面を見せる。"
+                                "Bellra took out a device that looked like a tablet and\nshowed its screen to Selphie."
                             ]
                         },
                         {
@@ -5948,14 +5871,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほら？ここに映っているの・・・誰だか分かる？」"
+                                "\"Look? Do you recognize who's on this screen?\""
                             ]
                         },
                         {
@@ -5982,14 +5905,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「！！？スエルにリイス！！」"
+                                "\"！！?Suelle and Rise！！\""
                             ]
                         },
                         {
@@ -6014,7 +5937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タブレットに表示されている映像にはスエルとリイスの姿があった。"
+                                "The tablet displayed an image showing Suelle and Rise."
                             ]
                         },
                         {
@@ -6041,21 +5964,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この子たちねぇ？今マロゲスの屋敷にいるのよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのリアルタイム映像ってわけ」"
+                                "\"These kids, huh? They're currently at Maroges' mansion.\nWhat you're seeing is live footage.\""
                             ]
                         },
                         {
@@ -6066,21 +5982,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「駄目よねぇ、不法侵入なんてしちゃ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはオシオキが必要よね？」"
+                                "\"It's bad, isn't it? Trespassing like that   . They need to\nbe punished, don't they?\""
                             ]
                         },
                         {
@@ -6107,7 +6016,7 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
@@ -6125,14 +6034,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・脅しているつもり？」"
+                                "\"   Are you trying to threaten me?\""
                             ]
                         },
                         {
@@ -6157,7 +6066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "映像を見たセルフィはキッとベルラを睨む。"
+                                "Upon seeing the footage, Selphie glared sharply at Bellra."
                             ]
                         },
                         {
@@ -6184,14 +6093,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・何かしようとしてもリイスがいる限り無駄よ」"
+                                "\"   Even if you try something, it's useless as long as Rise\nis there.\""
                             ]
                         },
                         {
@@ -6246,7 +6155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう、映像にはスエルと・・・そしてリイスがいるのだ。"
+                                "Yes, the footage showed not only Suelle but also Rise."
                             ]
                         },
                         {
@@ -6264,14 +6173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘が苦手なスエルだけならまだしも、リイスがいる以上"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "襲われても対処は出来る。"
+                                "Even if Suelle, who was not good at fighting, was alone, as\nlong as Rise was there, they could handle being attacked."
                             ]
                         },
                         {
@@ -6298,14 +6200,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そう？でもリイスちゃんって凄く聞き分けのいい子なのよねぇ」"
+                                "\"Is that so? But Rise-chan is such a good listener, isn't\nshe?\""
                             ]
                         },
                         {
@@ -6330,7 +6232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラは小型のマイクを取り出す。"
+                                "Bellra took out a small microphone."
                             ]
                         },
                         {
@@ -6357,14 +6259,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「リイスちゃん。右手をあげてくれる？」"
+                                "\"Rise-chan. Could you raise your right hand for me?\""
                             ]
                         },
                         {
@@ -6389,14 +6291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マイクに向けてベルラが指示を出すと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "画面に映し出されているリイスが指示された通り手を上げた。"
+                                "When Bellra gave instructions into the microphone, Rise, as\nshown on the screen, raised her hand as directed."
                             ]
                         },
                         {
@@ -6423,14 +6318,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇ？素直でしょう？」"
+                                "\"See? She's very obedient, isn't she?\""
                             ]
                         },
                         {
@@ -6441,21 +6336,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今ここでスエルちゃんだっけ？この男の子を始末しなさいって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "指示を出したら・・・どうなるのかしらねぇ？」"
+                                "\"What do you think would happen if I ordered her right now\nto eliminate Suelle, was it? This boy.\""
                             ]
                         },
                         {
@@ -6480,7 +6368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不気味な笑みを浮かべて楽しそうにベルラは語る。"
+                                "Bellra spoke with a sinister smile, seemingly enjoying the\nsituation."
                             ]
                         },
                         {
@@ -6522,21 +6410,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「可哀想でしょう？仲間を自分の手で始末しちゃうなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、リイスちゃんきっと、泣いちゃうかも・・・」"
+                                "\"It's tragic, isn't it? Having to kill a comrade with her\nown hands. Ah, Rise-chan might even cry.\""
                             ]
                         },
                         {
@@ -6563,14 +6444,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・リイスに何をしたの？」"
+                                "\"What have you done to Rise?\""
                             ]
                         },
                         {
@@ -6612,21 +6493,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何って言われても・・・ふふっ、隷属の契約っていうのでね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗脳奴隷になって貰ったのよ」"
+                                "\"What have I done, you ask? Hehe, it's a contract of\nservitude. I've made her into a brainwashed slave.\""
                             ]
                         },
                         {
@@ -6637,21 +6511,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「といってもリイスちゃんは自分が洗脳されていることなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忘れてるでしょうけれど・・・」"
+                                "\"Though, Rise-chan has probably forgotten that she's been\nbrainwashed.\""
                             ]
                         },
                         {
@@ -6676,7 +6543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラの言葉にセルフィは怒りがこみあげてくる。"
+                                "Anger welled up inside Selphie upon hearing Bellra's words."
                             ]
                         },
                         {
@@ -6694,21 +6561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし普通の会話のように淡々と受け答えするベルラを見て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "駆け引きに使えなければ本当にリイスに指示を出すというのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "伝わり迂闊に手が出せない。"
+                                "However, seeing Bellra respond so calmly as if it were a\nnormal conversation, Selphie realized that if she couldn't\nuse this to her advantage, Bellra might truly give Rise an\norder, making it risky to act carelessly."
                             ]
                         },
                         {
@@ -6794,14 +6647,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あなた・・・最低ね」"
+                                "\"You're the worst.\""
                             ]
                         },
                         {
@@ -6858,21 +6711,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら怖いわぁ・・・でも、私は隷属の契約ってのをしただけで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実際に洗脳をしたのは別の男よ？」"
+                                "\"Oh, scary. But you know, I only made the contract of\nservitude. It was another man who actually did the\nbrainwashing.\""
                             ]
                         },
                         {
@@ -6883,14 +6729,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふっ、じっくりたっぷりと嬲られていたわねぇ」"
+                                "\"Hehe, she was tormented thoroughly and for a long time.\""
                             ]
                         },
                         {
@@ -6915,7 +6761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラはセルフィを煽るようにゆっくりとリイスの話をする。"
+                                "Bellra spoke slowly about Rise, as if to provoke Selphie."
                             ]
                         },
                         {
@@ -6942,21 +6788,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「で、その隷属の契約なんだけれどぉ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セルフィちゃんにもして貰おうかなって話なの」"
+                                "\"So, about this contract of servitude... I was thinking of\nhaving you, Selphie-chan, enter into one as well.\""
                             ]
                         },
                         {
@@ -6967,28 +6806,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もちろんセルフィちゃんにもメリットを提示してあげる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おとなしく契約をしてくれたら、ここにいるスエルちゃんに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちは手を出さないであげるわ」"
+                                "\"Of course, I'll present a benefit to you. If you agree to\nthe contract quietly, we won't lay a hand on Suelle here.\""
                             ]
                         },
                         {
@@ -7028,7 +6853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうかしら？とベルラは提案をする。"
+                                "Bellra made the proposal as if offering a deal."
                             ]
                         },
                         {
@@ -7070,14 +6895,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・そんなの信じられるとでも？」"
+                                "\"Do you really think I can trust that?\""
                             ]
                         },
                         {
@@ -7102,14 +6927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "当然だ。仲間を人質に取るような人物の言うことなど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話を聞いただけで信用できるわけがない。"
+                                "It was only natural. No one could trust the words of someone\nwho takes comrades as hostages just from listening to them."
                             ]
                         },
                         {
@@ -7166,14 +6984,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「安心して、これは契約なの」"
+                                "\"Don't worry, this is a contract after all.\""
                             ]
                         },
                         {
@@ -7184,21 +7002,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「古代術式って聞いたことはあるでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔に使われてた現代とは法則の違う術式なんだけれど・・・」"
+                                "\"Have you ever heard of ancient spell formulas? They're\ndifferent from modern magic, used in the old times.\""
                             ]
                         },
                         {
@@ -7209,28 +7020,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「隷属の契約ってのは、目的達成のために奴隷を縛って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おくためのものや罪人を更生させるまで刑期中、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理やり働かせる条件付きの契約のこと」"
+                                "\"A contract of servitude is something that binds slaves for\nthe purpose of achieving a goal, or it's a conditional\ncontract that forces criminals to work until they are\nrehabilitated.\""
                             ]
                         },
                         {
@@ -7241,28 +7038,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「で、その副産物として契約中に完全に心を折って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗脳を刷り込ませると契約が解けた後でも洗脳催眠が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "続くって仕組みなの」"
+                                "\"And as a byproduct, if during the contract you completely\nbreak their spirit and brainwash them, the hypnotic\nbrainwashing continues even after the contract is\nterminated.\""
                             ]
                         },
                         {
@@ -7273,21 +7056,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だから洗脳も完了していない状態で、こっちが一方的に契約を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "破った場合」"
+                                "\"So, if the brainwashing isn't complete and we unilaterally\nbreak the contract...\""
                             ]
                         },
                         {
@@ -7298,21 +7074,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「即座に契約が解除されてセルフィちゃんは自由の身。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達は貴方に制圧されてしまうわ」"
+                                "\"The contract is immediately nullified and Selphie-chan\nbecomes free. We would then be overpowered by you.\""
                             ]
                         },
                         {
@@ -7352,7 +7121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つまりは、スエルに手を出さないことを契約の条件にするというわけだ。"
+                                "In other words, not laying a hand on Suelle would be a\ncondition of the contract."
                             ]
                         },
                         {
@@ -7370,14 +7139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを破れば当然セルフィの奴隷契約も切れ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "反撃だろうと何だろうと出来るようになる。"
+                                "If that condition is broken, naturally Selphie's contract of\nservitude would also be terminated, and she would be able to\nretaliate or do whatever she wants."
                             ]
                         },
                         {
@@ -7395,7 +7157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしておそらくベルラが言っていることは本当だろう。"
+                                "And most likely, what Bellra is saying is true."
                             ]
                         },
                         {
@@ -7413,14 +7175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もし古代術式が無条件で洗脳出来るのであれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わざわざこんな周りくどいことはしない。"
+                                "If ancient spell formulas could brainwash unconditionally,\nthere would be no need for such roundabout methods."
                             ]
                         },
                         {
@@ -7462,21 +7217,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「スエル達がマロゲスの屋敷に行くように仕向けたのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私がここに来るように仕向けたのも、全部私を捕らえるためってわけ」"
+                                "\"So you orchestrated Suelle and the others going to Maroges'\nmansion and me coming here, all to capture me.\""
                             ]
                         },
                         {
@@ -7501,14 +7249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だとしたらそれは・・・かなりの人間がベルラと協力している"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ことになるとセルフィは考えた。"
+                                "If that's the case, Selphie thought that quite a number of\npeople must be cooperating with Bellra."
                             ]
                         },
                         {
@@ -7565,14 +7306,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んふふっ、偶然よ。偶然」"
+                                "\"Nfufu, it's all coincidence. Just coincidence.\""
                             ]
                         },
                         {
@@ -7597,14 +7338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口では否定しているが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベルラの態度からセルフィの予想が当たっていることが分かる。"
+                                "Though she denies it with her words, Selphie can tell from\nBellra's attitude that her guess is correct."
                             ]
                         },
                         {
@@ -7622,14 +7356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてそれと同時にその余裕からは他にも策を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何個か用意してあるとセルフィは直感で感じとった。"
+                                "And at the same time, Selphie intuitively feels that Bellra\nhas several other plans prepared from her composure."
                             ]
                         },
                         {
@@ -7647,14 +7374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おそらくこれが一番セルフィに有効な手だと思っているだけで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "効果がなければ別の策に切り替えるだろう。"
+                                "Probably this is what Bellra thinks is the most effective\ntactic against Selphie, but if it doesn't work, she'll\nswitch to another strategy."
                             ]
                         },
                         {
@@ -7672,14 +7392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・だが、その際にセルフィの動揺を誘うため"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さきほど言っていたことをリイスに本当にやらせるハズだ。"
+                                "However, in doing so, Bellra will likely carry out what she\nmentioned earlier to Rise to unsettle Selphie."
                             ]
                         },
                         {
@@ -7697,14 +7410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはつまり、セルフィには隷属の契約をする以外に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スエル達を助ける道はないということでもある。"
+                                "This means that other than entering into a contract of\nservitude, Selphie has no other way to save Suelle and the\nothers."
                             ]
                         },
                         {
@@ -7761,14 +7467,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・本当にスエルには手を出さないの？」"
+                                "\"Will you really not lay a hand on Suelle?\""
                             ]
                         },
                         {
@@ -7832,14 +7538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、男は体があれば女みたいに勝手にお金が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "転がり込んでくるわけじゃないし・・・元々どうでもいいもの」"
+                                "\"Yes, men can't just roll in money like women if they have a\nbody; I don't care about him in the first place.\""
                             ]
                         },
                         {
@@ -7864,7 +7563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それに・・・とベルラは付け加える。"
+                                "Bellra adds to that."
                             ]
                         },
                         {
@@ -7891,21 +7590,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「実はね？今回私と協力関係にあるクライアントがねぇ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたが欲しくて欲しくてたまらないらしいのよ」"
+                                "\"Actually, there's a client who's in cahoots with me this\ntime... They seem to want you so badly they can't stand it.\""
                             ]
                         },
                         {
@@ -7962,14 +7654,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「クライアント？それは誰？」"
+                                "\"A client? Who might that be?\""
                             ]
                         },
                         {
@@ -7994,14 +7686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまで用意周到にセルフィを狙ったのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベルラを援助している人物はかなり権力を持っていると推測できる。"
+                                "Given the meticulous planning to target Selphie, it can be\ninferred that the person aiding Bellra holds considerable\npower."
                             ]
                         },
                         {
@@ -8019,14 +7704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その人物を聞き出そうとするセルフィに対し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベルラは手をはらいのけるように振った。"
+                                "When Selphie tries to find out who that person is, Bellra\ndismisses the question with a wave of her hand."
                             ]
                         },
                         {
@@ -8083,14 +7761,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふっ、それは会ってからのお楽しみ・・・守秘義務ってやつね？」"
+                                "\"Nfufu, that will be a pleasure for you to find out when you\nmeet them. Ever heard of confidentiality agreements?\""
                             ]
                         },
                         {
@@ -8115,14 +7793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隷属の契約をすればすぐに調教して出荷してあげるわよ・・・、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "と含みのある回答をしつつ答えを濁らせる。"
+                                "While giving an answer with implications, Bellra evades a\ndirect response by saying that if Selphie signs a contract\nof servitude, she'll be trained and shipped out right away."
                             ]
                         },
                         {
@@ -8149,14 +7820,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さてさて、状況も分かったわよねぇ？どうする、セルフィちゃん？」"
+                                "\"Now now, you understand the situation, don't you? What will\nyou do, Selphie-chan?\""
                             ]
                         },
                         {
@@ -8181,14 +7852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隷属の契約をされていない今であれば・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでセルフィが逃げきることくらいは出来るであろう。"
+                                "If Selphie is not under a contract of servitude right now,\nshe might be able to escape from this situation."
                             ]
                         },
                         {
@@ -8206,14 +7870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしその場合はスエルが仲間であるリイスの手によって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "始末されてしまう。"
+                                "However, if she does so, Suelle will be dealt with by Rise,\nwho is one of their comrades."
                             ]
                         },
                         {
@@ -8231,7 +7888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・セルフィが仲間を犠牲にするなんて出来るハズがなかった。"
+                                "Selphie could never sacrifice her comrades."
                             ]
                         },
                         {
@@ -8295,7 +7952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・分かったわ」"
+                                "\"I understand.\""
                             ]
                         },
                         {
@@ -8320,14 +7977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少しの間があった後、セルフィは条件を飲む。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしそれは仲間を守るためだけではなかった。"
+                                "After a brief pause, Selphie agrees to the terms. But it\nwasn't just to protect her comrades."
                             ]
                         },
                         {
@@ -8354,21 +8004,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ベルラ・・・あなたは一つ勘違いしているわ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この状況を逆転できるとすれば、おそらくそれが出来るのはスエル）"
+                                "(Bellra, you're making one big mistake. If there's anyone\nwho can turn this situation around, it's probably Suelle.)"
                             ]
                         },
                         {
@@ -8379,14 +8022,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あなたはスエルを甘く見過ぎているようね）"
+                                "(You're underestimating Suelle too much.)"
                             ]
                         },
                         {
@@ -8416,14 +8059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "例え、リイスが洗脳されていたとしても・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナとセルフィが洗脳されていたとしても。"
+                                "Even if Rise was brainwashed, even if Tina and Selphie were\nbrainwashed..."
                             ]
                         },
                         {
@@ -8441,14 +8077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルならきっとこの状況を打破できると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "信じていたからの行動でもあったのだ。"
+                                "Selphie believed that Suelle could definitely break through\nthis situation, which was also why she took this action."
                             ]
                         },
                         {
@@ -8526,14 +8155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうしてセルフィは捕まり・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数時間後、セルフィの映像をスエル達が見ることになるのであった。"
+                                "And so, Selphie was captured. A few hours later, Suelle and\nthe others would end up watching a video of Selphie."
                             ]
                         },
                         {
@@ -8551,7 +8173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・時間は戻り、スエルが引きこもって5日後・・・。"
+                                "The time rewinds to five days after Suelle shut himself\naway."
                             ]
                         },
                         {
@@ -9213,21 +8835,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（使われてないハズの封鎖された施設に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人が集まってるなんて・・・）"
+                                "\"(It's strange to see people gathering in a facility that's\nsupposed to be sealed and unused   )\""
                             ]
                         },
                         {
@@ -9304,21 +8919,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ティナはいないようだけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはビンゴかしら？）"
+                                "\"(Tina doesn't seem to be here, but   could this be a\njackpot?)\""
                             ]
                         },
                         {
@@ -9395,14 +9003,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（男が数人・・・それにあの女は・・・まさか）"
+                                "\"(There are several men   and that woman   could it be...)\""
                             ]
                         },
                         {
@@ -9493,7 +9101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そこにいるのは分かっているわよ。出てきなさい」"
+                                "\"I know you're there. Come out.\""
                             ]
                         },
                         {
@@ -9759,14 +9367,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・私の固有スキルで完全に気配は消していたはずだけれど？」"
+                                "\"   I should have completely erased my presence with my\nunique skill, though?\""
                             ]
                         },
                         {
@@ -9830,14 +9438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ、私の術式はね？すこーし特別でね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた達のスキルに引っかからずに行使できるのよ」"
+                                "\"Ah, my magic formula is a bit special, you see. It can be\nused without being caught by your skills.\""
                             ]
                         },
                         {
@@ -9894,21 +9495,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（・・・どういう理屈か知らないけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナのフルボディもおそらくこの系統に突破されたのね）"
+                                "\"(   I don't know the logic behind it, but it seems like\nTina's Full Body was probably breached by this type too.)\""
                             ]
                         },
                         {
@@ -9919,21 +9513,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・私が前に捕まえたときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな術式・・・使ってなかったハズよね」"
+                                "\"   You didn't use such a technique when I caught you\nbefore, did you?\""
                             ]
                         },
                         {
@@ -9990,14 +9577,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら？私のこと覚えてくれてたの？」"
+                                "\"Oh? You remember me? How flattering.\""
                             ]
                         },
                         {
@@ -10054,14 +9641,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「当たり前よ・・・ベルラ」"
+                                "\"Of course, Bellra.\""
                             ]
                         },
                         {
@@ -10101,7 +9688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セルフィは目の前の女性を知っていた。"
+                                "Selphie recognized the woman in front of her."
                             ]
                         },
                         {
@@ -10119,14 +9706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラ・・・。前にセルフィが捕まえた人身売買組織の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "トップだった人物なのだ。"
+                                "Bellra. She was the head of the human trafficking\norganization that Selphie had captured before."
                             ]
                         },
                         {
@@ -10151,14 +9731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルやティナは、話こそセルフィから聞いていたものの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実際に顔を合わせそして捕らえたのはセルフィだ。"
+                                "Suelle and Tina had heard the story from Selphie, but it was\nSelphie who had actually faced and captured her."
                             ]
                         },
                         {
@@ -10176,7 +9749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "当然、覚えていないはずがなかった。"
+                                "Of course, she hadn't forgotten."
                             ]
                         },
                         {
@@ -10218,14 +9791,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どうやって牢獄を抜けだしたの・・・いや、それよりも）"
+                                "\"(How did she escape from prison   No, more importantly...)\""
                             ]
                         },
                         {
@@ -10236,14 +9809,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どうする、戦う？）"
+                                "\"(What to do, fight?)\""
                             ]
                         },
                         {
@@ -10254,21 +9827,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（いや、焦ってはダメ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦うにしても相手の能力が未知数すぎる）"
+                                "\"(No, I mustn't rush. Even if I decide to fight, her\nabilities are too unknown.)\""
                             ]
                         },
                         {
@@ -10293,7 +9859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セルフィは冷静に周りの状況を確認する。"
+                                "Selphie calmly assessed the situation around her."
                             ]
                         },
                         {
@@ -10304,21 +9870,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この部屋の出口は一つ。入ってきた道だけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人が集まって来ているわね）"
+                                "\"(There's only one exit in this room. The way we came in,\nbut   people are starting to gather.)\""
                             ]
                         },
                         {
@@ -10343,7 +9902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セルフィの索敵スキルで正確に近づいてくる敵の動きを把握する。"
+                                "With Selphie's enemy detection skill, she accurately grasped\nthe movements of the approaching enemies."
                             ]
                         },
                         {
@@ -10370,14 +9929,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（完全に私を包囲する気ね・・・でもこのくらいなら！！）"
+                                "\"(They're planning to surround me completely... But with\nthis much, I can!!)\""
                             ]
                         },
                         {
@@ -10434,14 +9993,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「逃げきれる・・・って思ってるでしょう？」"
+                                "\"You think you can escape, don't you?\""
                             ]
                         },
                         {
@@ -10498,7 +10057,7 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
@@ -10545,14 +10104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "動こうとした瞬間、心を見透かされたかのような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言葉を投げかけられ思わず動きを止めてしまう。"
+                                "Just as she was about to move, Selphie was thrown off by\nwords that seemed to see right through her heart, causing\nher to involuntarily stop."
                             ]
                         },
                         {
@@ -10594,14 +10146,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇ？一つ取引をしない？」"
+                                "\"Hey? How about we make a deal?\""
                             ]
                         },
                         {
@@ -10658,14 +10210,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・取引？あなたと？」"
+                                "\"A deal? With you?\""
                             ]
                         },
                         {
@@ -10722,14 +10274,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、お互い納得のとってもいい案があるのよ」"
+                                "\"Yes, a very good proposal that I'm sure we'll both agree\non.\""
                             ]
                         },
                         {
@@ -10759,14 +10311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言ってベルラはタブレットのような機器を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取り出しセルフィにその画面を見せる。"
+                                "Bellra took out a device that looked like a tablet and\nshowed its screen to Selphie."
                             ]
                         },
                         {
@@ -10814,14 +10359,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほら？ここに映っているの・・・誰だか分かる？」"
+                                "\"Look? Do you recognize who's on this screen?\""
                             ]
                         },
                         {
@@ -10848,14 +10393,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「！！？スエルにリイス！！」"
+                                "\"!!? Suelle and Rise!!\""
                             ]
                         },
                         {
@@ -10880,7 +10425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タブレットに表示されている映像にはスエルとリイスの姿があった。"
+                                "The image displayed on the tablet showed Suelle and Rise."
                             ]
                         },
                         {
@@ -10907,21 +10452,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この子たちねぇ？今マロゲスの屋敷にいるのよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのリアルタイム映像ってわけ」"
+                                "\"These kids, huh? They're currently in Maroges' mansion.\nThis is a live feed.\""
                             ]
                         },
                         {
@@ -10932,21 +10470,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「駄目よねぇ、不法侵入なんてしちゃ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはオシオキが必要よね？」"
+                                "\"It's bad, isn't it? Trespassing like that... They need to\nbe punished, don't they?\""
                             ]
                         },
                         {
@@ -10973,7 +10504,7 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
@@ -10991,14 +10522,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・脅しているつもり？」"
+                                "\"Are you trying to threaten me?\""
                             ]
                         },
                         {
@@ -11023,7 +10554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "映像を見たセルフィはキッとベルラを睨む。"
+                                "Upon seeing the video, Selphie glared sharply at Bellra."
                             ]
                         },
                         {
@@ -11050,14 +10581,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・何かしようとしてもリイスがいる限り無駄よ」"
+                                "\"Even if you try something, it's useless as long as Rise is\nthere.\""
                             ]
                         },
                         {
@@ -11112,7 +10643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう、映像にはスエルと・・・そしてリイスがいるのだ。"
+                                "Yes, in the video were Suelle and... Rise as well."
                             ]
                         },
                         {
@@ -11130,14 +10661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘が苦手なスエルだけならまだしも、リイスがいる以上"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "襲われても対処は出来る。"
+                                "Even if Suelle, who is not good at fighting, was alone, as\nlong as Rise was there, they could handle being attacked."
                             ]
                         },
                         {
@@ -11164,14 +10688,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そう？でもリイスちゃんって凄く聞き分けのいい子なのよねぇ」"
+                                "\"Is that so? But Rise-chan is such a good listener, isn't\nshe?\""
                             ]
                         },
                         {
@@ -11196,7 +10720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラは小型のマイクを取り出す。"
+                                "Bellra took out a small microphone."
                             ]
                         },
                         {
@@ -11223,14 +10747,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「リイスちゃん。右手をあげてくれる？」"
+                                "\"Rise-chan, could you raise your right hand for me?\""
                             ]
                         },
                         {
@@ -11255,14 +10779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マイクに向けてベルラが指示を出すと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "画面に映し出されているリイスが指示された通り手を上げた。"
+                                "When Bellra gave instructions into the microphone, Rise, as\nshown on the screen, raised her hand as directed."
                             ]
                         },
                         {
@@ -11289,14 +10806,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇ？素直でしょう？」"
+                                "\"See? She's very obedient, isn't she?\""
                             ]
                         },
                         {
@@ -11307,21 +10824,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今ここでスエルちゃんだっけ？この男の子を始末しなさいって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "指示を出したら・・・どうなるのかしらねぇ？」"
+                                "\"What do you think would happen if I ordered her right now\nto eliminate Suelle-chan? That boy over there.\""
                             ]
                         },
                         {
@@ -11346,7 +10856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不気味な笑みを浮かべて楽しそうにベルラは語る。"
+                                "Bellra spoke with a creepy smile, seemingly enjoying the\nsituation."
                             ]
                         },
                         {
@@ -11388,21 +10898,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「可哀想でしょう？仲間を自分の手で始末しちゃうなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、リイスちゃんきっと、泣いちゃうかも・・・」"
+                                "\"It's sad, isn't it? Having to kill a comrade with her own\nhands. Ah, Rise-chan might even cry.\""
                             ]
                         },
                         {
@@ -11429,14 +10932,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・リイスに何をしたの？」"
+                                "\"What have you done to Rise?\""
                             ]
                         },
                         {
@@ -11478,21 +10981,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何って言われても・・・ふふっ、隷属の契約っていうのでね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗脳奴隷になって貰ったのよ」"
+                                "\"What have I done, you ask? Hehe, let's just say we made a\n'slave contract'. She's become a brainwashed slave.\""
                             ]
                         },
                         {
@@ -11503,21 +10999,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「といってもリイスちゃんは自分が洗脳されていることなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忘れてるでしょうけれど・・・」"
+                                "\"Though, Rise-chan has probably forgotten that she's been\nbrainwashed.\""
                             ]
                         },
                         {
@@ -11542,7 +11031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラの言葉にセルフィは怒りがこみあげてくる。"
+                                "Anger welled up inside Selphie at Bellra's words."
                             ]
                         },
                         {
@@ -11560,21 +11049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし普通の会話のように淡々と受け答えするベルラを見て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "駆け引きに使えなければ本当にリイスに指示を出すというのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "伝わり迂闊に手が出せない。"
+                                "However, seeing Bellra respond so calmly as if it were a\nnormal conversation, Selphie realized that acting rashly\ncould lead to Bellra actually giving Rise an order and thus\ncouldn't make a careless move."
                             ]
                         },
                         {
@@ -11660,14 +11135,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あなた・・・最低ね」"
+                                "\"You're the worst.\""
                             ]
                         },
                         {
@@ -11724,21 +11199,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら怖いわぁ・・・でも、私は隷属の契約ってのをしただけで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実際に洗脳をしたのは別の男よ？」"
+                                "\"Oh, scary. But you know, I only made the slave contract. It\nwas another man who actually did the brainwashing.\""
                             ]
                         },
                         {
@@ -11749,14 +11217,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふっ、じっくりたっぷりと嬲られていたわねぇ」"
+                                "\"Hehe, she was thoroughly tormented.\""
                             ]
                         },
                         {
@@ -11781,7 +11249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルラはセルフィを煽るようにゆっくりとリイスの話をする。"
+                                "Bellra spoke slowly about Rise, as if to provoke Selphie."
                             ]
                         },
                         {
@@ -11808,21 +11276,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「で、その隷属の契約なんだけれどぉ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セルフィちゃんにもして貰おうかなって話なの」"
+                                "\"So, about this slave contract... I was thinking of having\nyou, Selphie-chan, enter into one as well.\""
                             ]
                         },
                         {
@@ -11833,28 +11294,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もちろんセルフィちゃんにもメリットを提示してあげる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おとなしく契約をしてくれたら、ここにいるスエルちゃんに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちは手を出さないであげるわ」"
+                                "\"Of course, I'll present a benefit to you. If you agree to\nthe contract quietly, we won't lay a hand on Suelle-chan\nhere.\""
                             ]
                         },
                         {
@@ -11894,7 +11341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうかしら？とベルラは提案をする。"
+                                "Bellra made the proposal as if offering a deal."
                             ]
                         },
                         {
@@ -11936,14 +11383,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・そんなの信じられるとでも？」"
+                                "\"Do you really think I would believe that?\""
                             ]
                         },
                         {
@@ -11968,14 +11415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "当然だ。仲間を人質に取るような人物の言うことなど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話を聞いただけで信用できるわけがない。"
+                                "It was only natural. One could hardly trust the words of\nsomeone who took comrades as hostages just by listening to\nthem."
                             ]
                         },
                         {
@@ -12032,14 +11472,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「安心して、これは契約なの」"
+                                "\"Relax, this is a contract after all.\""
                             ]
                         },
                         {
@@ -12050,21 +11490,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「古代術式って聞いたことはあるでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔に使われてた現代とは法則の違う術式なんだけれど・・・」"
+                                "\"Have you ever heard of ancient spell formulas? They're\ndifferent from modern magic, based on laws from the old\ntimes.\""
                             ]
                         },
                         {
@@ -12075,28 +11508,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「隷属の契約ってのは、目的達成のために奴隷を縛って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おくためのものや罪人を更生させるまで刑期中、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理やり働かせる条件付きの契約のこと」"
+                                "\"A slave contract is something that binds a slave for the\npurpose of achieving a goal, or it's a conditional contract\nto force criminals to work until they are rehabilitated.\""
                             ]
                         },
                         {
@@ -12107,28 +11526,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「で、その副産物として契約中に完全に心を折って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗脳を刷り込ませると契約が解けた後でも洗脳催眠が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "続くって仕組みなの」"
+                                "\"And as a byproduct, if during the contract the slave's will\nis completely broken and brainwashing is instilled, the\nbrainwashing hypnosis continues even after the contract is\nterminated.\""
                             ]
                         },
                         {
@@ -12139,21 +11544,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だから洗脳も完了していない状態で、こっちが一方的に契約を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "破った場合」"
+                                "\"So, if the brainwashing isn't complete and we unilaterally\nbreak the contract...\""
                             ]
                         },
                         {
@@ -12164,21 +11562,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「即座に契約が解除されてセルフィちゃんは自由の身。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達は貴方に制圧されてしまうわ」"
+                                "\"The contract is immediately nullified and Selphie-chan will\nbe free. We would be overpowered by you.\""
                             ]
                         },
                         {
@@ -12218,7 +11609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つまりは、スエルに手を出さないことを契約の条件にするというわけだ。"
+                                "That means, the condition of the contract is not to lay a\nhand on Suelle."
                             ]
                         },
                         {
@@ -12236,14 +11627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを破れば当然セルフィの奴隷契約も切れ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "反撃だろうと何だろうと出来るようになる。"
+                                "If that condition is broken, naturally Selphie's slave\ncontract would also be terminated, and she would be able to\nretaliate or do whatever she wants."
                             ]
                         },
                         {
@@ -12261,7 +11645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしておそらくベルラが言っていることは本当だろう。"
+                                "And most likely, what Bellra is saying is true."
                             ]
                         },
                         {
@@ -12279,14 +11663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もし古代術式が無条件で洗脳出来るのであれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わざわざこんな周りくどいことはしない。"
+                                "If ancient spell formulas could brainwash unconditionally,\nthere would be no need for such roundabout methods."
                             ]
                         },
                         {
@@ -12328,21 +11705,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「スエル達がマロゲスの屋敷に行くように仕向けたのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私がここに来るように仕向けたのも、全部私を捕らえるためってわけ」"
+                                "\"So you orchestrated Suelle and the others going to Maroges'\nmansion and me coming here, all to capture me.\""
                             ]
                         },
                         {
@@ -12367,14 +11737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だとしたらそれは・・・かなりの人間がベルラと協力している"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ことになるとセルフィは考えた。"
+                                "If that's the case, Selphie thought that quite a number of\npeople must be cooperating with Bellra."
                             ]
                         },
                         {
@@ -12431,14 +11794,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んふふっ、偶然よ。偶然」"
+                                "\"Nfufu, it's all coincidence. Just coincidence.\""
                             ]
                         },
                         {
@@ -12463,14 +11826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口では否定しているが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベルラの態度からセルフィの予想が当たっていることが分かる。"
+                                "Though she denies it with her words, Selphie can tell from\nBellra's attitude that her guess is correct."
                             ]
                         },
                         {
@@ -12488,14 +11844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてそれと同時にその余裕からは他にも策を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何個か用意してあるとセルフィは直感で感じとった。"
+                                "And at the same time, Selphie intuitively feels that Bellra\nhas several other plans prepared from her composure."
                             ]
                         },
                         {
@@ -12513,14 +11862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おそらくこれが一番セルフィに有効な手だと思っているだけで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "効果がなければ別の策に切り替えるだろう。"
+                                "Probably this is what Bellra thinks is the most effective\ntactic against Selphie, but if it doesn't work, she'll\nswitch to another strategy."
                             ]
                         },
                         {
@@ -12538,14 +11880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・だが、その際にセルフィの動揺を誘うため"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さきほど言っていたことをリイスに本当にやらせるハズだ。"
+                                "However, in doing so, Bellra would likely carry out what she\nmentioned earlier to Rise to provoke Selphie's agitation."
                             ]
                         },
                         {
@@ -12563,14 +11898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはつまり、セルフィには隷属の契約をする以外に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スエル達を助ける道はないということでもある。"
+                                "This means that there is no other way for Selphie to save\nSuelle and the others except to enter into a slave contract."
                             ]
                         },
                         {
@@ -12627,14 +11955,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・本当にスエルには手を出さないの？」"
+                                "\"Will you really not harm Suelle?\""
                             ]
                         },
                         {
@@ -12698,14 +12026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、男は体があれば女みたいに勝手にお金が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "転がり込んでくるわけじゃないし・・・元々どうでもいいもの」"
+                                "\"Yes, men can't just earn money on their own like women can\nif they have a body; he was originally something I didn't\ncare about.\""
                             ]
                         },
                         {
@@ -12730,7 +12051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それに・・・とベルラは付け加える。"
+                                "Bellra adds to that thought."
                             ]
                         },
                         {
@@ -12757,21 +12078,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「実はね？今回私と協力関係にあるクライアントがねぇ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたが欲しくて欲しくてたまらないらしいのよ」"
+                                "\"Actually, there's a client who's in cahoots with me this\ntime, and they seem to be so desperate to have you.\""
                             ]
                         },
                         {
@@ -12828,14 +12142,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「クライアント？それは誰？」"
+                                "\"A client? Who might that be?\""
                             ]
                         },
                         {
@@ -12860,14 +12174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまで用意周到にセルフィを狙ったのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベルラを援助している人物はかなり権力を持っていると推測できる。"
+                                "Given the meticulous planning to target Selphie, it can be\ninferred that the person aiding Bellra holds considerable\npower."
                             ]
                         },
                         {
@@ -12885,14 +12192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その人物を聞き出そうとするセルフィに対し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベルラは手をはらいのけるように振った。"
+                                "When Selphie tries to find out who that person is, Bellra\ndismisses the question with a wave of her hand."
                             ]
                         },
                         {
@@ -12949,14 +12249,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふっ、それは会ってからのお楽しみ・・・守秘義務ってやつね？」"
+                                "\"Hehe, that will be a pleasure for you to find out when you\nmeet them. Ever heard of confidentiality agreements?\""
                             ]
                         },
                         {
@@ -12981,14 +12281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隷属の契約をすればすぐに調教して出荷してあげるわよ・・・、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "と含みのある回答をしつつ答えを濁らせる。"
+                                "While giving an answer with implied meaning, Bellra evades\nthe question by saying that if Selphie signs the slave\ncontract, she'll be trained and shipped off right away."
                             ]
                         },
                         {
@@ -13015,14 +12308,14 @@
                                 0,
                                 2,
                                 2,
-                                "ベルラ"
+                                "Bellra"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さてさて、状況も分かったわよねぇ？どうする、セルフィちゃん？」"
+                                "\"Well then, you understand the situation now, don't you?\nWhat will you do, Selphie-chan?\""
                             ]
                         },
                         {
@@ -13047,14 +12340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隷属の契約をされていない今であれば・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでセルフィが逃げきることくらいは出来るであろう。"
+                                "If Selphie is not under a slave contract now, she might be\nable to escape from this situation."
                             ]
                         },
                         {
@@ -13072,14 +12358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしその場合はスエルが仲間であるリイスの手によって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "始末されてしまう。"
+                                "However, if she does so, Suelle will be dealt with by Rise,\nwho is one of their comrades."
                             ]
                         },
                         {
@@ -13097,7 +12376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・セルフィが仲間を犠牲にするなんて出来るハズがなかった。"
+                                "Selphie could never sacrifice her comrades."
                             ]
                         },
                         {
@@ -13161,7 +12440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・分かったわ」"
+                                "\"Understood.\""
                             ]
                         },
                         {
@@ -13186,14 +12465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少しの間があった後、セルフィは条件を飲む。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしそれは仲間を守るためだけではなかった。"
+                                "After a brief pause, Selphie agrees to the terms. But it\nwasn't just to protect her comrades."
                             ]
                         },
                         {
@@ -13220,21 +12492,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ベルラ・・・あなたは一つ勘違いしているわ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この状況を逆転できるとすれば、おそらくそれが出来るのはスエル）"
+                                "(Bellra, you're making one big mistake. If there's a chance\nto turn this situation around, it's likely Suelle who can do\nit.)"
                             ]
                         },
                         {
@@ -13245,14 +12510,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あなたはスエルを甘く見過ぎているようね）"
+                                "(You're underestimating Suelle too much.)"
                             ]
                         },
                         {
@@ -13282,14 +12547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "例え、リイスが洗脳されていたとしても・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナとセルフィが洗脳されていたとしても。"
+                                "Even if Rise was brainwashed, even if Tina and Selphie were\nbrainwashed."
                             ]
                         },
                         {
@@ -13307,14 +12565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルならきっとこの状況を打破できると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "信じていたからの行動でもあったのだ。"
+                                "It was also an act of faith that Suelle would surely be able\nto break through this situation."
                             ]
                         },
                         {
@@ -13392,14 +12643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうしてセルフィは捕まり・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数時間後、セルフィの映像をスエル達が見ることになるのであった。"
+                                "And so, Selphie was captured. A few hours later, Suelle and\nthe others would end up watching a video of Selphie."
                             ]
                         },
                         {
@@ -13417,7 +12661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・時間は戻り、スエルが引きこもって5日後・・・。"
+                                "Time rewinds to five days after Suelle shut himself away."
                             ]
                         },
                         {
@@ -13633,7 +12877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ．ＭＰが全回復した。"
+                                "HP and MP have been fully restored."
                             ]
                         },
                         {
@@ -13732,8 +12976,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -13855,8 +13099,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,

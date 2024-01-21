@@ -4383,21 +4383,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここがリイスのいた孤児院・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一見すると平和ないい所にも見えるね」"
+                                "\"This is the orphanage where Rise was. At first glance, it\nlooks like a peaceful and nice place, doesn't it?\""
                             ]
                         },
                         {
@@ -4490,14 +4483,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、私も少し前まではいい場所だと思っていたわ」"
+                                "\"Yes, I too thought it was a good place until not so long\nago.\""
                             ]
                         },
                         {
@@ -4621,14 +4614,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・孤児院の皆は？・・・」"
+                                "\"What about everyone at the orphanage?\""
                             ]
                         },
                         {
@@ -4721,21 +4714,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「国が建てたよりよい施設に引っ越した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・ことになっているわ」"
+                                "\"They were supposed to have moved to a better facility built\nby the country.\""
                             ]
                         },
                         {
@@ -4812,14 +4798,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも実際は、みんなすでに売り飛ばされていた」"
+                                "\"But in reality, they had all already been sold off.\""
                             ]
                         },
                         {
@@ -4896,28 +4882,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここの孤児院を含め、ノルズ達の経営する孤児院の系列は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴族や裏の取引をしている人達に売り飛ばすために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子供を集めて育てていたってことよ」"
+                                "\"This orphanage, along with others managed by Nolz and his\ngroup, was gathering and raising children to be sold off to\nnobles and those involved in shady dealings.\""
                             ]
                         },
                         {
@@ -5010,14 +4982,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんな・・・」"
+                                "\"That's terrible...\""
                             ]
                         },
                         {
@@ -5110,21 +5082,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・こんな事に私の仕送りも使われていたと思うと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やるせない気持ちになるわね」"
+                                "\"Thinking that my remittances were also used for such things\nmakes me feel so helpless.\""
                             ]
                         },
                         {
@@ -5201,21 +5166,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でもだからこそ・・・、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日ここでアイツを捕まえて終わらせるの」"
+                                "\"But that's exactly why we're going to catch him today and\nput an end to this.\""
                             ]
                         },
                         {
@@ -5317,14 +5275,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・こっちよ」"
+                                "\"This way.\""
                             ]
                         },
                         {
@@ -5479,14 +5437,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここが入口になっていてね」"
+                                "\"This is the entrance.\""
                             ]
                         },
                         {
@@ -5611,21 +5569,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この先は地下水道。でも実はそのさらに先には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノルズの人身売買施設があったってわけ」"
+                                "\"Beyond here is the underground sewer. But actually, even\nfurther down is where Nolz's human trafficking facility is\nlocated.\""
                             ]
                         },
                         {
@@ -5718,14 +5669,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さっ、行くわよ」"
+                                "\"Come on, let's go.\""
                             ]
                         },
                         {
@@ -6009,7 +5960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉には張り紙がしてある。"
+                                "A notice is posted on the door."
                             ]
                         },
                         {
@@ -6027,7 +5978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "建物老朽化につき新設された孤児院へ転居しました。"
+                                "Due to the aging of the building, we have relocated to the\nnewly established orphanage."
                             ]
                         },
                         {

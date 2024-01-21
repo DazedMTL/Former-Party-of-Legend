@@ -2221,21 +2221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「武器スロットにはめ込むことが出来る加工鉱石は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "武器の種類によって違うんだ」"
+                                "Customer: \"The processed ores that can be fitted into weapon\nslots differ depending on the type of weapon.\""
                             ]
                         },
                         {
@@ -2253,21 +2239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから剣の装器に銃の加工鉱石ははめ込むことは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来ないってわけ」"
+                                "Customer: \"That's why you can't fit an ore processed for\nguns into a sword's slot.\""
                             ]
                         },
                         {
@@ -2285,14 +2257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「購入するときは注意した方がいいよ」"
+                                "Customer: \"You should be careful when you're buying them.\""
                             ]
                         },
                         {

@@ -3160,14 +3160,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よし、スエル・・・行くわよ！！」"
+                                "\"Alright, Suelle, let's go!!\""
                             ]
                         },
                         {
@@ -3260,14 +3260,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっ、あっ・・・うっ、うんっ！！」"
+                                "\"Eh, ah, uh, mmm!!\""
                             ]
                         },
                         {
@@ -3892,14 +3892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "門番"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅう・・・」"
+                                "Gatekeeper: \"Uuuu...\""
                             ]
                         },
                         {

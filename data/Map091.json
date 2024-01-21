@@ -3517,14 +3517,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]？？？"
+                                "\\fs[32]？？？"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くくくっ、久しいなリイス、スエルよ」"
+                                "\"Heh heh heh, it's been a while, Rise, Suelle.\""
                             ]
                         },
                         {
@@ -3617,14 +3617,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はっ？アンタ誰よ」"
+                                "\"Huh? Who are you?\""
                             ]
                         },
                         {
@@ -3717,21 +3717,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「りっ、リイス・・・この人、魔王討伐時代に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最前線の砦で戦ってた傭兵部隊のリーダーだよ」"
+                                "\"Ri-, Rise. This person was the leader of a mercenary unit\nthat fought at the front lines during the demon lord's\nsubjugation era.\""
                             ]
                         },
                         {
@@ -3835,14 +3828,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・忘れてたのか？」"
+                                "\"   Have you forgotten?\""
                             ]
                         },
                         {
@@ -3935,21 +3928,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ・・・いや、覚えているわよ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うん・・・そんな？顔だったわ」"
+                                "\"Ah, no, I remember you, yeah. You had such a... face.\""
                             ]
                         },
                         {
@@ -4050,21 +4036,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「というより、傭兵部隊のリーダーが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでこんな所にいんのよ」"
+                                "\"More importantly, what's the leader of a mercenary unit\ndoing in a place like this?\""
                             ]
                         },
                         {
@@ -4157,21 +4136,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・魔王が討伐されて以来生きていくには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうやって悪人にさえ金で雇われる身ってわけだ」"
+                                "\"   Since the demon lord was subdued, to make a living I've\nhad to stoop to being hired by even villains for money.\""
                             ]
                         },
                         {
@@ -4264,21 +4236,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「確かに傭兵の雇い先が減って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪人に雇われるって話は聞いたことはあるけれど」"
+                                "\"It's true that I've heard the demand for mercenaries has\ndecreased and they're being hired by villains...\""
                             ]
                         },
                         {
@@ -4355,21 +4320,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも傭兵部隊のリーダーほどの腕なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことをしなくても良かったんじゃないの？」"
+                                "\"But for a leader of a mercenary unit with your skills,\nwasn't there something else you could have done instead of\nthis?\""
                             ]
                         },
                         {
@@ -4462,21 +4420,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「フンッ、普通ならそうだろうな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが俺はハメられたんだ」"
+                                "\"Hmph, normally that would be the case. But I was framed.\""
                             ]
                         },
                         {
@@ -4553,21 +4504,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そう・・・アレは魔王討伐が終わって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数日が経った頃だった。雨がしたた・・・」"
+                                "\"Yes, it was a few days after the demon lord was defeated.\nThe rain was drizzling...\""
                             ]
                         },
                         {
@@ -4667,21 +4611,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ、そういう話は後にして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさとセルフィを助けなくちゃいけないのよ」"
+                                "\"Ah, save that story for later. We need to hurry and rescue\nSelphie.\""
                             ]
                         },
                         {
@@ -4797,14 +4734,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・アレは魔王討伐がおわ・・・」"
+                                "\"   When the demon lord was subju...\""
                             ]
                         },
                         {
@@ -4897,14 +4834,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いやっ！！意地でも語ろうとしないで！！？」"
+                                "\"No!! Don't stubbornly try to tell your story!!\""
                             ]
                         },
                         {
@@ -5034,14 +4971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ、まぁいい。この俺も今はググカスに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雇われた身」"
+                                "\"Damn it, well fine. Right now I'm employed by Gugukas.\""
                             ]
                         },
                         {
@@ -5118,14 +5048,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前たちをこの先に行かせるわけにはいかない」"
+                                "\"I can't let you go any further.\""
                             ]
                         },
                         {
@@ -5202,14 +5132,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そして俺の話を聞いてもらうぞ！！」"
+                                "\"And you're going to listen to my story!!\""
                             ]
                         },
                         {
@@ -5302,14 +5232,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんでそんなに聞かせたいの！！？」　"
+                                "\"Why do you want us to listen so badly?!\""
                             ]
                         },
                         {
@@ -5402,21 +5332,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんでもいいわ。どのみちコイツを倒さないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先に進めないなら倒すだけだし・・・」"
+                                "\"Whatever. If we have to defeat this guy to move on, then\nthat's what we'll do.\""
                             ]
                         },
                         {
@@ -5509,14 +5432,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ行くわよ！！」"
+                                "\"Let's go then!!\""
                             ]
                         },
                         {
@@ -5698,21 +5621,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ！！流石は魔王を倒したルセントの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メンバーだ・・・な」"
+                                "\"Damn!! As expected of the members of Lucent who defeated\nthe demon lord.\""
                             ]
                         },
                         {
@@ -5723,14 +5639,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この俺・・・アレは魔王討伐が終わって数日が・・・」"
+                                "\"This I... It was a few days after the demon lord was\nsubdued...\""
                             ]
                         },
                         {
@@ -5788,7 +5704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴンッ！！"
+                                "Thud!!"
                             ]
                         },
                         {
@@ -5895,14 +5811,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「隙あらば自分語りを始めるわね・・・」"
+                                "\"You start telling your own story whenever there's a chance,\nhuh.\""
                             ]
                         },
                         {
@@ -5995,14 +5911,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よっぽど聞いて欲しかったんだ」"
+                                "\"You really wanted someone to listen, didn't you?\""
                             ]
                         },
                         {
@@ -6095,21 +6011,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふんっ！！まぁいいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかく今はググカスをぶっ飛ばすわよ！！」"
+                                "\"Hmph!! Well, fine. Anyway, now we're going to knock Gugukas\ndown!!\""
                             ]
                         },
                         {
@@ -6287,7 +6196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガラララッ。"
+                                "Clatter."
                             ]
                         },
                         {
@@ -6376,14 +6285,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・ようやく見つけたわよ、ググカス！！」"
+                                "\"Finally found you, Gugukas!!\""
                             ]
                         },
                         {
@@ -6410,14 +6319,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「！！？なっ、何故君たちがここに！！？」"
+                                "\"!!? What, why are you guys here!!?\""
                             ]
                         },
                         {
@@ -6459,14 +6368,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アンタをぶっ潰してセルフィを助けるためよ」"
+                                "\"We're here to crush you and rescue Selphie.\""
                             ]
                         },
                         {
@@ -6491,7 +6400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスとスエルはセルフィに目を向ける。"
+                                "Rise and Suelle turn their eyes towards Selphie."
                             ]
                         },
                         {
@@ -6509,14 +6418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "椅子に拘束されているセルフィはぐったりしてこちらに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気が付いていないようだ。"
+                                "Selphie, restrained in a chair, seems to be limp and not\nnoticing us."
                             ]
                         },
                         {
@@ -6543,14 +6445,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひっ・・・酷い・・・」"
+                                "\"Gasp... This is terrible...\""
                             ]
                         },
                         {
@@ -6577,14 +6479,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・アンタ、覚悟しなさいよ！！」"
+                                "\"You better be prepared!!\""
                             ]
                         },
                         {
@@ -6626,14 +6528,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ！！・・・ここに侵入したなんてきいてないぞっ！！」"
+                                "\"Damn!! I wasn't informed of any intrusion here!!\""
                             ]
                         },
                         {
@@ -6660,14 +6562,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうせアンタが中に入るなとでも言ったんじゃないの？」"
+                                "\"What, did you expect us to say that we wouldn't enter just\nbecause you said so?\""
                             ]
                         },
                         {
@@ -6709,21 +6611,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「たっ、確かにセルフィちゃんには誰も近づかせないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この部屋に入るなとは言ってたけれど・・・」　"
+                                "\"Ta-, certainly I told Selphie-chan not to let anyone near\nand not to enter this room but...\""
                             ]
                         },
                         {
@@ -6765,21 +6660,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ、それでも普通は私たちが攻め込んできた事なんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対伝えるけれどね」"
+                                "\"Well, normally you would definitely pass on the message\nthat we were attacking.\""
                             ]
                         },
                         {
@@ -6790,14 +6678,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アンタ、よっぽど信頼されていなかったんじゃない？」"
+                                "\"You weren't trusted very much, were you?\""
                             ]
                         },
                         {
@@ -6824,21 +6712,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（・・・ここは監獄施設。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくらリイスとはいえ普通はこんな簡単に奥までは来れない）"
+                                "\"(This is a prison facility. No matter how skilled Rise is,\nnormally one couldn't easily get this far inside.)\""
                             ]
                         },
                         {
@@ -6849,21 +6730,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(先ほどの傭兵のリーダーも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前に会ったときはもっと強かったと思う・・・）"
+                                "\"(The leader of the mercenaries we met earlier seemed\nstronger than this.)\""
                             ]
                         },
                         {
@@ -6874,28 +6748,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（きっとここの傭兵達もお金で雇われ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪事に加担したとはいえ心のどこかでは不満に思っていたんじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ないかな）"
+                                "\"(Surely these mercenaries were hired for money, and even\nthough they were complicit in evil deeds, I bet they felt\nsome dissatisfaction in their hearts.)\""
                             ]
                         },
                         {
@@ -6922,21 +6782,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・アンタには聞きたいことはいっぱいあるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・連れて行くわよ」"
+                                "\"I have a lot of questions for you. You're coming with us.\""
                             ]
                         },
                         {
@@ -6978,14 +6831,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひぃいっ！！ぼっ僕は法務長だぞ！！」"
+                                "\"Eeeek!! I am the legal affairs chief!!\""
                             ]
                         },
                         {
@@ -6996,21 +6849,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それにセルフィちゃんとは愛し合っていただけだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは愛なんだ！！」"
+                                "\"Besides, Selphie-chan and I were just in love! This is\nlove!!\""
                             ]
                         },
                         {
@@ -7069,14 +6915,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふーん、愛ねぇ？」"
+                                "\"Huh, love, you say?\""
                             ]
                         },
                         {
@@ -7120,7 +6966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスはにっこりと笑う。"
+                                "Rise smiles sweetly."
                             ]
                         },
                         {
@@ -7200,7 +7046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶじゅっ！！"
+                                "Squish!!"
                             ]
                         },
                         {
@@ -7241,7 +7087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ググカスの睾丸を掴むとリイスはためらいなく思いっきり握った。"
+                                "Without hesitation, Rise grabs Gugukas's testicles and\nsqueezes them hard."
                             ]
                         },
                         {
@@ -7252,14 +7098,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「ぶぎゅううううっ！！」"
+                                "\"Gyaaaaahhh!!\""
                             ]
                         },
                         {
@@ -7334,14 +7180,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「寝言は寝ていえ、カス野郎！！」"
+                                "\"Save your sleep-talking for your dreams, scum!!\""
                             ]
                         },
                         {
@@ -7359,7 +7205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ググカスは股間を抑えて泡を噴きながら床に崩れ落ちた。"
+                                "Gugukas collapses to the floor, clutching his groin and\nfoaming at the mouth."
                             ]
                         },
                         {
@@ -7418,14 +7264,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さっ、行くわよスエル。まずはセルフィを解放しましょ」"
+                                "\"Come on, Suelle. Let's free Selphie first.\""
                             ]
                         },
                         {
@@ -7459,14 +7305,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・ってスエル、あんたなんで股間抑えてるの？」"
+                                "\"Wait, Suelle, why are you holding your crotch?\""
                             ]
                         },
                         {
@@ -7508,14 +7354,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いっ、いや・・・今の見てただけで痛々しくて・・・」"
+                                "\"No, it's just... watching that was so painful...\""
                             ]
                         },
                         {
@@ -7574,14 +7420,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・男の子ねぇ」"
+                                "\"Boys...\""
                             ]
                         },
                         {
@@ -7615,14 +7461,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほら、シャキッとしなさい。セルフィを解放するわよ」"
+                                "\"Come on, snap out of it. We're going to free Selphie.\""
                             ]
                         },
                         {
@@ -7664,14 +7510,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うっ、うん。分かった」"
+                                "\"Uh, yeah. Got it.\""
                             ]
                         },
                         {
@@ -7701,14 +7547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうしてググカスを捕まえ、セルフィを助けたスエル達は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "監獄施設を後にするのだった。"
+                                "And so, having captured Gugukas and rescued Selphie, Suelle\nand the others left the prison facility behind."
                             ]
                         },
                         {
@@ -7796,7 +7635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数時間後・・・。"
+                                "Several hours later..."
                             ]
                         },
                         {
@@ -9067,14 +8906,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]？？？"
+                                "\\fs[32]？？？"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くくくっ、久しいなリイス、スエルよ」"
+                                "\"Heh heh heh, it's been a while, Rise, Suelle.\""
                             ]
                         },
                         {
@@ -9167,14 +9006,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はっ？アンタ誰よ」"
+                                "\"Huh? Who are you?\""
                             ]
                         },
                         {
@@ -9267,21 +9106,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「りっ、リイス・・・この人、魔王討伐時代に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最前線の砦で戦ってた傭兵部隊のリーダーだよ」"
+                                "\"Ri-, Rise. This person was the leader of a mercenary unit\nthat fought at the front lines during the demon lord's\nsubjugation era.\""
                             ]
                         },
                         {
@@ -9385,14 +9217,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・忘れてたのか？」"
+                                "\"   Have you forgotten?\""
                             ]
                         },
                         {
@@ -9485,21 +9317,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ・・・いや、覚えているわよ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うん・・・そんな？顔だったわ」"
+                                "\"Ah, no, I remember you, yes. You had such a... face.\""
                             ]
                         },
                         {
@@ -9600,21 +9425,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「というより、傭兵部隊のリーダーが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでこんな所にいんのよ」"
+                                "\"More importantly, what's the leader of a mercenary unit\ndoing in a place like this?\""
                             ]
                         },
                         {
@@ -9707,21 +9525,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・魔王が討伐されて以来生きていくには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうやって悪人にさえ金で雇われる身ってわけだ」"
+                                "\"   Since the demon lord was subdued, to survive I've had to\nstoop to being hired by even villains for money.\""
                             ]
                         },
                         {
@@ -9814,21 +9625,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「確かに傭兵の雇い先が減って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪人に雇われるって話は聞いたことはあるけれど」"
+                                "\"I've heard that mercenaries have fewer employers now and\nend up working for bad guys...\""
                             ]
                         },
                         {
@@ -9905,21 +9709,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも傭兵部隊のリーダーほどの腕なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことをしなくても良かったんじゃないの？」"
+                                "\"But with your skills as the leader of a mercenary unit,\ncouldn't you have found something else without resorting to\nthat?\""
                             ]
                         },
                         {
@@ -10012,21 +9809,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「フンッ、普通ならそうだろうな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが俺はハメられたんだ」"
+                                "\"Hmph, normally, yes. But I was framed.\""
                             ]
                         },
                         {
@@ -10103,21 +9893,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そう・・・アレは魔王討伐が終わって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数日が経った頃だった。雨がしたた・・・」"
+                                "\"Yes... It was a few days after the demon lord was defeated.\nThe rain was drizzling...\""
                             ]
                         },
                         {
@@ -10217,21 +10000,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ、そういう話は後にして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさとセルフィを助けなくちゃいけないのよ」"
+                                "\"Ah, save that story for later. We need to hurry and rescue\nSelphie.\""
                             ]
                         },
                         {
@@ -10347,14 +10123,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・アレは魔王討伐がおわ・・・」"
+                                "\"   When the demon lord was defea...\""
                             ]
                         },
                         {
@@ -10447,14 +10223,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いやっ！！意地でも語ろうとしないで！！？」"
+                                "\"No!! Don't stubbornly try to tell your story!!\""
                             ]
                         },
                         {
@@ -10584,14 +10360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ、まぁいい。この俺も今はググカスに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雇われた身」"
+                                "\"Damn, well, fine. I am currently employed by Gugukas.\""
                             ]
                         },
                         {
@@ -10668,14 +10437,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前たちをこの先に行かせるわけにはいかない」"
+                                "\"I cannot allow you to proceed any further.\""
                             ]
                         },
                         {
@@ -10752,14 +10521,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そして俺の話を聞いてもらうぞ！！」"
+                                "\"And you will listen to my story!!\""
                             ]
                         },
                         {
@@ -10852,14 +10621,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんでそんなに聞かせたいの！！？」　"
+                                "\"Why do you want us to hear it so badly?!\""
                             ]
                         },
                         {
@@ -10952,21 +10721,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんでもいいわ。どのみちコイツを倒さないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先に進めないなら倒すだけだし・・・」"
+                                "\"Whatever. If we have to defeat this guy to move on, then\nthat's what we'll do.\""
                             ]
                         },
                         {
@@ -11059,14 +10821,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ行くわよ！！」"
+                                "\"Let's go!!\""
                             ]
                         },
                         {
@@ -11248,21 +11010,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ！！流石は魔王を倒したルセントの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メンバーだ・・・な」"
+                                "\"Damn!! As expected of the members of Lucent who defeated\nthe demon lord.\""
                             ]
                         },
                         {
@@ -11273,14 +11028,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この俺・・・アレは魔王討伐が終わって数日が・・・」"
+                                "\"This I... It was a few days after the demon lord was\nsubdued...\""
                             ]
                         },
                         {
@@ -11338,7 +11093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴンッ！！"
+                                "Thud!!"
                             ]
                         },
                         {
@@ -11445,14 +11200,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「隙あらば自分語りを始めるわね・・・」"
+                                "\"You start telling your story whenever there's a chance,\nhuh.\""
                             ]
                         },
                         {
@@ -11545,14 +11300,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よっぽど聞いて欲しかったんだ」"
+                                "\"You really wanted someone to listen, didn't you?\""
                             ]
                         },
                         {
@@ -11645,21 +11400,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふんっ！！まぁいいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかく今はググカスをぶっ飛ばすわよ！！」"
+                                "\"Hmph!! Well, fine. For now, we're going to knock Gugukas\ndown!!\""
                             ]
                         },
                         {
@@ -11837,7 +11585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガラララッ。"
+                                "Clatter."
                             ]
                         },
                         {
@@ -11926,14 +11674,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・ようやく見つけたわよ、ググカス！！」"
+                                "\"Finally found you, Gugukas!!\""
                             ]
                         },
                         {
@@ -11960,14 +11708,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「！！？なっ、何故君たちがここに！！？」"
+                                "\"!!? What, why are you guys here!!?\""
                             ]
                         },
                         {
@@ -12009,14 +11757,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アンタをぶっ潰してセルフィを助けるためよ」"
+                                "\"We're here to crush you and rescue Selphie.\""
                             ]
                         },
                         {
@@ -12041,7 +11789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスとスエルはセルフィに目を向ける。"
+                                "Rise and Suelle turn their eyes towards Selphie."
                             ]
                         },
                         {
@@ -12059,14 +11807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "椅子に拘束されているセルフィはぐったりしてこちらに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気が付いていないようだ。"
+                                "Selphie, restrained in a chair, seems to be exhausted and\nhasn't noticed us yet."
                             ]
                         },
                         {
@@ -12093,14 +11834,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひっ・・・酷い・・・」"
+                                "\"Gasp... This is terrible...\""
                             ]
                         },
                         {
@@ -12127,14 +11868,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・アンタ、覚悟しなさいよ！！」"
+                                "\"You better be prepared!!\""
                             ]
                         },
                         {
@@ -12176,14 +11917,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ！！・・・ここに侵入したなんてきいてないぞっ！！」"
+                                "\"Damn!! I wasn't informed of any intrusion here!!\""
                             ]
                         },
                         {
@@ -12210,14 +11951,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうせアンタが中に入るなとでも言ったんじゃないの？」"
+                                "\"What, did you tell them not to let us in or something?\""
                             ]
                         },
                         {
@@ -12259,21 +12000,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「たっ、確かにセルフィちゃんには誰も近づかせないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この部屋に入るなとは言ってたけれど・・・」　"
+                                "\"Ta... Certainly, I did tell Selphie-chan not to let anyone\napproach and not to enter this room but...\""
                             ]
                         },
                         {
@@ -12315,21 +12049,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ、それでも普通は私たちが攻め込んできた事なんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対伝えるけれどね」"
+                                "\"Well, normally you would definitely inform them if we were\nattacking.\""
                             ]
                         },
                         {
@@ -12340,14 +12067,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アンタ、よっぽど信頼されていなかったんじゃない？」"
+                                "\"Weren't you trusted very much?\""
                             ]
                         },
                         {
@@ -12374,21 +12101,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（・・・ここは監獄施設。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくらリイスとはいえ普通はこんな簡単に奥までは来れない）"
+                                "\"(This is a prison facility. No matter how skilled Rise is,\nnormally one couldn't easily get this far inside.)\""
                             ]
                         },
                         {
@@ -12399,21 +12119,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(先ほどの傭兵のリーダーも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前に会ったときはもっと強かったと思う・・・）"
+                                "\"(The leader of the mercenaries we encountered earlier\nseemed much stronger when we met before.)\""
                             ]
                         },
                         {
@@ -12424,28 +12137,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（きっとここの傭兵達もお金で雇われ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪事に加担したとはいえ心のどこかでは不満に思っていたんじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ないかな）"
+                                "\"(Surely, these mercenaries must have been hired with money\nand, even though they were complicit in evil deeds, I bet\nthey felt some dissatisfaction in their hearts.)\""
                             ]
                         },
                         {
@@ -12472,21 +12171,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・アンタには聞きたいことはいっぱいあるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・連れて行くわよ」"
+                                "\"I have a lot of questions for you. You're coming with us.\""
                             ]
                         },
                         {
@@ -12528,14 +12220,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひぃいっ！！ぼっ僕は法務長だぞ！！」"
+                                "\"Eeeek!! I'm the chief legal officer!!\""
                             ]
                         },
                         {
@@ -12546,21 +12238,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それにセルフィちゃんとは愛し合っていただけだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは愛なんだ！！」"
+                                "\"Besides, Selphie-chan and I were just in love! This is\nlove!!\""
                             ]
                         },
                         {
@@ -12619,14 +12304,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふーん、愛ねぇ？」"
+                                "\"Hmm, love, you say?\""
                             ]
                         },
                         {
@@ -12670,7 +12355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスはにっこりと笑う。"
+                                "Rise smiles sweetly."
                             ]
                         },
                         {
@@ -12750,7 +12435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶじゅっ！！"
+                                "Squish!!"
                             ]
                         },
                         {
@@ -12791,7 +12476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ググカスの睾丸を掴むとリイスはためらいなく思いっきり握った。"
+                                "Without hesitation, Rise grabs Gugukas's testicles and\nsqueezes them hard."
                             ]
                         },
                         {
@@ -12802,14 +12487,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「ぶぎゅううううっ！！」"
+                                "\"Aaaarghhhh!!\""
                             ]
                         },
                         {
@@ -12884,14 +12569,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「寝言は寝ていえ、カス野郎！！」"
+                                "\"Save your sleep-talking for when you're asleep, scum!!\""
                             ]
                         },
                         {
@@ -12909,7 +12594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ググカスは股間を抑えて泡を噴きながら床に崩れ落ちた。"
+                                "Gugukas collapses to the floor, clutching his groin and\nfoaming at the mouth."
                             ]
                         },
                         {
@@ -12968,14 +12653,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さっ、行くわよスエル。まずはセルフィを解放しましょ」"
+                                "\"Alright, let's go Suelle. First, we need to free Selphie.\""
                             ]
                         },
                         {
@@ -13009,14 +12694,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・ってスエル、あんたなんで股間抑えてるの？」"
+                                "\"Wait, Suelle, why are you holding your crotch?\""
                             ]
                         },
                         {
@@ -13058,14 +12743,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いっ、いや・・・今の見てただけで痛々しくて・・・」"
+                                "\"No, it's just... watching that was so painful...\""
                             ]
                         },
                         {
@@ -13124,14 +12809,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・男の子ねぇ」"
+                                "\"Boys will be boys.\""
                             ]
                         },
                         {
@@ -13165,14 +12850,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほら、シャキッとしなさい。セルフィを解放するわよ」"
+                                "\"Come on, snap out of it. We're going to free Selphie.\""
                             ]
                         },
                         {
@@ -13214,14 +12899,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うっ、うん。分かった」"
+                                "\"Uh, yeah. Got it.\""
                             ]
                         },
                         {
@@ -13251,14 +12936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうしてググカスを捕まえ、セルフィを助けたスエル達は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "監獄施設を後にするのだった。"
+                                "And so, having captured Gugukas and rescued Selphie, Suelle\nand the others left the prison facility behind."
                             ]
                         },
                         {
@@ -13346,7 +13024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数時間後・・・。"
+                                "Several hours later..."
                             ]
                         },
                         {
@@ -13912,14 +13590,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]？？？"
+                                "\\fs[32]？？？"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くくくっ、久しいなリイス、スエルよ」"
+                                "\"Heh heh heh, it's been a while, Rise, Suelle.\""
                             ]
                         },
                         {
@@ -14012,14 +13690,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はっ？アンタ誰よ」"
+                                "\"Huh? Who are you?\""
                             ]
                         },
                         {
@@ -14112,21 +13790,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「りっ、リイス・・・この人、魔王討伐時代に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最前線の砦で戦ってた傭兵部隊のリーダーだよ」"
+                                "\"Ri-, Rise, this person was the leader of a mercenary unit\nthat fought at the front lines during the demon lord's\nsubjugation era.\""
                             ]
                         },
                         {
@@ -14230,14 +13901,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・忘れてたのか？」"
+                                "\"   Have you forgotten?\""
                             ]
                         },
                         {
@@ -14330,21 +14001,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ・・・いや、覚えているわよ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うん・・・そんな？顔だったわ」"
+                                "\"Ah, no, I remember you, yes. You had such a... face.\""
                             ]
                         },
                         {
@@ -14445,21 +14109,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「というより、傭兵部隊のリーダーが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでこんな所にいんのよ」"
+                                "\"More importantly, what's a leader of a mercenary unit doing\nin a place like this?\""
                             ]
                         },
                         {
@@ -14552,21 +14209,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・魔王が討伐されて以来生きていくには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうやって悪人にさえ金で雇われる身ってわけだ」"
+                                "\"   Since the demon lord was subdued, to survive I've had to\nstoop to being hired by even villains for money.\""
                             ]
                         },
                         {
@@ -14659,21 +14309,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「確かに傭兵の雇い先が減って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪人に雇われるって話は聞いたことはあるけれど」"
+                                "\"It's true that I've heard the demand for mercenaries has\ndecreased and they're being hired by bad guys...\""
                             ]
                         },
                         {
@@ -14750,21 +14393,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも傭兵部隊のリーダーほどの腕なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことをしなくても良かったんじゃないの？」"
+                                "\"But with your skills as the leader of a mercenary unit,\ncouldn't you have found something better than that?\""
                             ]
                         },
                         {
@@ -14857,21 +14493,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「フンッ、普通ならそうだろうな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが俺はハメられたんだ」"
+                                "\"Hmph, normally, yes. But I was framed.\""
                             ]
                         },
                         {
@@ -14948,21 +14577,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そう・・・アレは魔王討伐が終わって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数日が経った頃だった。雨がしたた・・・」"
+                                "\"That's right. It was a few days after the demon lord was\ndefeated. The rain was drizzling...\""
                             ]
                         },
                         {
@@ -15062,21 +14684,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ、そういう話は後にして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさとセルフィを助けなくちゃいけないのよ」"
+                                "\"Ah, save that story for later. We need to hurry and rescue\nSelphie.\""
                             ]
                         },
                         {
@@ -15192,14 +14807,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・アレは魔王討伐がおわ・・・」"
+                                "\"   That was after the demon lord was subdued...\""
                             ]
                         },
                         {
@@ -15292,14 +14907,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いやっ！！意地でも語ろうとしないで！！？」"
+                                "\"No!! Don't stubbornly try to tell your story!!?\""
                             ]
                         },
                         {
@@ -15429,14 +15044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ、まぁいい。この俺も今はググカスに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雇われた身」"
+                                "\"Damn it, well fine. I am currently employed by Gugukas.\""
                             ]
                         },
                         {
@@ -15513,14 +15121,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前たちをこの先に行かせるわけにはいかない」"
+                                "\"I can't let you go any further.\""
                             ]
                         },
                         {
@@ -15597,14 +15205,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そして俺の話を聞いてもらうぞ！！」"
+                                "\"And you will listen to my story!!\""
                             ]
                         },
                         {
@@ -15697,14 +15305,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんでそんなに聞かせたいの！！？」　"
+                                "\"Why do you want us to hear it so badly!!?\""
                             ]
                         },
                         {
@@ -15797,21 +15405,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんでもいいわ。どのみちコイツを倒さないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先に進めないなら倒すだけだし・・・」"
+                                "\"Whatever. If we have to defeat this guy to move on, then\nthat's what we'll do.\""
                             ]
                         },
                         {
@@ -15904,14 +15505,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ行くわよ！！」"
+                                "\"Let's go then!!\""
                             ]
                         },
                         {
@@ -16093,21 +15694,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ！！流石は魔王を倒したルセントの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メンバーだ・・・な」"
+                                "\"Damn!! As expected of the members of Lucent who defeated\nthe demon lord.\""
                             ]
                         },
                         {
@@ -16118,14 +15712,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]傭兵"
+                                "Mercenary"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この俺・・・アレは魔王討伐が終わって数日が・・・」"
+                                "\"This I... It was a few days after the demon lord's\nsubjugation...\""
                             ]
                         },
                         {
@@ -16183,7 +15777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴンッ！！"
+                                "Thud!!"
                             ]
                         },
                         {
@@ -16290,14 +15884,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「隙あらば自分語りを始めるわね・・・」"
+                                "\"You start telling your own story whenever there's a chance,\nhuh.\""
                             ]
                         },
                         {
@@ -16390,14 +15984,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よっぽど聞いて欲しかったんだ」"
+                                "\"You really wanted us to listen, didn't you?\""
                             ]
                         },
                         {
@@ -16490,21 +16084,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふんっ！！まぁいいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかく今はググカスをぶっ飛ばすわよ！！」"
+                                "\"Hmph!! Well, whatever. For now, we're going to knock\nGugukas down!!\""
                             ]
                         },
                         {
@@ -16682,7 +16269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガラララッ。"
+                                "Clatter."
                             ]
                         },
                         {
@@ -16771,14 +16358,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・ようやく見つけたわよ、ググカス！！」"
+                                "\"Finally found you, Gugukas!!\""
                             ]
                         },
                         {
@@ -16805,14 +16392,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「！！？なっ、何故君たちがここに！！？」"
+                                "\"!!? What, why are you guys here!!?\""
                             ]
                         },
                         {
@@ -16854,14 +16441,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アンタをぶっ潰してセルフィを助けるためよ」"
+                                "\"We're here to crush you and rescue Selphie.\""
                             ]
                         },
                         {
@@ -16886,7 +16473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスとスエルはセルフィに目を向ける。"
+                                "Rise and Suelle turn their eyes towards Selphie."
                             ]
                         },
                         {
@@ -16904,14 +16491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "椅子に拘束されているセルフィはぐったりしてこちらに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気が付いていないようだ。"
+                                "Selphie, restrained to a chair, seems to be limp and hasn't\nnoticed us."
                             ]
                         },
                         {
@@ -16938,14 +16518,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひっ・・・酷い・・・」"
+                                "\"Gasp... This is terrible...\""
                             ]
                         },
                         {
@@ -16972,14 +16552,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・アンタ、覚悟しなさいよ！！」"
+                                "\"You better be prepared!!\""
                             ]
                         },
                         {
@@ -17021,14 +16601,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ！！・・・ここに侵入したなんてきいてないぞっ！！」"
+                                "\"Damn!! I wasn't informed about any intrusion!!\""
                             ]
                         },
                         {
@@ -17055,14 +16635,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうせアンタが中に入るなとでも言ったんじゃないの？」"
+                                "\"What, did you tell them not to let us in or something?\""
                             ]
                         },
                         {
@@ -17104,21 +16684,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「たっ、確かにセルフィちゃんには誰も近づかせないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この部屋に入るなとは言ってたけれど・・・」　"
+                                "\"Ta... Certainly, I did tell them not to let anyone near\nSelphie-chan and to stay out of this room but...\""
                             ]
                         },
                         {
@@ -17160,21 +16733,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ、それでも普通は私たちが攻め込んできた事なんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対伝えるけれどね」"
+                                "\"Well, normally they would definitely inform you if we were\nattacking.\""
                             ]
                         },
                         {
@@ -17185,14 +16751,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アンタ、よっぽど信頼されていなかったんじゃない？」"
+                                "\"You weren't trusted very much, were you?\""
                             ]
                         },
                         {
@@ -17219,21 +16785,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（・・・ここは監獄施設。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくらリイスとはいえ普通はこんな簡単に奥までは来れない）"
+                                "\"(This is a prison facility. No matter how skilled Rise is,\nnormally one couldn't easily get this far inside.)\""
                             ]
                         },
                         {
@@ -17244,21 +16803,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(先ほどの傭兵のリーダーも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前に会ったときはもっと強かったと思う・・・）"
+                                "\"(I thought the leader of the mercenaries we met earlier was\nstronger than this.)\""
                             ]
                         },
                         {
@@ -17269,28 +16821,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（きっとここの傭兵達もお金で雇われ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪事に加担したとはいえ心のどこかでは不満に思っていたんじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ないかな）"
+                                "\"(Surely these mercenaries were hired for money, and even\nthough they were complicit in evil deeds, I bet they felt\nsome dissatisfaction in their hearts.)\""
                             ]
                         },
                         {
@@ -17317,21 +16855,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・アンタには聞きたいことはいっぱいあるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・連れて行くわよ」"
+                                "\"I have a lot of questions for you. You're coming with us.\""
                             ]
                         },
                         {
@@ -17373,14 +16904,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひぃいっ！！ぼっ僕は法務長だぞ！！」"
+                                "\"Eeeek!! I'm the chief legal officer!!\""
                             ]
                         },
                         {
@@ -17391,21 +16922,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それにセルフィちゃんとは愛し合っていただけだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは愛なんだ！！」"
+                                "\"Besides, Selphie-chan and I were just in love! This is\nlove!!\""
                             ]
                         },
                         {
@@ -17464,14 +16988,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふーん、愛ねぇ？」"
+                                "\"Hmm, love, you say?\""
                             ]
                         },
                         {
@@ -17515,7 +17039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスはにっこりと笑う。"
+                                "Rise smiles sweetly."
                             ]
                         },
                         {
@@ -17595,7 +17119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶじゅっ！！"
+                                "Squish!!"
                             ]
                         },
                         {
@@ -17636,7 +17160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ググカスの睾丸を掴むとリイスはためらいなく思いっきり握った。"
+                                "Rise grabs Gugukas's testicles without hesitation and\nsqueezes hard."
                             ]
                         },
                         {
@@ -17647,14 +17171,14 @@
                                 0,
                                 2,
                                 2,
-                                "ググカス"
+                                "Gugukas"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「ぶぎゅううううっ！！」"
+                                "\"Aaaarghhhh!!\""
                             ]
                         },
                         {
@@ -17729,14 +17253,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「寝言は寝ていえ、カス野郎！！」"
+                                "\"Save your sleep-talking for bed, scum!!\""
                             ]
                         },
                         {
@@ -17754,7 +17278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ググカスは股間を抑えて泡を噴きながら床に崩れ落ちた。"
+                                "Gugukas collapses to the floor, clutching his groin and\nfoaming at the mouth."
                             ]
                         },
                         {
@@ -17813,14 +17337,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さっ、行くわよスエル。まずはセルフィを解放しましょ」"
+                                "\"Come on, Suelle. Let's free Selphie first.\""
                             ]
                         },
                         {
@@ -17854,14 +17378,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・ってスエル、あんたなんで股間抑えてるの？」"
+                                "\"Wait, Suelle, why are you holding your crotch?\""
                             ]
                         },
                         {
@@ -17903,14 +17427,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いっ、いや・・・今の見てただけで痛々しくて・・・」"
+                                "\"No, it's just... that looked so painful to watch...\""
                             ]
                         },
                         {
@@ -17969,14 +17493,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・男の子ねぇ」"
+                                "\"Boys...\""
                             ]
                         },
                         {
@@ -18010,14 +17534,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほら、シャキッとしなさい。セルフィを解放するわよ」"
+                                "\"Come on, snap out of it. We're going to free Selphie.\""
                             ]
                         },
                         {
@@ -18059,14 +17583,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うっ、うん。分かった」"
+                                "\"Uh, yeah. Got it.\""
                             ]
                         },
                         {
@@ -18096,14 +17620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうしてググカスを捕まえ、セルフィを助けたスエル達は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "監獄施設を後にするのだった。"
+                                "And so, having captured Gugukas and rescued Selphie, Suelle\nand the others left the prison facility behind."
                             ]
                         },
                         {
@@ -18191,7 +17708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数時間後・・・。"
+                                "Several hours later..."
                             ]
                         },
                         {
@@ -18469,7 +17986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アンチ術式手錠を手に入れた！"
+                                "I've obtained the anti-magic handcuffs!"
                             ]
                         },
                         {
@@ -18664,7 +18181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ．ＭＰが全回復した。"
+                                "HP. MP has been fully restored."
                             ]
                         },
                         {
@@ -18763,8 +18280,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -18886,8 +18403,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,

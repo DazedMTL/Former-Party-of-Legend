@@ -2632,21 +2632,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここがマロゲスの屋敷・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずいぶん豪華な屋敷じゃない」"
+                                "\"So this is Maroges' mansion... Quite the luxurious place,\nisn't it?\""
                             ]
                         },
                         {
@@ -2723,21 +2716,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「会ったことはないけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私よりいい家に住むなんて生意気ね」"
+                                "\"I've never met him, but living in a better house than me?\nHow presumptuous.\""
                             ]
                         },
                         {
@@ -2814,21 +2800,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もういっそ、壁ごと壊して進んでいったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どっかで見つかるんじゃない？」"
+                                "\"Maybe we should just break through the walls and keep\ngoing. Wouldn't we find it somewhere then?\""
                             ]
                         },
                         {
@@ -2932,14 +2911,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「リイス、それじゃ解析装置も壊れちゃうよ」"
+                                "\"Rise, if we do that, we'll break the analyzer too.\""
                             ]
                         },
                         {
@@ -3032,14 +3011,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「冗談よ。スエルも自分の役割、分かってるわね？」"
+                                "\"Just kidding. You do understand your role, don't you,\nSuelle?\""
                             ]
                         },
                         {
@@ -3116,28 +3095,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私が護衛してあげるんだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタは私に感謝の言葉を途切らすことなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "並べたてながら解析装置を探すことよ」"
+                                "\"Since I'm providing the escort, you should be continuously\nthanking me while searching for the analyzer.\""
                             ]
                         },
                         {
@@ -3230,21 +3195,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんなことブツブツ言いながら探してたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただの不審者だよ！！」"
+                                "\"If I mutter things like that while searching, I'll just\nlook like a suspicious person!!\""
                             ]
                         },
                         {
@@ -3337,21 +3295,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「不審者になるだけで私への感謝の言葉を述べる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "権利が与えられるのよ？それすら感謝するべきね」"
+                                "\"Becoming a suspicious person is all it takes to earn the\nright to thank me? You should be grateful for even that.\""
                             ]
                         },
                         {
@@ -3444,28 +3395,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さっ、スエルの役割も確認したことだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさとぶっ壊す・・・じゃなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "解析装置を探すわよ！！」"
+                                "\"Now, we've confirmed Suelle's role, so let's hurry up and\nfind the analyzer... not break it!!\""
                             ]
                         },
                         {
@@ -3488,14 +3425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっ、本当に大丈夫かなぁ・・・」"
+                                "Suelle: \"Hah, I really hope this is going to be okay...\""
                             ]
                         },
                         {

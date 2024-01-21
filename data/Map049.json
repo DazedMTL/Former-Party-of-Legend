@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "法部　セルフィの部屋",
+    "displayName": "Legal Department - Selphie's Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -2232,14 +2232,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・やっぱりだめだ。ティナに連絡がつかない」"
+                                "\"No good, I can't get in touch with Tina.\""
                             ]
                         },
                         {
@@ -2281,21 +2281,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「通信術式が届かない場所にいるんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昨日、洞窟に入るって言ってたんでしょ？」"
+                                "\"Maybe she's in a place where the communication spell\ndoesn't reach? Didn't she say she was going into a cave\nyesterday?\""
                             ]
                         },
                         {
@@ -2306,14 +2299,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なら洞窟内に滞在して調査しているとか」"
+                                "\"If that's the case, she might be staying inside the cave to\nconduct her investigation.\""
                             ]
                         },
                         {
@@ -2353,21 +2346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通信装器は外に向けて術式を飛ばし通信を繋ぐ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "電波のようなものである以上、リイスのいう通り洞窟の中では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "使えない場合もある。"
+                                "The communication device sends out spells to connect\ncommunication, similar to radio waves. As Rise said, it may\nnot work inside caves."
                             ]
                         },
                         {
@@ -2385,21 +2364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それに加え、洞窟の中の魔物がイレギュラーだった場合。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイスの言った通り、そのまま洞窟内で過ごして調査する場合も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えられる。"
+                                "In addition, if the monsters inside the cave are irregular,\nas Rise mentioned, it's possible that she's staying inside\nto continue her investigation."
                             ]
                         },
                         {
@@ -2426,14 +2391,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん・・・そうなんだけれど」"
+                                "\"Yeah, that's true, but...\""
                             ]
                         },
                         {
@@ -2458,14 +2423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイスの言うことも、もっともだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティナが向かった以上リイスの言った事の確率の方が高い。"
+                                "What Rise says makes sense. Since Tina went there, the\nlikelihood of what Rise suggested is higher."
                             ]
                         },
                         {
@@ -2492,14 +2450,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも・・・なんだか嫌な予感がするんだよね」"
+                                "\"But I have a bad feeling about this.\""
                             ]
                         },
                         {
@@ -2542,14 +2500,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちょっと、怖い事言わないでよ！！」"
+                                "\"Hey, don't say scary things like that!!\""
                             ]
                         },
                         {
@@ -2591,14 +2549,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ごっ、ごめん・・・考えすぎかな？」"
+                                "\"Sorry, maybe I'm just overthinking it?\""
                             ]
                         },
                         {
@@ -2640,14 +2598,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「確かにティナからの連絡がないのは気になるけれど」"
+                                "\"It's definitely concerning that we haven't heard from\nTina.\""
                             ]
                         },
                         {
@@ -2690,28 +2648,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「かといって憶測で私たちが乗り込んで結局何もなかった・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんてことになったらそれこそマロゲスに作戦がバレて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本末転倒になってしまうわ」"
+                                "\"But if we rush in there on a hunch and end up finding\nnothing, we'd just alert Maroges to our strategy and that\nwould be counterproductive.\""
                             ]
                         },
                         {
@@ -2745,21 +2689,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「気持ちは私も分かるけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "念を押してティナという過剰戦力を投入したの」"
+                                "\"I understand how you feel, but we sent Tina in there\nbecause she's an overwhelming force.\""
                             ]
                         },
                         {
@@ -2770,21 +2707,14 @@
                                 0,
                                 2,
                                 2,
-                                "セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ティナが対処できないことなんてほとんどないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "3週間・・・不安なのは分かるけれど、その期間は待ちましょう」"
+                                "\"There's hardly anything Tina can't handle, and while I\nunderstand the anxiety, let's wait for the three-week\nperiod.\""
                             ]
                         },
                         {
@@ -2826,7 +2756,7 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
@@ -2860,14 +2790,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・そうだね、きっとティナ姉なら大丈夫」"
+                                "\"Right, Tina Onee-san will surely be fine.\""
                             ]
                         },
                         {
@@ -2878,21 +2808,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(僕も今までティナ姉を見て来たからこそ分かる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あのティナ姉が負けるハズなんてないよね）"
+                                "(I know this precisely because I've seen Tina Onee-san in\naction all this time. There's no way she would lose.)"
                             ]
                         },
                         {
@@ -2915,14 +2838,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ティナ姉・・・無事でいて」"
+                                "\"Tina Onee-san, please be safe.\""
                             ]
                         },
                         {
@@ -3005,7 +2928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナが依頼を受けてから三週間後・・・。"
+                                "Three weeks had passed since Tina took on the request."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ラスラの森　洞窟前",
+    "displayName": "Lasra Forest, in front of the cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -7834,14 +7834,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この先に洞窟があるのですが、ここまでかなり歩きました」"
+                                "\"There's a cave up ahead, but we've walked quite a distance\nto get here.\""
                             ]
                         },
                         {
@@ -7949,21 +7949,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今日はここに泊まって、明日から洞窟の内部を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じっくりと探索しましょうか」"
+                                "\"Shall we stay here for the night and start exploring the\ninside of the cave thoroughly from tomorrow?\""
                             ]
                         },
                         {
@@ -8056,21 +8049,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アンタと二人で泊まるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は今からでも洞窟の魔物を調査出来るけれど？」"
+                                "\"Stay overnight with just the two of us? I could go\ninvestigate the monsters in the cave right now, you know?\""
                             ]
                         },
                         {
@@ -8147,21 +8133,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（今の所、何かしでかす様子はないけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マロゲスは要注意人物なのよね）"
+                                "(So far, he doesn't seem to be up to anything, but Maroges\nis definitely someone to keep an eye on.)"
                             ]
                         },
                         {
@@ -8285,21 +8264,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、それは勿論分かっておりますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その・・・私の方が疲れちゃいましてねぇ」"
+                                "\"Yes, of course I understand that, but, well... I'm quite\ntired myself.\""
                             ]
                         },
                         {
@@ -8376,14 +8348,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もう足がパンパンで歩くのが大変なのですよ・・・」"
+                                "\"My legs are swollen and it's difficult to walk any\nfurther.\""
                             ]
                         },
                         {
@@ -8476,21 +8448,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（何かを企んでる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも私がマロゲスを注意しているのは知らないハズ）"
+                                "(Is he plotting something? But he shouldn't know that I'm\nwatching him closely.)"
                             ]
                         },
                         {
@@ -8567,28 +8532,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（もし本当にマロゲスが人身売買組織と繋がっていれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはマロゲスの案に乗ったほうが手口ぐらいは引き出せる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可能性があるわね）"
+                                "(If Maroges really is connected to a human trafficking\norganization, going along with his plan might reveal some of\nhis methods.)"
                             ]
                         },
                         {
@@ -8681,21 +8632,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「体力がないのね・・・まぁいいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急いでケガをしてもアレだし準備もかねて休もうか」"
+                                "\"Lacking stamina, are we? Well, alright. It's not good to\nrush and get injured, so let's rest and prepare for\ntomorrow.\""
                             ]
                         },
                         {
@@ -8788,21 +8732,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ただし・・・分かってると思うけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かするつもりじゃないでしょうね」"
+                                "\"But you do understand, I hope you're not planning\nanything.\""
                             ]
                         },
                         {
@@ -8879,14 +8816,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まぁ、何かして来てもその瞬間に捕えるけれどもね）"
+                                "(Well, even if he tries something, I'll capture him in a\nmoment.)"
                             ]
                         },
                         {
@@ -8979,14 +8916,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いえいえ、私が何かしようとしても返り討ちですよ」"
+                                "\"No, no, even if I were to try something, you'd turn the\ntables on me.\""
                             ]
                         },
                         {
@@ -9063,14 +9000,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ただ・・・、その剣士としてのおつとめはどうします？」"
+                                "\"But what about your duties as a swordsman?\""
                             ]
                         },
                         {
@@ -9170,14 +9107,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「？剣士としてのおつとめ？一体何のことを・・・」"
+                                "\"?Duties as a swordsman? What are you talking about?\""
                             ]
                         },
                         {
@@ -9261,7 +9198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マロゲスの言葉を復唱した途端、キィイイインと耳鳴りがする。"
+                                "As Tina echoed Maroges' words, a ringing noise suddenly\nfilled her ears."
                             ]
                         },
                         {
@@ -9366,7 +9303,7 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
@@ -9466,14 +9403,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ティナさん？」"
+                                "\"Tina-san?\""
                             ]
                         },
                         {
@@ -9566,21 +9503,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・っ、・・・えっ、えぇ、おつとめね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かっているわよ」"
+                                "\"Ah, umm, yes, the duties. I understand.\""
                             ]
                         },
                         {
@@ -9673,21 +9603,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それをしないと剣士としての恥なんだからおつとめは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌でも付き合って貰うわよ」"
+                                "\"Not fulfilling them would be a disgrace as a swordsman, so\nyou'll have to bear with me regardless.\""
                             ]
                         },
                         {
@@ -9780,21 +9703,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうですかそうですか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは頑張らないといけませんねぇ」"
+                                "\"Is that so? Well then, I must do my best.\""
                             ]
                         },
                         {
@@ -9845,7 +9761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でゅひひっ、では、中へ・・・早速始めましょうか」"
+                                "\"Hehehe, then let's go inside and get started right away.\""
                             ]
                         },
                         {
@@ -9863,7 +9779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうして二人は休憩所に入っていくのであった。"
+                                "And so, the two of them entered the rest area."
                             ]
                         },
                         {
@@ -10232,7 +10148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ．ＭＰが全回復した。"
+                                "HP and MP have been fully restored."
                             ]
                         },
                         {
@@ -10893,14 +10809,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この先に洞窟があるのですが、ここまでかなり歩きました」"
+                                "\"There's a cave up ahead, but we've walked quite a distance\nto get here.\""
                             ]
                         },
                         {
@@ -11008,21 +10924,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今日はここに泊まって、明日から洞窟の内部を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じっくりと探索しましょうか」"
+                                "\"Shall we stay here tonight and thoroughly explore the\ninterior of the cave starting tomorrow?\""
                             ]
                         },
                         {
@@ -11115,21 +11024,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アンタと二人で泊まるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は今からでも洞窟の魔物を調査出来るけれど？」"
+                                "\"Stay overnight with just you and me? I could go investigate\nthe monsters in the cave right now, though?\""
                             ]
                         },
                         {
@@ -11206,21 +11108,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（今の所、何かしでかす様子はないけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マロゲスは要注意人物なのよね）"
+                                "(So far, he hasn't done anything suspicious... but Maroges\nis definitely someone to keep an eye on.)"
                             ]
                         },
                         {
@@ -11344,21 +11239,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、それは勿論分かっておりますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その・・・私の方が疲れちゃいましてねぇ」"
+                                "\"Yes, of course I understand that, but I'm quite tired\nmyself, you see.\""
                             ]
                         },
                         {
@@ -11435,14 +11323,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もう足がパンパンで歩くのが大変なのですよ・・・」"
+                                "\"My legs are completely swollen, and it's getting tough to\nwalk.\""
                             ]
                         },
                         {
@@ -11535,21 +11423,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（何かを企んでる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも私がマロゲスを注意しているのは知らないハズ）"
+                                "(Is he plotting something? But he shouldn't know that I'm\nkeeping an eye on Maroges.)"
                             ]
                         },
                         {
@@ -11626,28 +11507,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（もし本当にマロゲスが人身売買組織と繋がっていれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはマロゲスの案に乗ったほうが手口ぐらいは引き出せる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可能性があるわね）"
+                                "(If Maroges really is connected to a human trafficking\norganization, going along with his plan might reveal some of\nhis methods.)"
                             ]
                         },
                         {
@@ -11740,21 +11607,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「体力がないのね・・・まぁいいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急いでケガをしてもアレだし準備もかねて休もうか」"
+                                "\"Lacking stamina, I see. Well, it's fine. It's also bad to\nrush and get injured, so let's rest for preparation's sake.\""
                             ]
                         },
                         {
@@ -11847,21 +11707,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ただし・・・分かってると思うけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かするつもりじゃないでしょうね」"
+                                "\"But you do understand, I hope you're not planning to do\nanything.\""
                             ]
                         },
                         {
@@ -11938,14 +11791,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まぁ、何かして来てもその瞬間に捕えるけれどもね）"
+                                "(Well, even if he tries something, I'll capture him in the\nmoment.)"
                             ]
                         },
                         {
@@ -12038,14 +11891,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いえいえ、私が何かしようとしても返り討ちですよ」"
+                                "\"No, no, even if I were to try something, you'd easily\ncounter it.\""
                             ]
                         },
                         {
@@ -12122,14 +11975,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ただ・・・、その剣士としてのおつとめはどうします？」"
+                                "\"But what about your duties as a swordsman?\""
                             ]
                         },
                         {
@@ -12229,14 +12082,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「？剣士としてのおつとめ？一体何のことを・・・」"
+                                "\"?Duties as a swordsman? What are you talking about?\""
                             ]
                         },
                         {
@@ -12320,7 +12173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マロゲスの言葉を復唱した途端、キィイイインと耳鳴りがする。"
+                                "As Tina echoed Maroges' words, a ringing sound filled her\nears."
                             ]
                         },
                         {
@@ -12425,7 +12278,7 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
@@ -12525,14 +12378,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ティナさん？」"
+                                "\"Tina-san?\""
                             ]
                         },
                         {
@@ -12625,21 +12478,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・っ、・・・えっ、えぇ、おつとめね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かっているわよ」"
+                                "\"Ah, umm, yes, the duties. I understand.\""
                             ]
                         },
                         {
@@ -12732,21 +12578,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それをしないと剣士としての恥なんだからおつとめは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌でも付き合って貰うわよ」"
+                                "\"Not fulfilling them would be a disgrace as a swordsman, so\nyou'll have to bear with me even if you dislike it.\""
                             ]
                         },
                         {
@@ -12839,21 +12678,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうですかそうですか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは頑張らないといけませんねぇ」"
+                                "\"Is that so? Well then, I must do my best.\""
                             ]
                         },
                         {
@@ -12904,7 +12736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でゅひひっ、では、中へ・・・早速始めましょうか」"
+                                "\"Hehehe, then let's go inside and get started right away.\""
                             ]
                         },
                         {
@@ -12922,7 +12754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうして二人は休憩所に入っていくのであった。"
+                                "And so, the two of them entered the rest area."
                             ]
                         },
                         {
@@ -13423,14 +13255,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この先に洞窟があるのですが、ここまでかなり歩きました」"
+                                "\"There's a cave up ahead, but we've walked quite a distance\nto get here.\""
                             ]
                         },
                         {
@@ -13538,21 +13370,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今日はここに泊まって、明日から洞窟の内部を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じっくりと探索しましょうか」"
+                                "\"Shall we stay here for the night and start exploring the\ninside of the cave thoroughly from tomorrow?\""
                             ]
                         },
                         {
@@ -13645,21 +13470,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アンタと二人で泊まるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は今からでも洞窟の魔物を調査出来るけれど？」"
+                                "\"Stay overnight with just you and me? I could go investigate\nthe monsters in the cave right now, you know?\""
                             ]
                         },
                         {
@@ -13736,21 +13554,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（今の所、何かしでかす様子はないけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マロゲスは要注意人物なのよね）"
+                                "(So far, he doesn't seem to be up to anything, but Maroges\nis definitely someone to watch out for.)"
                             ]
                         },
                         {
@@ -13874,21 +13685,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、それは勿論分かっておりますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その・・・私の方が疲れちゃいましてねぇ」"
+                                "\"Yes, of course I understand that, but I'm quite tired\nmyself, you see.\""
                             ]
                         },
                         {
@@ -13965,14 +13769,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もう足がパンパンで歩くのが大変なのですよ・・・」"
+                                "\"My legs are completely swollen, and it's tough to walk any\nfurther.\""
                             ]
                         },
                         {
@@ -14065,21 +13869,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（何かを企んでる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも私がマロゲスを注意しているのは知らないハズ）"
+                                "(Is he plotting something? But he shouldn't know that I'm\nkeeping an eye on Maroges.)"
                             ]
                         },
                         {
@@ -14156,28 +13953,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（もし本当にマロゲスが人身売買組織と繋がっていれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはマロゲスの案に乗ったほうが手口ぐらいは引き出せる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可能性があるわね）"
+                                "(If Maroges really is connected to a human trafficking\norganization, going along with his plan might reveal some of\nhis methods.)"
                             ]
                         },
                         {
@@ -14270,21 +14053,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「体力がないのね・・・まぁいいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急いでケガをしてもアレだし準備もかねて休もうか」"
+                                "\"Lacking stamina, are we? Well, that's fine. It's not good\nto rush and get injured, so let's rest and prepare.\""
                             ]
                         },
                         {
@@ -14377,21 +14153,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ただし・・・分かってると思うけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かするつもりじゃないでしょうね」"
+                                "\"But you do understand, I hope you're not planning\nanything.\""
                             ]
                         },
                         {
@@ -14468,14 +14237,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まぁ、何かして来てもその瞬間に捕えるけれどもね）"
+                                "(Well, even if he tries something, I'll capture him in a\nmoment.)"
                             ]
                         },
                         {
@@ -14568,14 +14337,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いえいえ、私が何かしようとしても返り討ちですよ」"
+                                "\"No, no, even if I tried something, you'd turn the tables on\nme.\""
                             ]
                         },
                         {
@@ -14652,14 +14421,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ただ・・・、その剣士としてのおつとめはどうします？」"
+                                "\"But what about your duties as a swordsman?\""
                             ]
                         },
                         {
@@ -14759,14 +14528,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「？剣士としてのおつとめ？一体何のことを・・・」"
+                                "\"?Duties as a swordsman? What are you talking about?\""
                             ]
                         },
                         {
@@ -14850,7 +14619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マロゲスの言葉を復唱した途端、キィイイインと耳鳴りがする。"
+                                "As Tina echoed Maroges' words, a ringing sound filled her\nears."
                             ]
                         },
                         {
@@ -14955,7 +14724,7 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
@@ -15055,14 +14824,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ティナさん？」"
+                                "\"Tina-san?\""
                             ]
                         },
                         {
@@ -15155,21 +14924,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・っ、・・・えっ、えぇ、おつとめね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かっているわよ」"
+                                "\"Ah, umm, yes, the duties. I understand.\""
                             ]
                         },
                         {
@@ -15262,21 +15024,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それをしないと剣士としての恥なんだからおつとめは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌でも付き合って貰うわよ」"
+                                "\"Not fulfilling them would be a disgrace to a swordsman, so\nyou'll have to bear with me even if you dislike it.\""
                             ]
                         },
                         {
@@ -15369,21 +15124,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうですかそうですか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは頑張らないといけませんねぇ」"
+                                "\"Is that so? Well then, I must do my best.\""
                             ]
                         },
                         {
@@ -15434,7 +15182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でゅひひっ、では、中へ・・・早速始めましょうか」"
+                                "\"Hehehe, then shall we go inside and get started right\naway?\""
                             ]
                         },
                         {
@@ -15452,7 +15200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうして二人は休憩所に入っていくのであった。"
+                                "And so, the two of them entered the rest area."
                             ]
                         },
                         {
@@ -15800,7 +15548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シールダー(ティナ専用防具）を手に入れた！"
+                                "Obtained Shielder (Tina's exclusive armor)!"
                             ]
                         },
                         {
@@ -16075,7 +15823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリクサーを手に入れた！"
+                                "You've obtained an Elixir!"
                             ]
                         },
                         {
@@ -16208,8 +15956,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -16240,7 +15988,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "現在回想はありません。"
+                                "There are no flashbacks available at the moment."
                             ]
                         },
                         {
@@ -16261,8 +16009,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,
@@ -16408,8 +16156,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -16531,8 +16279,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,
@@ -16749,7 +16497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ．ＭＰが全回復した。"
+                                "HP and MP have been fully restored."
                             ]
                         },
                         {
@@ -16848,8 +16596,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -16880,7 +16628,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "現在回想はありません。"
+                                "There are no flashbacks available at the moment."
                             ]
                         },
                         {
@@ -16901,8 +16649,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,

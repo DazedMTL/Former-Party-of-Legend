@@ -9805,14 +9805,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これは・・・」"
+                                "\"This is...\""
                             ]
                         },
                         {
@@ -9905,14 +9905,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふむ、洞窟全体が不気味ですなぁ・・・」"
+                                "\"Hmm, the entire cave is quite eerie, isn't it...\""
                             ]
                         },
                         {
@@ -10005,14 +10005,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・全部、触手のようね」"
+                                "\"It's all like tentacles.\""
                             ]
                         },
                         {
@@ -10119,21 +10119,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（魔物の生態系の変化があったのは最近。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "となると増殖が速い寄生タイプね）"
+                                "\"(The change in the ecosystem of the monsters must have\nhappened recently. That means it's a fast-breeding parasitic\ntype.)\""
                             ]
                         },
                         {
@@ -10210,21 +10203,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（このタイプの触手魔物は一定の場所にとどまり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かに増殖は速いけれど・・・）"
+                                "\"(This type of tentacle monster stays in one place and\nindeed breeds quickly but...)\""
                             ]
                         },
                         {
@@ -10301,28 +10287,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（でも、そのまま無造作に増え続けると触手の統制が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きかなくなるから、単純に分裂しているのではなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元は一つの触手で繋がっているはず）"
+                                "\"(However, if they just keep multiplying carelessly, the\ncontrol over the tentacles will be lost, so they're not\nsimply splitting. There must be one main tentacle they're\nall connected to.)\""
                             ]
                         },
                         {
@@ -10415,14 +10387,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（・・・なら、親玉を倒せばすべてが解決する）"
+                                "\"(If that's the case, defeating the boss should solve\neverything.)\""
                             ]
                         },
                         {
@@ -10515,14 +10487,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でゅひひっ！！これは、倒すのに苦労しそうですねぇ」"
+                                "\"Dyuhuhu!! This looks like it'll be tough to defeat.\""
                             ]
                         },
                         {
@@ -10615,14 +10587,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そのことにマロゲスは気が付いていない？）"
+                                "\"(Has Maroges not realized that?)\""
                             ]
                         },
                         {
@@ -10699,21 +10671,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（もしマロゲスがここの状況を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あらかじめ、ある程度把握していて・・・）"
+                                "\"(If Maroges had some understanding of the situation here\nbeforehand...)\""
                             ]
                         },
                         {
@@ -10790,21 +10755,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そしてその上ですべての触手を倒さなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "依頼が完了しないと勘違いしていたのであれば）"
+                                "\"(And on top of that, he mistakenly thought that the request\nwouldn't be complete until all the tentacles were\ndefeated...)\""
                             ]
                         },
                         {
@@ -10897,21 +10855,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（きっとここの触手を全て倒せるわけがないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽観しているはず）"
+                                "\"(Then he must be optimistic that it's impossible to defeat\nall the tentacles here.)\""
                             ]
                         },
                         {
@@ -10988,28 +10939,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なら気づかれないうちに親玉を倒すことで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "依頼が達成し、洗脳が解けた瞬間・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マロゲスを捕まえれる）"
+                                "\"(So if I defeat the boss without him noticing, the request\nwill be completed and the moment the brainwashing is lifted,\nI can capture Maroges.)\""
                             ]
                         },
                         {
@@ -11100,14 +11037,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・先に進むわよ」"
+                                "\"We're moving forward.\""
                             ]
                         },
                         {
@@ -11200,14 +11137,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、分かってますよ」"
+                                "\"Yes, I understand.\""
                             ]
                         },
                         {
@@ -11223,14 +11160,14 @@
                                 0,
                                 1,
                                 1,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でゅひひっ、気を付けて進んで下さいね」"
+                                "\"Dyuhuhu, please proceed with caution.\""
                             ]
                         },
                         {

@@ -6865,7 +6865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スピードブーツ（装飾品）を手に入れた！"
+                                "You've obtained the Speed Boots (Accessory)!"
                             ]
                         },
                         {
@@ -7149,7 +7149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボムを手に入れた！"
+                                "Obtained a bomb!"
                             ]
                         },
                         {
@@ -7433,7 +7433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビンビンキノコを手に入れた！"
+                                "Obtained the Throbbing Mushroom!"
                             ]
                         },
                         {

@@ -14665,7 +14665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "万能薬を2個手に入れた！"
+                                "Obtained 2 Elixirs!"
                             ]
                         },
                         {
@@ -14950,7 +14950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バリアフードを手に入れた！"
+                                "Obtained Barrier Food!"
                             ]
                         },
                         {
@@ -15234,7 +15234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハイポーションを手に入れた！"
+                                "Obtained a High Potion!"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "法部　セルフィの部屋",
+    "displayName": "Legal Department - Selphie's Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -1814,7 +1814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それからさらに数週間後。"
+                                "And then, several weeks later."
                             ]
                         },
                         {
@@ -1844,7 +1844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガチャ・・・。"
+                                "Clank..."
                             ]
                         },
                         {
@@ -2054,14 +2054,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「スエル！！セルフィの居場所が分かったわよ！！」"
+                                "\"Suelle!! I've found out where Selphie is!!\""
                             ]
                         },
                         {
@@ -2103,14 +2103,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「！！本当！！？」"
+                                "\"Really!!?\""
                             ]
                         },
                         {
@@ -2152,28 +2152,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、ノルズから得た情報から人身売買のつながりを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "辿って行ってね・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セルフィの情報を知っている奴にようやく会えたわ」"
+                                "\"Yes, following the leads on human trafficking from the\ninformation Nolz provided... I finally met someone who knows\nabout Selphie.\""
                             ]
                         },
                         {
@@ -2216,21 +2202,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・まったく、敵にバレないためとはいえ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隠密捜査をしていたせいで時間がかかってしまったわ・・・」"
+                                "\"Honestly, because we had to conduct a covert investigation\nto avoid alerting the enemy, it took quite some time.\""
                             ]
                         },
                         {
@@ -2272,21 +2251,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、これでようやくセルフィさんを助けれるね・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで、今はどこに」"
+                                "\"But now, we can finally rescue Selphie, right? So, where is\nshe now?\""
                             ]
                         },
                         {
@@ -2351,14 +2323,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「監獄施設よ」"
+                                "\"At the prison facility.\""
                             ]
                         },
                         {
@@ -2400,21 +2372,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「監獄施設っていうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面会すら出来ず中の情報が分からない犯罪者の隔離施設だよね？」"
+                                "\"A prison facility? That's where criminals are isolated\nwithout any chance for visitation or information getting\nout, right?\""
                             ]
                         },
                         {
@@ -2448,14 +2413,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そう、そこよ。そしてセルフィを監禁している人物が・・・」"
+                                "\"Exactly, that place. And the person who has Selphie locked\nup is...\""
                             ]
                         },
                         {
@@ -2478,14 +2443,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ググカス法務長」"
+                                "\"Gugukas, the Minister of Justice.\""
                             ]
                         },
                         {
@@ -2527,14 +2492,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「！！そんな・・・本当なの？」"
+                                "\"What?! Is that true?\""
                             ]
                         },
                         {
@@ -2583,21 +2548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本当よ、そしてセルフィだけじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ググカスは他にも気に入った女性を捕まえては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "監獄施設で弄んでいたらしいわ」"
+                                "Rise: \"It's true. And it's not just Selphie. It seems\nGugukas has been capturing women he takes a liking to and\nplaying with them in that prison facility.\""
                             ]
                         },
                         {
@@ -2639,21 +2590,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でもいくら法務部のトップといっても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰もググカスの悪事に気が付かなかったの？」"
+                                "\"But how come no one noticed Gugukas's misdeeds, even though\nhe's the head of the Ministry of Justice?\""
                             ]
                         },
                         {
@@ -2695,21 +2639,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうやらその施設自体、ググカスが好きに出来るように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "息のかかった人間を人事配置していたようなの」"
+                                "\"It seems that he arranged for his own people to be placed\nin positions within the facility, people who would do as he\npleased.\""
                             ]
                         },
                         {
@@ -2751,14 +2688,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「！！そっ、そんなことが！！？」"
+                                "\"That's... that's unbelievable!!\""
                             ]
                         },
                         {
@@ -2801,21 +2738,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔王が倒された後、拠点を防衛をしていた傭兵が大量解雇されてね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっていけなくなった人たちがいたのよ」"
+                                "\"After the Demon Lord was defeated, the mercenaries who were\ndefending the stronghold were massively laid off. There were\npeople who couldn't make ends meet.\""
                             ]
                         },
                         {
@@ -2826,21 +2756,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そこに目を付けて、その中でも金を積めば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪事に目をつむる人材を雇ったらしいのよ」"
+                                "\"Gugukas targeted those people, hiring those among them who\nwould turn a blind eye to his misdeeds for money.\""
                             ]
                         },
                         {
@@ -2867,21 +2790,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まさかこんな事になるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰も予想してなかったってことね・・・」"
+                                "\"No one could have predicted that things would turn out like\nthis.\""
                             ]
                         },
                         {
@@ -2915,14 +2831,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今やあの場所は完全にググカスの私物と化しているわ」"
+                                "\"Now, that place has become Gugukas's personal playground.\""
                             ]
                         },
                         {
@@ -2971,21 +2887,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・許せない・・・。僕たちをだましていただけでなく・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セルフィさんまで」"
+                                "\"Unforgivable. Not only did he deceive us, but he even took\nSelphie-san.\""
                             ]
                         },
                         {
@@ -3024,21 +2933,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、ググカスの尻尾はつかめたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必ずググカスを捕まえて、セルフィを取り戻そう！！」"
+                                "\"But we've got a lead on Gugukas's tail. We'll definitely\ncatch him and take back Selphie!!\""
                             ]
                         },
                         {
@@ -3081,14 +2983,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もちのろんよ！！・・・ぼっこぼこにしてやるわ！！」"
+                                "\"Of course!! I'll beat him to a pulp!!\""
                             ]
                         },
                         {
@@ -3131,14 +3033,14 @@
                                 0,
                                 2,
                                 2,
-                                "リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さぁ、早速出発よ！！」"
+                                "\"Come on, let's set out immediately!!\""
                             ]
                         },
                         {
@@ -3161,14 +3063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（待ってて、セルフィ。すぐに助けに行くから）"
+                                "Suelle (Wait for me, Selphie. I'll come to save you right\naway.)"
                             ]
                         },
                         {
@@ -3247,7 +3142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マップの行き先に\\C[2]監獄施設\\C[0]が追加されました。"
+                                "The destination \\C[2]Prison Facility\\C[0] has been added to\nthe map."
                             ]
                         },
                         {

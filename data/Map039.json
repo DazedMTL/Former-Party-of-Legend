@@ -2803,7 +2803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に進むとしばらく森には引き返せません。"
+                                "If we proceed from here, we won't be able to return to the\nforest for a while."
                             ]
                         },
                         {
@@ -2821,7 +2821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一旦、森に引き返しますか？"
+                                "Shall we head back to the forest for now?"
                             ]
                         },
                         {
@@ -2829,8 +2829,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "このまま進む",
-                                    "ひきかえす"
+                                    "Keep going as we are",
+                                    "Retreat"
                                 ],
                                 1,
                                 -1,
@@ -3080,14 +3080,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「おやおや、先に行く道が塞がれていますねぇ」"
+                                "\"Oh my, the path ahead is blocked, isn't it?\""
                             ]
                         },
                         {
@@ -3262,14 +3262,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「それにこの穴・・・」"
+                                "\"And this hole...\""
                             ]
                         },
                         {
@@ -3362,21 +3362,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ふむ、どうやらここにいる新種の魔物は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "地下に巣を作るタイプなようですねぇ」"
+                                "\"Hmm, it seems that the new species of monster here makes\nits nest underground.\""
                             ]
                         },
                         {
@@ -3469,21 +3462,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そして地下を掘っているうちに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "洞窟自体が崩れてしまった・・・と」"
+                                "\"And while digging underground, it seems the cave itself has\ncollapsed...\""
                             ]
                         },
                         {
@@ -3560,14 +3546,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「いやぁ、怖い怖い」"
+                                "\"Yikes, that's scary.\""
                             ]
                         },
                         {
@@ -3660,14 +3646,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「まるでこの状況を知っていたかのような口ぶりね」"
+                                "\"You talk as if you knew this was going to happen.\""
                             ]
                         },
                         {
@@ -3760,21 +3746,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「いえいえ、そんなことはありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私も驚いていますよ」"
+                                "\"No, no, that's not the case. I'm just as surprised as you\nare.\""
                             ]
                         },
                         {
@@ -3867,21 +3846,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「しかし、相手の巣にいきなり潜り込むのは危険ですねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これは困りましたなぁ」"
+                                "\"However, diving headfirst into the enemy's nest is\ndangerous. This is quite troubling.\""
                             ]
                         },
                         {
@@ -3974,14 +3946,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ふん、依頼を達成するためには行くしかないでしょう」"
+                                "\"Hmph, we have no choice but to go if we want to complete\nthe request.\""
                             ]
                         },
                         {
@@ -4074,21 +4046,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「いいのですか？いやぁ、流石はティナさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・勇敢ですなぁ」"
+                                "\"Is that alright with you? Wow, Tina-san, you truly are\nbrave.\""
                             ]
                         },
                         {
@@ -4181,14 +4146,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「思っても見ないことを・・・さっさと進むわよ」"
+                                "\"Stop talking about the unthinkable and let's move on\nquickly.\""
                             ]
                         },
                         {
@@ -4306,7 +4271,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（・・・この奥は魔物の巣）"
+                                "(The nest of monsters lies ahead...)"
                             ]
                         },
                         {
@@ -4324,7 +4289,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（焦って急ぐのも良くないわね。一旦戻って準備を整えよう）"
+                                "(It's not good to rush in haste. Let's head back and prepare\nfirst.)"
                             ]
                         },
                         {
@@ -4485,7 +4450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に進むとしばらく森には引き返せません。"
+                                "If we proceed from here, we won't be able to return to the\nforest for a while."
                             ]
                         },
                         {
@@ -4503,7 +4468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一旦、森に引き返しますか？"
+                                "Shall we head back to the forest for now?"
                             ]
                         },
                         {
@@ -4511,8 +4476,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "このまま進む",
-                                    "ひきかえす"
+                                    "Keep going as we are",
+                                    "Retreat"
                                 ],
                                 1,
                                 -1,
@@ -4762,14 +4727,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「おやおや、先に行く道が塞がれていますねぇ」"
+                                "\"Oh my, the path ahead is blocked, isn't it.\""
                             ]
                         },
                         {
@@ -4944,14 +4909,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「それにこの穴・・・」"
+                                "\"And this hole...\""
                             ]
                         },
                         {
@@ -5044,21 +5009,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ふむ、どうやらここにいる新種の魔物は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "地下に巣を作るタイプなようですねぇ」"
+                                "\"Hmm, it seems that the new species of monster here makes\nits nest underground.\""
                             ]
                         },
                         {
@@ -5151,21 +5109,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そして地下を掘っているうちに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "洞窟自体が崩れてしまった・・・と」"
+                                "\"And while digging underground, it seems the cave itself has\ncollapsed...\""
                             ]
                         },
                         {
@@ -5242,14 +5193,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「いやぁ、怖い怖い」"
+                                "\"Yikes, that's scary.\""
                             ]
                         },
                         {
@@ -5342,14 +5293,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「まるでこの状況を知っていたかのような口ぶりね」"
+                                "\"You speak as if you knew about this situation beforehand.\""
                             ]
                         },
                         {
@@ -5442,21 +5393,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「いえいえ、そんなことはありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私も驚いていますよ」"
+                                "\"No, no, that's not the case. I'm just as surprised as you\nare.\""
                             ]
                         },
                         {
@@ -5549,21 +5493,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「しかし、相手の巣にいきなり潜り込むのは危険ですねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これは困りましたなぁ」"
+                                "\"However, diving headfirst into the enemy's nest is\ndangerous. This is quite troubling.\""
                             ]
                         },
                         {
@@ -5656,14 +5593,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ふん、依頼を達成するためには行くしかないでしょう」"
+                                "\"Hmph, we have no choice but to go if we want to complete\nthe request.\""
                             ]
                         },
                         {
@@ -5756,21 +5693,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「いいのですか？いやぁ、流石はティナさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・勇敢ですなぁ」"
+                                "\"Is that alright? Wow, Tina-san, you truly are brave.\""
                             ]
                         },
                         {
@@ -5863,14 +5793,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「思っても見ないことを・・・さっさと進むわよ」"
+                                "\"Stop imagining things and let's move on quickly.\""
                             ]
                         },
                         {
@@ -5988,7 +5918,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（・・・この奥は魔物の巣）"
+                                "(The nest of monsters lies ahead...)"
                             ]
                         },
                         {
@@ -6006,7 +5936,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（焦って急ぐのも良くないわね。一旦戻って準備を整えよう）"
+                                "(It's not good to rush in haste. Let's head back and prepare\nfirst.)"
                             ]
                         },
                         {
@@ -6278,7 +6208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に進むとしばらく森には引き返せません。"
+                                "If we proceed from here, we won't be able to return to the\nforest for a while."
                             ]
                         },
                         {
@@ -6296,7 +6226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一旦、森に引き返しますか？"
+                                "Shall we head back to the forest for now?"
                             ]
                         },
                         {
@@ -6304,8 +6234,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "このまま進む",
-                                    "ひきかえす"
+                                    "Keep going as we are",
+                                    "Retreat"
                                 ],
                                 1,
                                 -1,
@@ -6555,14 +6485,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「おやおや、先に行く道が塞がれていますねぇ」"
+                                "\"Oh my, the path ahead is blocked, isn't it?\""
                             ]
                         },
                         {
@@ -6737,14 +6667,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「それにこの穴・・・」"
+                                "\"And this hole...\""
                             ]
                         },
                         {
@@ -6837,21 +6767,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ふむ、どうやらここにいる新種の魔物は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "地下に巣を作るタイプなようですねぇ」"
+                                "\"Hmm, it seems that the new species of monster here makes\nits nest underground.\""
                             ]
                         },
                         {
@@ -6944,21 +6867,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そして地下を掘っているうちに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "洞窟自体が崩れてしまった・・・と」"
+                                "\"And while digging underground, it appears the cave itself\nhas collapsed...\""
                             ]
                         },
                         {
@@ -7035,14 +6951,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「いやぁ、怖い怖い」"
+                                "\"Yikes, that's scary.\""
                             ]
                         },
                         {
@@ -7135,14 +7051,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「まるでこの状況を知っていたかのような口ぶりね」"
+                                "\"You speak as if you knew about this situation all along.\""
                             ]
                         },
                         {
@@ -7235,21 +7151,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「いえいえ、そんなことはありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私も驚いていますよ」"
+                                "\"No, no, that's not the case. I'm just as surprised as you\nare.\""
                             ]
                         },
                         {
@@ -7342,21 +7251,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「しかし、相手の巣にいきなり潜り込むのは危険ですねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これは困りましたなぁ」"
+                                "\"However, diving headfirst into the enemy's nest is\ndangerous. This is quite troubling.\""
                             ]
                         },
                         {
@@ -7449,14 +7351,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ふん、依頼を達成するためには行くしかないでしょう」"
+                                "\"Hmph, we have no choice but to go if we want to complete\nthe request.\""
                             ]
                         },
                         {
@@ -7549,21 +7451,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]マロゲス"
+                                "Maroges"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「いいのですか？いやぁ、流石はティナさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・勇敢ですなぁ」"
+                                "\"Is that alright with you? Wow, Tina-san, you truly are\nbrave.\""
                             ]
                         },
                         {
@@ -7656,14 +7551,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「思っても見ないことを・・・さっさと進むわよ」"
+                                "\"Stop imagining things and let's move on quickly.\""
                             ]
                         },
                         {
@@ -7781,7 +7676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（・・・この奥は魔物の巣）"
+                                "(...This deeper area is the monster's nest.)"
                             ]
                         },
                         {
@@ -7799,7 +7694,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（焦って急ぐのも良くないわね。一旦戻って準備を整えよう）"
+                                "(It's not good to rush in haste. Let's go back and prepare\nproperly first.)"
                             ]
                         },
                         {

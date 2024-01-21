@@ -5856,21 +5856,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おや、リイスちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はお友達を連れて来たの？」"
+                                "\"Oh, Rise-chan. Did you bring a friend with you today?\""
                             ]
                         },
                         {
@@ -5963,14 +5956,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも困ったなぁ。僕は男で遊ぶ趣味はないんだけれど」"
+                                "\"But this is troubling. I don't have any interest in playing\nwith men, though.\""
                             ]
                         },
                         {
@@ -6063,14 +6056,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・今日はアンタを捕らえに来たのよ」"
+                                "\"   I've come to capture you today.\""
                             ]
                         },
                         {
@@ -6147,21 +6140,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その後に人身売買の繋がりやアンタが知ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "裏の組織の情報・・・全部話して貰うわよ」"
+                                "\"After that, you're going to spill everything about the\nhuman trafficking connections and the information about the\nunderground organizations you know.\""
                             ]
                         },
                         {
@@ -6254,21 +6240,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おやおや、あんなに素直だったリイスちゃんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずいぶん反抗的になったねぇ」"
+                                "\"Oh my, the usually obedient Rise-chan has become quite\ndefiant, hasn't she?\""
                             ]
                         },
                         {
@@ -6361,14 +6340,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふひっ、これはまたおしおきが必要かな？」"
+                                "\"Fufu, does this mean you need to be punished again?\""
                             ]
                         },
                         {
@@ -6461,14 +6440,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「無駄だよ。リイスにはもう洗脳なんて効かないから」"
+                                "\"It's useless. Rise is no longer affected by brainwashing.\""
                             ]
                         },
                         {
@@ -6561,21 +6540,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なるほど・・・どうやったのかは知らないけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かに洗脳は解けているようだね」"
+                                "\"I see. I don't know how you did it, but it certainly seems\nlike the brainwashing has been undone.\""
                             ]
                         },
                         {
@@ -6668,21 +6640,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、まぁそれならそれでまた調教する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しみが増えていいんだけれどね？"
+                                "\"But, well, if that's the case, it just means there's more\nfun to be had in retraining you, right?\""
                             ]
                         },
                         {
@@ -6759,21 +6724,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひひっ、今度は催眠なしでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対にずぅっと逆らわないように」"
+                                "\"Hehe, this time, even without hypnosis, I'll make sure\nyou'll never think of defying me again.\""
                             ]
                         },
                         {
@@ -6850,21 +6808,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「徹底的におしおきして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分が何なのか教えてあげるね？リイスちゃん」"
+                                "\"I'll thoroughly punish you and teach you what you really\nare, okay? Rise-chan\""
                             ]
                         },
                         {
@@ -6957,21 +6908,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・フン、洗脳されていない今・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタにそれが出来ると思っているわけ？」"
+                                "\"   Hmph, do you really think you can do that now that I'm\nnot brainwashed?\""
                             ]
                         },
                         {
@@ -7064,21 +7008,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふひひっ、そんなこと言っても体がまた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕に遊んでもらいたがって震えてるよ。リイスちゃん？」"
+                                "\"Fufufu, even if you say that, your body is trembling,\nwanting to be played with by me again. Right, Rise-chan?\""
                             ]
                         },
                         {
@@ -7155,21 +7092,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、まぁ僕にはリイスちゃんを捕まえるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理だろうねぇ」"
+                                "\"But, well, it would be impossible for me to capture Rise-\nchan by myself.\""
                             ]
                         },
                         {
@@ -7262,14 +7192,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だからこんな時のためにお友達を作っておいたんだぁ」"
+                                "\"That's why I made friends for times like this.\""
                             ]
                         },
                         {
@@ -7292,14 +7222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノルズ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おいで、僕のペットちゃん」"
+                                "Nolz: \"Come here, my little pet.\""
                             ]
                         },
                         {
@@ -7371,7 +7294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンッ・・・。"
+                                "Thud."
                             ]
                         },
                         {
@@ -7475,14 +7398,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まさか・・・アメリちゃん！！？」"
+                                "\"No way... Ameri-chan!!?\""
                             ]
                         },
                         {
@@ -7575,21 +7498,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふひっ、そういえば偶然にもこの子と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイスちゃんは仲が良かったねぇ」"
+                                "\"Heheh, it just so happens that this girl and Rise-chan were\nquite close, weren't they?\""
                             ]
                         },
                         {
@@ -7666,28 +7582,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この子は孤児院の子の中でもお気に入りの玩具でねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイスちゃんみたいになりたいって頑張ってたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すっごく強いんだよ？」"
+                                "\"This girl was one of my favorite toys among the orphans.\nShe worked hard because she wanted to be like Rise-chan, so\nshe's become very strong, you know?\""
                             ]
                         },
                         {
@@ -7764,14 +7666,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でもまぁ、さすがにリイスちゃんには勝てないよねぇ」"
+                                "\"But, well, I guess even Rise-chan can't win against her.\""
                             ]
                         },
                         {
@@ -7848,21 +7750,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふひっ！！でも一点だけ強みがあるとすれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕が指示するまで傷ついても戦うのをやめないよぉ？」"
+                                "\"Fufu!! But if there's one advantage, it's that she won't\nstop fighting until I tell her to, even if she gets hurt.\""
                             ]
                         },
                         {
@@ -7939,21 +7834,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふひひっ、リイスちゃんに憧れて頑張ってたこの子を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイスちゃんは動かなくなるまで叩き潰すのかなぁ？」"
+                                "\"Fufufu, I wonder if Rise-chan will crush this girl who\nadmired her and worked so hard, until she can no longer\nmove?\""
                             ]
                         },
                         {
@@ -8030,21 +7918,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ、おとなしく捕まるのなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子にも危害が加わることもないだろうけれど？」"
+                                "\"Well, if you surrender quietly, this girl won't come to any\nharm, right?\""
                             ]
                         },
                         {
@@ -8137,14 +8018,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ・・・ゲスが！！」"
+                                "\"Tch... You scum!!\""
                             ]
                         },
                         {
@@ -8248,21 +8129,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「リイス、耳を傾ける必要はないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういう時のために僕が付いて来たんだから」"
+                                "\"Rise, there's no need to listen to him. I came along for\ntimes like this.\""
                             ]
                         },
                         {
@@ -8355,21 +8229,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「リイスはあの子の動きを一時的にでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "止めてくれるだけでいい」"
+                                "\"All Rise needs to do is stop that girl's movements\ntemporarily.\""
                             ]
                         },
                         {
@@ -8446,14 +8313,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「後は僕に任せて」"
+                                "\"Leave the rest to me.\""
                             ]
                         },
                         {
@@ -8546,14 +8413,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「スエル・・・」"
+                                "\"Suelle...\""
                             ]
                         },
                         {
@@ -8690,14 +8557,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・ふぅ、分かった。アンタが言うのなら信じるわ」"
+                                "\"Hmph, alright. If you say so, I'll trust you.\""
                             ]
                         },
                         {
@@ -8790,14 +8657,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「任せたわよ」"
+                                "\"I'm leaving it to you.\""
                             ]
                         },
                         {
@@ -8890,14 +8757,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うんっ！！」"
+                                "\"Yeah!!\""
                             ]
                         },
                         {
@@ -8998,14 +8865,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ行くわよ！！」"
+                                "\"Then let's go!!\""
                             ]
                         },
                         {
@@ -9110,14 +8977,14 @@
                                 0,
                                 2,
                                 2,
-                                "スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今だっ！！」"
+                                "\"Now!!\""
                             ]
                         },
                         {
@@ -9166,7 +9033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダアァンッ！！"
+                                "Boom!!"
                             ]
                         },
                         {
@@ -9184,14 +9051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエルが銃のような形をした装具で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗脳された女の子に弾を躊躇いなく打ち込む。"
+                                "Suelle fires a bullet without hesitation from a gun-shaped\ndevice at the brainwashed girl."
                             ]
                         },
                         {
@@ -9221,7 +9081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キィインッ！！"
+                                "Whine!!"
                             ]
                         },
                         {
@@ -9248,7 +9108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "弾は女の子に当たると形を変えて光のネットとなり体に絡みついた。"
+                                "The bullet hits the girl and transforms into a net of light\nthat wraps around her body."
                             ]
                         },
                         {
@@ -9299,7 +9159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バタンッ・・・。"
+                                "Thud..."
                             ]
                         },
                         {
@@ -9429,14 +9289,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふぅ・・・どうやら成功したようだね」"
+                                "\"Phew... It seems to have been a success.\""
                             ]
                         },
                         {
@@ -9529,14 +9389,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ、なっ・・・なんだこれは？」"
+                                "\"Damn, what is this?\""
                             ]
                         },
                         {
@@ -9613,21 +9473,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「気絶しても戦うようにきっちりと洗脳催眠を掛け、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦うのをやめない玩具にしたハズだっ！！」"
+                                "\"I thoroughly brainwashed and hypnotized her to fight even\nwhen unconscious, turning her into a toy that won't stop\nfighting!!\""
                             ]
                         },
                         {
@@ -9720,14 +9573,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「リイスの洗脳を解く時に使った装器の応用だよ」"
+                                "\"It's an application of the device we used to undo Rise's\nbrainwashing.\""
                             ]
                         },
                         {
@@ -9804,28 +9657,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「装器で直接触らないと洗脳は解けない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもそれだと洗脳を解くために拘束する時間が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必要になってくる」"
+                                "\"Normally, you have to touch directly with the device to\nundo the brainwashing. But that would require time to\nrestrain them to undo the brainwashing.\""
                             ]
                         },
                         {
@@ -9918,28 +9757,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そこで似たような波長の洗脳指示を送り"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一時的に指示を上書きして混乱させることができるって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ったわけ」"
+                                "\"So I thought about sending brainwashing commands of a\nsimilar wavelength to temporarily overwrite the instructions\nand cause confusion.\""
                             ]
                         },
                         {
@@ -10032,28 +9857,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そっ、そんな・・・いくら似たような指示を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出すだけと言っても、古代術式だぞ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな短時間で用意なんて・・・」"
+                                "\"But, even if you send similar instructions, it's ancient\nmagic... To prepare something like that in such a short\ntime...\""
                             ]
                         },
                         {
@@ -10146,14 +9957,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「術式解明は流石に時間的に無理だけれどね」"
+                                "\"Deciphering the spell completely would indeed be impossible\nin the time we had.\""
                             ]
                         },
                         {
@@ -10230,21 +10041,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でもリイスから取ったデータのおかげで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "指示の影響する波長パターンくらいは解析できるよ」"
+                                "\"But thanks to the data we got from Rise, we could analyze\nat least the wavelength pattern affected by the\ninstructions.\""
                             ]
                         },
                         {
@@ -10337,14 +10141,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いや、それが出来るのはアンタだけだと思うわよ・・・」"
+                                "\"No, I think you're the only one who could do that.\""
                             ]
                         },
                         {
@@ -10421,21 +10225,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふっ、まぁいいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それより・・・ノルズ？覚悟は出来ているわよね？」"
+                                "\"Heh, well, that's fine. More importantly... Nolz? You're\nprepared, right?\""
                             ]
                         },
                         {
@@ -10570,14 +10367,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひぃいいいいっ！！」"
+                                "\"Eeeeek!!!\""
                             ]
                         },
                         {
@@ -10654,21 +10451,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まっ、待ってくれ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ、謝る！！謝るから！！」"
+                                "\"Wait, please wait!! Ahh, I apologize!! I'll apologize, so\nplease!!\""
                             ]
                         },
                         {
@@ -10761,14 +10551,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ？謝るなんて当たり前でしょう？」"
+                                "\"Huh? Apologizing is a given, isn't it?\""
                             ]
                         },
                         {
@@ -10861,21 +10651,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]ノルズ"
+                                "Nolz"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひぃいいっ！！じょっ、情報も教えるっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だっ、だから許してくれ！！」"
+                                "\"Eeeek!! I'll also provide information!! So please, forgive\nme!!\""
                             ]
                         },
                         {
@@ -10968,21 +10751,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「情報も当然吐いて貰うわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・そのうえで今からぶちのめすけれどね」"
+                                "\"You'll naturally spill the information. And after that, I'm\ngoing to beat you down.\""
                             ]
                         },
                         {
@@ -11062,7 +10838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドカッ！！バキッ！！ドォォォンッ！！"
+                                "Thud!! Crack!! Boom!!"
                             ]
                         },
                         {
@@ -11080,14 +10856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふん、まぁ・・・今はこの辺にしといてあげるわ」"
+                                "Rise: \"Hmph, well... I'll leave it at this for now.\""
                             ]
                         },
                         {
@@ -11105,14 +10874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「後は連れ帰ってじっくりといろいろ話して貰うわよ」"
+                                "Rise: \"Later we'll take you back and have a thorough talk.\""
                             ]
                         },
                         {
@@ -11130,21 +10892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スエル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（すっ、すでにボロボロだけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "裏の繋がりについて話せる状況なのだろうか？）"
+                                "Suelle: (He's already beaten to a pulp... Is he even in a\nstate to talk about his connections behind the scenes?)"
                             ]
                         },
                         {
@@ -11179,14 +10927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リイス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし、連れて帰るわよ！！」"
+                                "Rise: \"Alright, let's take him back!!\""
                             ]
                         },
                         {
@@ -11257,14 +10998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうしてリイスとスエルは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人身売買組織に繋がる情報への手がかりをつかんだ。"
+                                "And so, Rise and Suelle obtained a lead on information\nconnected to the human trafficking organization."
                             ]
                         },
                         {
@@ -11282,7 +11016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一方、その頃・・・とある施設の地下では・・・。"
+                                "Meanwhile, at that time, in the basement of a certain\nfacility..."
                             ]
                         },
                         {

@@ -1752,7 +1752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・翌朝・・・。"
+                                "The following morning."
                             ]
                         },
                         {
@@ -1793,14 +1793,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、今の所何も問題ないわ・・・昨日も何も起きなかった」"
+                                "\"Yes, so far there are no problems. Nothing happened\nyesterday either.\""
                             ]
                         },
                         {
@@ -1811,21 +1811,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・後、今日から洞窟に入るから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連絡が取りづらくなるけれど心配しないで」"
+                                "\"Also, I'll be entering the cave from today, so it might be\ndifficult to contact me, but don't worry.\""
                             ]
                         },
                         {
@@ -1836,14 +1829,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それじゃ・・・また何かあったら連絡するわ」"
+                                "\"Well then, I'll get in touch again if anything happens.\""
                             ]
                         },
                         {
@@ -1925,7 +1918,7 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
@@ -1943,28 +1936,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（・・・対策はされているとは思ってはいたけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スエル達にこのことを伝えようとしても、思ったことと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "違う事を勝手に話してしまう・・・）"
+                                "\"(I thought there were measures in place, but when I try to\ntell Suelle and the others about this, I end up saying\nsomething different than what I intended.)\""
                             ]
                         },
                         {
@@ -1975,21 +1954,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（・・・それどころか街へ戻ろうとしても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行動に移した途端に体が動かなくなる）"
+                                "\"(Moreover, even when I try to return to town, my body\nbecomes immobile the moment I attempt to act.)\""
                             ]
                         },
                         {
@@ -2000,14 +1972,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（他にも何個か考えついたことを試したけれど、どれもダメだった）"
+                                "\"(I tried a few other things I could think of, but none of\nthem worked.)\""
                             ]
                         },
                         {
@@ -2018,21 +1990,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ということは、特定の言葉や行動を制限するタイプでなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私がマロゲスに反抗しようとする意志そのものに反応するタイプ)"
+                                "\"(This means it's not a type that restricts specific words\nor actions, but rather it reacts to my very will to defy\nMaroges.)\""
                             ]
                         },
                         {
@@ -2043,21 +2008,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どうにか現状を打破しようと策を練っても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意図を知っている私自身が妨害してしまうってことか）"
+                                "\"(So no matter how much I strategize to break the current\nsituation, my own self, knowing the intent, ends up\ninterfering.)\""
                             ]
                         },
                         {
@@ -2068,21 +2026,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（やっかいだけれど、それぐらいの対策をしておかないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな無防備に私を放置したりなんてしないわよね）"
+                                "\"(It's troublesome, but they wouldn't leave me so\ndefenseless without taking such measures, would they?)\""
                             ]
                         },
                         {
@@ -2107,7 +2058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少し息を吐いて、ティナは現状を整理する。"
+                                "Tina takes a brief breath and organizes her current\nsituation."
                             ]
                         },
                         {
@@ -2195,14 +2146,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（問題はいつ洗脳催眠系のスキルを使われたかって所よね・・・）"
+                                "\"(The question is when was I subjected to the brainwashing\nhypnosis skill...)\""
                             ]
                         },
                         {
@@ -2227,14 +2178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナは高ランクの剣士だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通の洗脳催眠の術式など、簡単にはじき返せる。"
+                                "Tina is a high-ranking swordsman. She can easily repel\nordinary brainwashing hypnosis techniques."
                             ]
                         },
                         {
@@ -2252,14 +2196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それだけでなく、フルボディという固有スキルはあらゆる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意識外の外的攻撃から応戦できるといったもの。"
+                                "Furthermore, her unique skill \"Full Body\" allows her to\ncounter any external attacks that are outside of\nconsciousness."
                             ]
                         },
                         {
@@ -2277,14 +2214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな万全なスキルを持っているティナが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗脳されていることにすら気が付かなかったのだ。"
+                                "Yet Tina, with such a foolproof skill, didn't even notice\nthat she was being brainwashed."
                             ]
                         },
                         {
@@ -2340,21 +2270,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（いや、一つだけ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えられるとしたら、悪寒を感じたあの隷属の契約のとき・・・）"
+                                "\"(No, there's only one thing that comes to mind, that chill\nI felt during that contract of servitude...)\""
                             ]
                         },
                         {
@@ -2365,21 +2288,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（思えば、あんなに不自然な悪寒。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通の状態であれば勘違いで済ます訳がない・・・）"
+                                "\"(Come to think of it, such an unnatural chill. Under normal\ncircumstances, I wouldn't have dismissed it as a mere\nmistake...)\""
                             ]
                         },
                         {
@@ -2390,14 +2306,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あの時すでに洗脳されていたって考える方が良いわね）"
+                                "\"(It's better to assume that I was already brainwashed at\nthat time.)\""
                             ]
                         },
                         {
@@ -2408,28 +2324,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そして、今なら思い出せる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの時に女騎士の礼儀という気持ち悪い偽りの常識を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教え込まされていたことを）"
+                                "\"(And now I can remember. At that time, they were\nindoctrinating me with the creepy false common sense of a\nlady knight's etiquette.)\""
                             ]
                         },
                         {
@@ -2447,7 +2349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナは昨日起きたことを思い出し顔を歪める。"
+                                "Tina recalls what happened yesterday and grimaces."
                             ]
                         },
                         {
@@ -2458,14 +2360,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(こちらの情報も筒抜け・・・か）"
+                                "\"(So my information has been completely leaked, huh?)\""
                             ]
                         },
                         {
@@ -2476,21 +2378,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（でも・・・もし本当に隷属の契約だとしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この洗脳術式は普通の術式でなく失われた術式・・・）"
+                                "\"(But if it really is a contract of servitude, then this\nbrainwashing technique isn't ordinary—it's a lost\ntechnique.)\""
                             ]
                         },
                         {
@@ -2501,32 +2396,14 @@
                                 0,
                                 2,
                                 0,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・古代術式ってことよね・・・」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                0,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本来の術式とは仕組みそのものが違う古代に使われていた術式。"
+                                "\"That means it's an ancient technique, right?\""
                             ]
                         },
                         {
@@ -2544,14 +2421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今では術式自体が伝わっていない・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かつて使われていたと文献にある程度。"
+                                "Ancient techniques are fundamentally different from modern\nones; they were used in the past."
                             ]
                         },
                         {
@@ -2569,14 +2439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしその法則が違う術式であれば・・・、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今あるスキルを使っても対策を立てれない。"
+                                "Nowadays, the techniques themselves are not passed down,\nonly mentioned in historical documents."
                             ]
                         },
                         {
@@ -2594,14 +2457,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは例えフルボディをもってしても"
+                                "However, if it's a technique with different principles, then\neven using current skills, I can't formulate a\ncountermeasure."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                0,
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "対処出来ないものであれば自動で反応できたところで意味がない。"
+                                "If it's something that can't be dealt with even with Full\nBody, then being able to react automatically is meaningless."
                             ]
                         },
                         {
@@ -2728,21 +2602,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（けれど、古代術式なんてもの・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マロゲスなんかに使えるはずがない）"
+                                "\"(But there's no way someone like Maroges could use an\nancient technique.)\""
                             ]
                         },
                         {
@@ -2753,28 +2620,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（・・・他に誰かいたとして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "古代術式が本当に使える術者なんてものがいたら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とんでもないことよ）"
+                                "\"(If there was someone else involved who could truly use\nancient techniques, that would be a tremendous problem.)\""
                             ]
                         },
                         {
@@ -2799,21 +2652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暫く考え込むティナだったが、術式が何かよりも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は自分の置かれている状況とそれを打破する方が先決だと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭を切り替える。"
+                                "After pondering for a while, Tina decides that rather than\nthe nature of the technique, it's more important to focus on\nher current situation and how to overcome it."
                             ]
                         },
                         {
@@ -2831,14 +2670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不快な感情を抑えて、昨日の出来事・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてマロゲスの言葉を鮮明に思い出していく。"
+                                "Suppressing her discomfort, she vividly recalls yesterday's\nevents and Maroges's words."
                             ]
                         },
                         {
@@ -2865,21 +2697,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そういえばマロゲスは昨日、心と体を調教と言っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗脳しているのに、心も調教？）"
+                                "\"(Come to think of it, Maroges mentioned training both my\nmind and body yesterday. Brainwashing and training the\nmind?)\""
                             ]
                         },
                         {
@@ -2890,21 +2715,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（女騎士の作法とやらを吹き込んだときのように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その日起きた行為を思い出させない事もできるのに・・・だ）"
+                                "\"(Just like when they indoctrinated me with the so-called\netiquette of a lady knight, they could make me forget the\nactions that took place that day.)\""
                             ]
                         },
                         {
@@ -2915,21 +2733,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（つまり、私の記憶を残すリスクを犯してでも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗脳を解いて意識を元に戻す必要があったとしたら・・・）"
+                                "\"(In other words, if there was a need to risk retaining my\nmemories and revert my consciousness from the\nbrainwashing...)\""
                             ]
                         },
                         {
@@ -2940,14 +2751,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（それは・・・何か）"
+                                "\"(That means...)\""
                             ]
                         },
                         {
@@ -3035,14 +2846,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（・・・洗脳された状態では心を調教出来ないと考えると)"
+                                "\"(If they consider that they can't train the mind while it's\nbrainwashed,)\""
                             ]
                         },
                         {
@@ -3053,21 +2864,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（それって心を折って防壁を取り除かない限り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "完全には洗脳出来ないんじゃないの？）"
+                                "\"(Doesn't that mean they can't fully brainwash unless they\nbreak the spirit and remove the barriers?)\""
                             ]
                         },
                         {
@@ -3078,21 +2882,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（隷属の契約が期間内の限定的な術式だとしたら・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗脳も契約がきれれば、なくなるわよね）"
+                                "\"(If the contract of servitude is a temporary technique\nwithin a set period, then the brainwashing would also\ndisappear once the contract expires, right?)\""
                             ]
                         },
                         {
@@ -3103,28 +2900,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（つまり完全に洗脳ってのは、心を完全に折ることで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "契約が終わっても洗脳状況を維持するためのものって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えられないかしら）"
+                                "\"(So could it be that complete brainwashing is about\nbreaking the spirit entirely so that the brainwashed state\nis maintained even after the contract ends?)\""
                             ]
                         },
                         {
@@ -3149,14 +2932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナは頭の中で洗脳と条件を組み立てていく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならば次に考えられるのはその対策だ。"
+                                "Tina constructs the logic of brainwashing and conditions in\nher head. The next thing to consider is a countermeasure."
                             ]
                         },
                         {
@@ -3190,21 +2966,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この洗脳催眠の発動条件が隷属の契約によって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もたらされたのならば契約であるこの依頼を完了）"
+                                "\"(If the activation condition for this brainwashing hypnosis\nwas brought about by the contract of servitude, then by\ncompleting this request...)\""
                             ]
                         },
                         {
@@ -3215,21 +2984,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（もしくは三週間たってセルフィが依頼破棄をした時点で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無効になる・・・）"
+                                "\"(Or if it becomes invalid when the three weeks are up and\nSelphie cancels the request...)\""
                             ]
                         },
                         {
@@ -3240,14 +3002,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（憶測の段階とはいえ可能性は充分にあると思う）"
+                                "\"(Although it's still conjecture, I think there's a good\nchance it's possible.)\""
                             ]
                         },
                         {
@@ -3272,21 +3034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ならば勝利条件は二つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!一つは依頼の達成。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!もう一つは三週間ティナが心折れずに耐えきることだ。"
+                                "Then there are two victory conditions. One is the completion\nof the request. The other is for Tina to endure without\nbreaking for three weeks."
                             ]
                         },
                         {
@@ -3313,21 +3061,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ただ、ここまで動いているってことは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし私が耐えきれず完全に洗脳催眠された場合）"
+                                "\"(However, the fact that things have progressed this far\nmeans that if I can't endure and am completely\nbrainwashed...)\""
                             ]
                         },
                         {
@@ -3338,21 +3079,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（依頼を達成しようが破棄しようが、洗脳されたまま・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この仮説も信憑性が高くなるわね）"
+                                "\"(Whether the request is completed or cancelled, I'll remain\nbrainwashed... This hypothesis also becomes more credible.)\""
                             ]
                         },
                         {
@@ -3377,14 +3111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして、このままマロゲスが任務を何事もなく終わらせることはない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ他に罠を仕掛けているだろう。"
+                                "And so, Maroges will not let the mission end without\nincident. There must be other traps set."
                             ]
                         },
                         {
@@ -3472,21 +3199,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（それでも・・・たとえ任務を長引かせようとも三週間が期限。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その間耐えきれば・・・この術は解ける可能性は高い）"
+                                "\"(Even so... even if they try to prolong the mission, three\nweeks is the limit. If I can endure that long, there's a\nhigh possibility that this spell will be broken.)\""
                             ]
                         },
                         {
@@ -3497,28 +3217,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（・・・まだ洗脳の浸食率はそこまで高くないハズ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意識をしっかり持って、ほんの僅かな異変にも気を付けて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警戒していれば対処できる段階・・・だと考えたいわね）"
+                                "\"(The rate of brainwashing erosion shouldn't be too high\nyet. If I keep my consciousness clear and stay alert to even\nthe slightest anomalies, I believe I'm at a stage where I\ncan deal with it.)\""
                             ]
                         },
                         {
@@ -3552,21 +3258,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（今はマロゲスに従いつつ、隙をついて依頼達成や"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗脳催眠を解く方法を見つけるしかないわ）"
+                                "\"(For now, I have no choice but to follow Maroges while\nlooking for an opportunity to complete the request or find a\nway to break the brainwashing hypnosis.)\""
                             ]
                         },
                         {
@@ -3608,14 +3307,14 @@
                                 0,
                                 2,
                                 2,
-                                "ティナ"
+                                "Tina"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（大丈夫・・・気をしっかり持って行けば乗り切れる）"
+                                "\"(It's okay... If I keep my spirits up, I can get through\nthis.)\""
                             ]
                         },
                         {

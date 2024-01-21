@@ -2356,14 +2356,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「驚いたわ・・・こんなギミックになっていたなんて」"
+                                "\"I'm surprised. I had no idea there would be such a\ngimmick.\""
                             ]
                         },
                         {
@@ -2456,14 +2456,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よくあるギミックだよ」"
+                                "\"It's a common gimmick.\""
                             ]
                         },
                         {
@@ -2556,14 +2556,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よくあるって・・・アンタ忍か何かなの？」"
+                                "\"Common? Are you some kind of ninja or something?\""
                             ]
                         },
                         {
@@ -2640,21 +2640,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]リイス"
+                                "Rise"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ってあんたのスペックの凄さなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今更考えても仕方がないわね・・・先に進みましょう」"
+                                "\"But there's no point thinking about how amazing your specs\nare now. Let's move on.\""
                             ]
                         },
                         {

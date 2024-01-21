@@ -12769,7 +12769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ．ＭＰが全回復した。"
+                                "HP and MP have been fully restored."
                             ]
                         },
                         {
@@ -13139,7 +13139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーションを手に入れた！"
+                                "I've obtained a potion!"
                             ]
                         },
                         {
@@ -13422,7 +13422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "500Gを手に入れた！"
+                                "Obtained 500G!"
                             ]
                         },
                         {
@@ -13706,7 +13706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "万能薬を手に入れた！"
+                                "I've obtained the panacea!"
                             ]
                         },
                         {
@@ -13839,8 +13839,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -13871,7 +13871,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "現在回想はありません。"
+                                "There are no flashbacks available at the moment."
                             ]
                         },
                         {
@@ -13892,8 +13892,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,
@@ -14039,8 +14039,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -14162,8 +14162,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,

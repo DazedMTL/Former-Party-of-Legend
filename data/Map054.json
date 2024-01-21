@@ -11695,7 +11695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリクサーを手に入れた！"
+                                "Obtained an Elixir!"
                             ]
                         },
                         {
@@ -11980,7 +11980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こううんこ(装飾品）を手に入れた！"
+                                "Obtained the Lucky Poop (accessory)!"
                             ]
                         },
                         {
@@ -12675,7 +12675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ．ＭＰが全回復した。"
+                                "HP and MP have been fully restored."
                             ]
                         },
                         {
@@ -12774,8 +12774,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想部屋",
-                                    "陰毛の表示切替"
+                                    "Recollection Room",
+                                    "Toggle pubic hair display"
                                 ],
                                 1,
                                 0,
@@ -12897,8 +12897,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "陰毛を表示する。",
-                                    "陰毛を表示しない。"
+                                    "Display pubic hair",
+                                    "Do not display pubic hair"
                                 ],
                                 1,
                                 0,

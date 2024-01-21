@@ -4337,14 +4337,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よし、これで大丈夫」"
+                                "\"Alright, this should be fine.\""
                             ]
                         },
                         {
@@ -4421,14 +4421,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しばらくすれば目を覚ますと思うよ」"
+                                "\"I think she'll wake up after a while.\""
                             ]
                         },
                         {
@@ -4521,14 +4521,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・ようやくティナを助けることが出来たわね」"
+                                "\"We've finally managed to save Tina, haven't we?\""
                             ]
                         },
                         {
@@ -4621,21 +4621,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん、でもマロゲスは逃がしちゃった・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ何か企らんでそうでちょっと怖いよ・・・」"
+                                "\"Yeah, but we let Maroges get away... He might still be\nplotting something, which is a bit scary...\""
                             ]
                         },
                         {
@@ -4728,14 +4721,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]セルフィ"
+                                "Selphie"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふっ、それは安心して。きっと大丈夫だから」"
+                                "\"Hehe, don't worry about that. I'm sure it'll be alright.\""
                             ]
                         },
                         {
@@ -4851,14 +4844,14 @@
                                 0,
                                 2,
                                 2,
-                                "\\FS[32]スエル"
+                                "Suelle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「？どういうこと？」"
+                                "\"What do you mean?\""
                             ]
                         },
                         {
@@ -4934,7 +4927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一方その頃マロゲスは・・・。"
+                                "Meanwhile, Maroges was..."
                             ]
                         },
                         {

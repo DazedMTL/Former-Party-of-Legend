@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "エルド街　法務部",
+    "displayName": "Eld City Legal Affairs Department",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -2707,14 +2707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ようこそ、ここは法務部です。」"
+                                "Receptionist: \"Welcome, this is the Legal Affairs\nDepartment.\""
                             ]
                         },
                         {
@@ -2732,14 +2725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申請内容をそちらにある書類に記載して、こちらまでお持ちください」"
+                                "Receptionist: \"Please fill out the application form over\nthere and bring it to me.\""
                             ]
                         },
                         {
@@ -2962,14 +2948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ようこそ、ここは法務部です。」"
+                                "Receptionist: \"Welcome, this is the Legal Affairs\nDepartment.\""
                             ]
                         },
                         {
@@ -2987,14 +2966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申請内容をそちらにある書類に記載して、こちらまでお持ちください」"
+                                "Receptionist: \"Please fill out the application details on\nthe documents over there and bring them to me.\""
                             ]
                         },
                         {
@@ -3217,21 +3189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "剣士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この法部で直接指名されて受けれる特殊依頼は凄く難易度が高い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かわりに依頼料も凄く高いんだ」"
+                                "Swordsman: \"The special requests that you can take on by\ndirect nomination in this department are incredibly\ndifficult, but the reward is also very high.\""
                             ]
                         },
                         {
@@ -3249,14 +3207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "剣士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつか俺も指名されて依頼が受けれるよう頑張るよ」"
+                                "Swordsman: \"Someday, I'll work hard so that I can be\nnominated and take on a request too.\""
                             ]
                         },
                         {
@@ -3480,14 +3431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村娘"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の村の近くに普段現れない魔物が沢山現れてね・・・」"
+                                "Village Girl: \"A lot of monsters that don't usually appear\nhave shown up near my village...\""
                             ]
                         },
                         {
@@ -3505,21 +3449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村娘"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それの状況申請にきたんだけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやらこの地域一帯で起こっているらしくて、待たされそうなの」"
+                                "Village Girl: \"I came to submit a request about that\nsituation, but it seems to be happening all over this\nregion, so it looks like I'll have to wait.\""
                             ]
                         },
                         {
@@ -3825,14 +3755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ようこそおいでくださいました。ご用件はなんでしょうか？」"
+                                "Receptionist: \"Welcome, how may I assist you today?\""
                             ]
                         },
                         {
@@ -3850,14 +3773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「セルフィに頼まれていた依頼の達成報告に来たわ」"
+                                "Tina: \"I've come to report the completion of a task Selphie\nhad requested of me.\""
                             ]
                         },
                         {
@@ -3875,21 +3791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ティナ様ですね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうぞ、二階応接間にてセルフィ様がお待ちです」"
+                                "Receptionist: \"You must be Tina-sama, correct? Please,\nSelphie-sama is waiting for you in the reception room on the\nsecond floor.\""
                             ]
                         },
                         {
@@ -3907,14 +3809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ティナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう」"
+                                "Tina: \"Thank you.\""
                             ]
                         },
                         {
